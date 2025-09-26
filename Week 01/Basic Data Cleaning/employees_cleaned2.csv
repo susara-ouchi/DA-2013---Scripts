@@ -1,0 +1,7 @@
+name,age,department,salary,start_date,email,salary_outlier,email_valid
+Ana,25.0,Sales,50000.0,2020-01-15,ana@example.com,False,True
+Ben,32.0,Marketing,45000.0,2020-02-15,ben@example.com,False,True
+Cara,29.0,Finance,120000.0,2021-03-01,cara@example.com,False,True
+D. Silva,34.0,Sales,191928.57142857142,2020-07-10,dsilva@example.com,False,True
+Eve,58.0,HR,1000000.0,2019-04-01,eve@example,True,False
+Frank,22.0,Marketing,38500.0,2018-12-01,frank@example.com,False,True
