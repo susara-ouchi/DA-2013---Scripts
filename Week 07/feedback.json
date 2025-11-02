@@ -1,0 +1,607 @@
+[
+    {
+        "custID": 45000,
+        "rating": 2,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45001,
+        "rating": 1,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45002,
+        "rating": 1,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45003,
+        "rating": 3,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45004,
+        "rating": 1,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45005,
+        "rating": 2,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45006,
+        "rating": 5,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45007,
+        "rating": 5,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45008,
+        "rating": 4,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45009,
+        "rating": 5,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45010,
+        "rating": 5,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45011,
+        "rating": 3,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45012,
+        "rating": 2,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45013,
+        "rating": 3,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45014,
+        "rating": 5,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45015,
+        "rating": 1,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45016,
+        "rating": 5,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45017,
+        "rating": 5,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45018,
+        "rating": 3,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45019,
+        "rating": 5,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45020,
+        "rating": 1,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45021,
+        "rating": 5,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45022,
+        "rating": 1,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45023,
+        "rating": 3,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45024,
+        "rating": 1,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45025,
+        "rating": 3,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45026,
+        "rating": 5,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45027,
+        "rating": 2,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45028,
+        "rating": 3,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45029,
+        "rating": 5,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45030,
+        "rating": 4,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45031,
+        "rating": 3,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45032,
+        "rating": 4,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45033,
+        "rating": 3,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45034,
+        "rating": 5,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45035,
+        "rating": 3,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45036,
+        "rating": 4,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45037,
+        "rating": 5,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45038,
+        "rating": 4,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45039,
+        "rating": 5,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45040,
+        "rating": 2,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45041,
+        "rating": 1,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45042,
+        "rating": 2,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45043,
+        "rating": 1,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45044,
+        "rating": 2,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45045,
+        "rating": 3,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45046,
+        "rating": 1,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45047,
+        "rating": 2,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45048,
+        "rating": 2,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45049,
+        "rating": 5,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45050,
+        "rating": 4,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45051,
+        "rating": 5,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45052,
+        "rating": 5,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45053,
+        "rating": 1,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45054,
+        "rating": 3,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45055,
+        "rating": 5,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45056,
+        "rating": 3,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45057,
+        "rating": 5,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45058,
+        "rating": 5,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45059,
+        "rating": 1,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45060,
+        "rating": 1,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45061,
+        "rating": 2,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45062,
+        "rating": 5,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45063,
+        "rating": 1,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45064,
+        "rating": 2,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45065,
+        "rating": 1,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45066,
+        "rating": 4,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45067,
+        "rating": 5,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45068,
+        "rating": 3,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45069,
+        "rating": 2,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45070,
+        "rating": 5,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45071,
+        "rating": 4,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45072,
+        "rating": 2,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45073,
+        "rating": 4,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45074,
+        "rating": 1,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45075,
+        "rating": 3,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45076,
+        "rating": 4,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45077,
+        "rating": 2,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45078,
+        "rating": 5,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45079,
+        "rating": 2,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45080,
+        "rating": 1,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45081,
+        "rating": 5,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45082,
+        "rating": 4,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45083,
+        "rating": 5,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45084,
+        "rating": 4,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45085,
+        "rating": 2,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45086,
+        "rating": 2,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45087,
+        "rating": 5,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45088,
+        "rating": 1,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45089,
+        "rating": 3,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45090,
+        "rating": 1,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45091,
+        "rating": 5,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45092,
+        "rating": 4,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45093,
+        "rating": 5,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45094,
+        "rating": 5,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45095,
+        "rating": 1,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45096,
+        "rating": 2,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45097,
+        "rating": 5,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45098,
+        "rating": 1,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45099,
+        "rating": 4,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45100,
+        "rating": 2,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45101,
+        "rating": 4,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45102,
+        "rating": 3,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45103,
+        "rating": 3,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45104,
+        "rating": 3,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45105,
+        "rating": 5,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45106,
+        "rating": 3,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45107,
+        "rating": 4,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45108,
+        "rating": 3,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45109,
+        "rating": 5,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45110,
+        "rating": 5,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45111,
+        "rating": 1,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45112,
+        "rating": 5,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45113,
+        "rating": 2,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45114,
+        "rating": 1,
+        "feedback": "Product quality issue"
+    },
+    {
+        "custID": 45115,
+        "rating": 1,
+        "feedback": "Good experience"
+    },
+    {
+        "custID": 45116,
+        "rating": 4,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45117,
+        "rating": 2,
+        "feedback": "Average"
+    },
+    {
+        "custID": 45118,
+        "rating": 5,
+        "feedback": "Delivery was late"
+    },
+    {
+        "custID": 45119,
+        "rating": 3,
+        "feedback": "Excellent service"
+    },
+    {
+        "custID": 45120,
+        "rating": 4,
+        "feedback": "Product quality issue"
+    }
+]
