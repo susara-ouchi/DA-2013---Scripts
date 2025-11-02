@@ -1,307 +1,301 @@
 customer_id,FirstName,LastName,Age,Country,transaction_id,product,amount,date,rating,feedback
-45000,Sipho,Naidoo,20,South Africa,41.0,Laptop,786.0,2025-02-10,2,Excellent service
-45000,Sipho,Naidoo,20,South Africa,72.0,Tablet,872.0,2025-03-13,2,Excellent service
-45000,Sipho,Naidoo,20,South Africa,89.0,Phone,1027.0,2025-03-30,2,Excellent service
-45000,Sipho,Naidoo,20,South Africa,91.0,Laptop,201.0,2025-04-01,2,Excellent service
-45001,Michael,Smith,37,USA,,,,,1,Average
-45002,Palesa,Petersen,40,South Africa,183.0,Headphones,725.0,2025-07-02,1,Average
-45002,Palesa,Petersen,40,South Africa,228.0,Phone,299.0,2025-08-16,1,Average
-45003,David,Smith,20,USA,115.0,Laptop,692.0,2025-04-25,3,Average
-45004,Noah,Taylor,27,Australia,127.0,Tablet,530.0,2025-05-07,1,Product quality issue
-45004,Noah,Taylor,27,Australia,143.0,Tablet,541.0,2025-05-23,1,Product quality issue
-45005,Gabriel,Moreau,36,France,117.0,Laptop,292.0,2025-04-27,2,Product quality issue
-45005,Gabriel,Moreau,36,France,198.0,Camera,180.0,2025-07-17,2,Product quality issue
-45005,Gabriel,Moreau,36,France,242.0,Tablet,371.0,2025-08-30,2,Product quality issue
-45005,Gabriel,Moreau,36,France,264.0,Headphones,848.0,2025-09-21,2,Product quality issue
-45006,Kasun,Wickramasinghe,34,Sri Lanka,222.0,Camera,443.0,2025-08-10,5,Average
-45006,Kasun,Wickramasinghe,34,Sri Lanka,246.0,Tablet,926.0,2025-09-03,5,Average
-45007,Ayanda,Nkosi,21,South Africa,73.0,Headphones,803.0,2025-03-14,5,Delivery was late
-45007,Ayanda,Nkosi,21,South Africa,186.0,Headphones,125.0,2025-07-05,5,Delivery was late
-45008,Karabo,Mokoena,21,South Africa,13.0,Headphones,1172.0,2025-01-13,4,Product quality issue
-45008,Karabo,Mokoena,21,South Africa,28.0,Laptop,825.0,2025-01-28,4,Product quality issue
-45008,Karabo,Mokoena,21,South Africa,149.0,Laptop,1173.0,2025-05-29,4,Product quality issue
-45008,Karabo,Mokoena,21,South Africa,269.0,Phone,1077.0,2025-09-26,4,Product quality issue
-45009,Alessandro,Esposito,19,Italy,112.0,Camera,1113.0,2025-04-22,5,Excellent service
-45009,Alessandro,Esposito,19,Italy,210.0,Laptop,1028.0,2025-07-29,5,Excellent service
-45009,Alessandro,Esposito,19,Italy,292.0,Camera,891.0,2025-10-19,5,Excellent service
-45010,Chloé,Petit,27,France,219.0,Laptop,344.0,2025-08-07,5,Product quality issue
-45011,Jonas,Meyer,20,Germany,220.0,Phone,355.0,2025-08-08,3,Delivery was late
-45012,Jack,Lee,25,Australia,82.0,Laptop,903.0,2025-03-23,2,Average
-45012,Jack,Lee,25,Australia,120.0,Headphones,587.0,2025-04-30,2,Average
-45013,Michael,Williams,26,USA,31.0,Phone,818.0,2025-01-31,3,Product quality issue
-45013,Michael,Williams,26,USA,252.0,Headphones,457.0,2025-09-09,3,Product quality issue
-45014,Ella,Roberts,31,England,5.0,Laptop,486.0,2025-01-05,5,Product quality issue
-45014,Ella,Roberts,31,England,47.0,Tablet,822.0,2025-02-16,5,Product quality issue
-45014,Ella,Roberts,31,England,258.0,Camera,598.0,2025-09-15,5,Product quality issue
-45015,Louis,Thomas,30,France,147.0,Laptop,542.0,2025-05-27,1,Average
-45015,Louis,Thomas,30,France,212.0,Laptop,253.0,2025-07-31,1,Average
-45016,Chiara,Romano,30,Italy,145.0,Phone,94.0,2025-05-25,5,Product quality issue
-45017,Marco,Romano,24,Italy,42.0,Laptop,595.0,2025-02-11,5,Good experience
-45017,Marco,Romano,24,Italy,253.0,Phone,1128.0,2025-09-10,5,Good experience
-45017,Marco,Romano,24,Italy,294.0,Tablet,862.0,2025-10-21,5,Good experience
-45018,Amelia,Roberts,30,England,,,,,3,Average
-45019,Louis,Moreau,26,France,85.0,Laptop,605.0,2025-03-26,5,Product quality issue
-45019,Louis,Moreau,26,France,118.0,Laptop,1017.0,2025-04-28,5,Product quality issue
-45019,Louis,Moreau,26,France,280.0,Headphones,412.0,2025-10-07,5,Product quality issue
-45019,Louis,Moreau,26,France,290.0,Laptop,1153.0,2025-10-17,5,Product quality issue
-45020,Ayanda,Mthembu,33,South Africa,19.0,Headphones,1053.0,2025-01-19,1,Delivery was late
-45020,Ayanda,Mthembu,33,South Africa,236.0,Tablet,230.0,2025-08-24,1,Delivery was late
-45020,Ayanda,Mthembu,33,South Africa,240.0,Phone,1048.0,2025-08-28,1,Delivery was late
-45021,Alessandro,Colombo,23,Italy,52.0,Phone,971.0,2025-02-21,5,Good experience
-45021,Alessandro,Colombo,23,Italy,66.0,Laptop,312.0,2025-03-07,5,Good experience
-45021,Alessandro,Colombo,23,Italy,148.0,Camera,1005.0,2025-05-28,5,Good experience
-45021,Alessandro,Colombo,23,Italy,156.0,Phone,137.0,2025-06-05,5,Good experience
-45021,Alessandro,Colombo,23,Italy,176.0,Camera,1021.0,2025-06-25,5,Good experience
-45021,Alessandro,Colombo,23,Italy,230.0,Tablet,872.0,2025-08-18,5,Good experience
-45022,Nathan,Durand,18,France,87.0,Phone,242.0,2025-03-28,1,Excellent service
-45022,Nathan,Durand,18,France,185.0,Camera,910.0,2025-07-04,1,Excellent service
-45022,Nathan,Durand,18,France,225.0,Camera,489.0,2025-08-13,1,Excellent service
-45023,Lukas,Weber,33,Germany,12.0,Camera,605.0,2025-01-12,3,Excellent service
-45023,Lukas,Weber,33,Germany,99.0,Laptop,561.0,2025-04-09,3,Excellent service
-45024,Isla,Wilson,23,England,,,,,1,Excellent service
-45025,Sophie,Walker,36,Australia,58.0,Laptop,542.0,2025-02-27,3,Excellent service
-45025,Sophie,Walker,36,Australia,132.0,Phone,425.0,2025-05-12,3,Excellent service
-45025,Sophie,Walker,36,Australia,165.0,Tablet,958.0,2025-06-14,3,Excellent service
-45025,Sophie,Walker,36,Australia,172.0,Tablet,391.0,2025-06-21,3,Excellent service
-45025,Sophie,Walker,36,Australia,221.0,Tablet,332.0,2025-08-09,3,Excellent service
-45025,Sophie,Walker,36,Australia,251.0,Phone,227.0,2025-09-08,3,Excellent service
-45026,Davide,Colombo,23,Italy,95.0,Phone,1157.0,2025-04-05,5,Product quality issue
-45026,Davide,Colombo,23,Italy,97.0,Phone,352.0,2025-04-07,5,Product quality issue
-45027,Grace,Wilson,39,Australia,32.0,Tablet,640.0,2025-02-01,2,Delivery was late
-45027,Grace,Wilson,39,Australia,104.0,Camera,719.0,2025-04-14,2,Delivery was late
-45028,Martina,Rossi,25,Italy,37.0,Phone,620.0,2025-02-06,3,Delivery was late
-45028,Martina,Rossi,25,Italy,208.0,Laptop,1070.0,2025-07-27,3,Delivery was late
-45029,Mia,Taylor,29,Australia,53.0,Tablet,285.0,2025-02-22,5,Product quality issue
-45029,Mia,Taylor,29,Australia,121.0,Phone,293.0,2025-05-01,5,Product quality issue
-45029,Mia,Taylor,29,Australia,141.0,Camera,73.0,2025-05-21,5,Product quality issue
-45029,Mia,Taylor,29,Australia,284.0,Laptop,69.0,2025-10-11,5,Product quality issue
-45030,William,Smith,32,USA,174.0,Headphones,1144.0,2025-06-23,4,Delivery was late
-45030,William,Smith,32,USA,248.0,Camera,504.0,2025-09-05,4,Delivery was late
-45030,William,Smith,32,USA,278.0,Tablet,1108.0,2025-10-05,4,Delivery was late
-45031,Charlie,Roberts,20,England,151.0,Phone,63.0,2025-05-31,3,Excellent service
-45031,Charlie,Roberts,20,England,189.0,Tablet,457.0,2025-07-08,3,Excellent service
-45032,Mia,Müller,25,Germany,79.0,Tablet,512.0,2025-03-20,4,Good experience
-45033,Sibusiso,Mthembu,36,South Africa,9.0,Tablet,427.0,2025-01-09,3,Product quality issue
-45033,Sibusiso,Mthembu,36,South Africa,90.0,Laptop,1012.0,2025-03-31,3,Product quality issue
-45034,Ella,Thompson,34,England,24.0,Phone,550.0,2025-01-24,5,Good experience
-45034,Ella,Thompson,34,England,195.0,Camera,1002.0,2025-07-14,5,Good experience
-45034,Ella,Thompson,34,England,293.0,Headphones,721.0,2025-10-20,5,Good experience
-45035,Ella,Wilson,40,England,211.0,Phone,505.0,2025-07-30,3,Excellent service
-45035,Ella,Wilson,40,England,247.0,Headphones,914.0,2025-09-04,3,Excellent service
-45036,James,Smith,18,USA,65.0,Phone,585.0,2025-03-06,4,Average
-45036,James,Smith,18,USA,88.0,Headphones,670.0,2025-03-29,4,Average
-45036,James,Smith,18,USA,119.0,Camera,797.0,2025-04-29,4,Average
-45037,Felix,Weber,32,Germany,265.0,Headphones,1083.0,2025-09-22,5,Average
-45038,Sophia,White,37,England,16.0,Headphones,371.0,2025-01-16,4,Product quality issue
-45038,Sophia,White,37,England,274.0,Camera,55.0,2025-10-01,4,Product quality issue
-45039,Jack,Evans,25,England,14.0,Laptop,893.0,2025-01-14,5,Good experience
-45039,Jack,Evans,25,England,180.0,Laptop,747.0,2025-06-29,5,Good experience
-45039,Jack,Evans,25,England,268.0,Camera,989.0,2025-09-25,5,Good experience
-45039,Jack,Evans,25,England,287.0,Headphones,793.0,2025-10-14,5,Good experience
-45040,Felix,Schmidt,31,Germany,136.0,Laptop,677.0,2025-05-16,2,Good experience
-45040,Felix,Schmidt,31,Germany,162.0,Tablet,946.0,2025-06-11,2,Good experience
-45040,Felix,Schmidt,31,Germany,298.0,Tablet,220.0,2025-10-25,2,Good experience
-45041,Sanduni,Jayasinghe,28,Sri Lanka,,,,,1,Product quality issue
-45042,Kagiso,Petersen,28,South Africa,126.0,Camera,570.0,2025-05-06,2,Delivery was late
-45043,Sophie,Martin,25,Australia,17.0,Laptop,981.0,2025-01-17,1,Good experience
-45043,Sophie,Martin,25,Australia,48.0,Camera,909.0,2025-02-17,1,Good experience
-45044,Oliver,Lewis,26,England,23.0,Headphones,121.0,2025-01-23,2,Average
-45044,Oliver,Lewis,26,England,134.0,Tablet,498.0,2025-05-14,2,Average
-45044,Oliver,Lewis,26,England,295.0,Camera,362.0,2025-10-22,2,Average
-45045,Gabriel,Martin,37,France,15.0,Phone,896.0,2025-01-15,3,Average
-45045,Gabriel,Martin,37,France,18.0,Phone,572.0,2025-01-18,3,Average
-45045,Gabriel,Martin,37,France,45.0,Tablet,1090.0,2025-02-14,3,Average
-45045,Gabriel,Martin,37,France,202.0,Phone,933.0,2025-07-21,3,Average
-45046,Karabo,Petersen,27,South Africa,59.0,Camera,1139.0,2025-02-28,1,Good experience
-45046,Karabo,Petersen,27,South Africa,96.0,Camera,1063.0,2025-04-06,1,Good experience
-45046,Karabo,Petersen,27,South Africa,113.0,Headphones,801.0,2025-04-23,1,Good experience
-45046,Karabo,Petersen,27,South Africa,114.0,Camera,933.0,2025-04-24,1,Good experience
-45046,Karabo,Petersen,27,South Africa,191.0,Phone,1099.0,2025-07-10,1,Good experience
-45046,Karabo,Petersen,27,South Africa,205.0,Camera,452.0,2025-07-24,1,Good experience
-45046,Karabo,Petersen,27,South Africa,206.0,Laptop,932.0,2025-07-25,1,Good experience
-45047,Sipho,Nkosi,21,South Africa,74.0,Phone,171.0,2025-03-15,2,Product quality issue
-45047,Sipho,Nkosi,21,South Africa,238.0,Tablet,332.0,2025-08-26,2,Product quality issue
-45047,Sipho,Nkosi,21,South Africa,261.0,Phone,1185.0,2025-09-18,2,Product quality issue
-45048,Camille,Leroy,40,France,46.0,Phone,943.0,2025-02-15,2,Average
-45048,Camille,Leroy,40,France,144.0,Camera,918.0,2025-05-24,2,Average
-45048,Camille,Leroy,40,France,178.0,Headphones,448.0,2025-06-27,2,Average
-45048,Camille,Leroy,40,France,179.0,Phone,803.0,2025-06-28,2,Average
-45049,William,Johnson,37,USA,1.0,Tablet,672.0,2025-01-01,5,Product quality issue
-45049,William,Johnson,37,USA,233.0,Headphones,658.0,2025-08-21,5,Product quality issue
-45050,Naledi,Mokoena,40,South Africa,256.0,Tablet,1047.0,2025-09-13,4,Excellent service
-45050,Naledi,Mokoena,40,South Africa,291.0,Headphones,314.0,2025-10-18,4,Excellent service
-45051,Hugo,Leroy,23,France,57.0,Tablet,458.0,2025-02-26,5,Good experience
-45051,Hugo,Leroy,23,France,289.0,Laptop,1143.0,2025-10-16,5,Good experience
-45052,Sarah,Smith,24,USA,,,,,5,Average
-45053,Lukas,Schmidt,33,Germany,76.0,Laptop,902.0,2025-03-17,1,Excellent service
-45053,Lukas,Schmidt,33,Germany,299.0,Tablet,689.0,2025-10-26,1,Excellent service
-45054,Sipho,Petersen,31,South Africa,100.0,Camera,190.0,2025-04-10,3,Average
-45055,Emma,Wagner,30,Germany,81.0,Tablet,194.0,2025-03-22,5,Delivery was late
-45055,Emma,Wagner,30,Germany,93.0,Tablet,1144.0,2025-04-03,5,Delivery was late
-45055,Emma,Wagner,30,Germany,98.0,Laptop,97.0,2025-04-08,5,Delivery was late
-45056,Sanduni,Gunasekara,23,Sri Lanka,146.0,Phone,1006.0,2025-05-26,3,Excellent service
-45056,Sanduni,Gunasekara,23,Sri Lanka,214.0,Camera,475.0,2025-08-02,3,Excellent service
-45057,Noah,Lee,23,Australia,152.0,Laptop,1045.0,2025-06-01,5,Excellent service
-45057,Noah,Lee,23,Australia,227.0,Tablet,149.0,2025-08-15,5,Excellent service
-45057,Noah,Lee,23,Australia,249.0,Headphones,851.0,2025-09-06,5,Excellent service
-45058,Ayanda,Jansen,31,South Africa,154.0,Tablet,1151.0,2025-06-03,5,Excellent service
-45058,Ayanda,Jansen,31,South Africa,297.0,Headphones,270.0,2025-10-24,5,Excellent service
-45059,Leon,Meyer,38,Germany,51.0,Camera,1081.0,2025-02-20,1,Delivery was late
-45059,Leon,Meyer,38,Germany,103.0,Headphones,808.0,2025-04-13,1,Delivery was late
-45059,Leon,Meyer,38,Germany,133.0,Tablet,64.0,2025-05-13,1,Delivery was late
-45059,Leon,Meyer,38,Germany,271.0,Camera,386.0,2025-09-28,1,Delivery was late
-45060,Lerato,Naidoo,32,South Africa,92.0,Headphones,216.0,2025-04-02,1,Average
-45060,Lerato,Naidoo,32,South Africa,101.0,Laptop,165.0,2025-04-11,1,Average
-45060,Lerato,Naidoo,32,South Africa,194.0,Headphones,1185.0,2025-07-13,1,Average
-45060,Lerato,Naidoo,32,South Africa,254.0,Camera,816.0,2025-09-11,1,Average
-45060,Lerato,Naidoo,32,South Africa,260.0,Laptop,951.0,2025-09-17,1,Average
-45061,Noah,Smith,22,Australia,,,,,2,Product quality issue
-45062,Sipho,Naidoo,40,South Africa,4.0,Phone,930.0,2025-01-04,5,Good experience
-45062,Sipho,Naidoo,40,South Africa,80.0,Tablet,55.0,2025-03-21,5,Good experience
-45062,Sipho,Naidoo,40,South Africa,107.0,Laptop,746.0,2025-04-17,5,Good experience
-45062,Sipho,Naidoo,40,South Africa,129.0,Camera,702.0,2025-05-09,5,Good experience
-45062,Sipho,Naidoo,40,South Africa,259.0,Phone,73.0,2025-09-16,5,Good experience
-45063,Grace,Walker,29,Australia,50.0,Camera,116.0,2025-02-19,1,Excellent service
-45063,Grace,Walker,29,Australia,160.0,Laptop,56.0,2025-06-09,1,Excellent service
-45064,Lukas,Meyer,37,Germany,169.0,Phone,788.0,2025-06-18,2,Average
-45064,Lukas,Meyer,37,Germany,170.0,Headphones,601.0,2025-06-19,2,Average
-45065,Ayanda,Naidoo,28,South Africa,166.0,Tablet,133.0,2025-06-15,1,Good experience
-45065,Ayanda,Naidoo,28,South Africa,216.0,Phone,956.0,2025-08-04,1,Good experience
-45065,Ayanda,Naidoo,28,South Africa,235.0,Phone,88.0,2025-08-23,1,Good experience
-45065,Ayanda,Naidoo,28,South Africa,300.0,Phone,122.0,2025-10-27,1,Good experience
-45066,Chloé,Petit,40,France,,,,,4,Excellent service
-45067,Luca,Bianchi,20,Italy,83.0,Tablet,405.0,2025-03-24,5,Excellent service
-45067,Luca,Bianchi,20,Italy,137.0,Phone,937.0,2025-05-17,5,Excellent service
-45067,Luca,Bianchi,20,Italy,266.0,Camera,1116.0,2025-09-23,5,Excellent service
-45068,Lea,Weber,18,Germany,61.0,Laptop,853.0,2025-03-02,3,Good experience
-45068,Lea,Weber,18,Germany,285.0,Phone,1137.0,2025-10-12,3,Good experience
-45069,Lucas,Moreau,32,France,161.0,Laptop,841.0,2025-06-10,2,Delivery was late
-45069,Lucas,Moreau,32,France,200.0,Tablet,351.0,2025-07-19,2,Delivery was late
-45070,Matteo,Colombo,28,Italy,62.0,Tablet,466.0,2025-03-03,5,Product quality issue
-45070,Matteo,Colombo,28,Italy,273.0,Laptop,824.0,2025-09-30,5,Product quality issue
-45071,Lucas,Durand,23,France,182.0,Headphones,780.0,2025-07-01,4,Average
-45072,Hugo,Bernard,39,France,34.0,Headphones,1127.0,2025-02-03,2,Average
-45072,Hugo,Bernard,39,France,139.0,Laptop,646.0,2025-05-19,2,Average
-45072,Hugo,Bernard,39,France,187.0,Tablet,757.0,2025-07-06,2,Average
-45072,Hugo,Bernard,39,France,243.0,Headphones,654.0,2025-08-31,2,Average
-45073,Davide,Marino,39,Italy,33.0,Headphones,523.0,2025-02-02,4,Excellent service
-45073,Davide,Marino,39,Italy,68.0,Camera,1043.0,2025-03-09,4,Excellent service
-45073,Davide,Marino,39,Italy,283.0,Headphones,138.0,2025-10-10,4,Excellent service
-45074,Sara,Ferrari,31,Italy,125.0,Camera,1198.0,2025-05-05,1,Excellent service
-45074,Sara,Ferrari,31,Italy,184.0,Headphones,405.0,2025-07-03,1,Excellent service
-45075,Camille,Moreau,39,France,279.0,Phone,1089.0,2025-10-06,3,Average
-45076,Harry,Lewis,34,England,122.0,Laptop,117.0,2025-05-02,4,Good experience
-45076,Harry,Lewis,34,England,196.0,Laptop,330.0,2025-07-15,4,Good experience
-45077,James,Smith,24,USA,123.0,Phone,783.0,2025-05-03,2,Product quality issue
-45078,Lucas,Dubois,30,France,171.0,Laptop,1178.0,2025-06-20,5,Delivery was late
-45079,Isuru,Wickramasinghe,33,Sri Lanka,86.0,Laptop,672.0,2025-03-27,2,Product quality issue
-45079,Isuru,Wickramasinghe,33,Sri Lanka,204.0,Tablet,301.0,2025-07-23,2,Product quality issue
-45080,Rashmi,Fernando,29,Sri Lanka,108.0,Phone,935.0,2025-04-18,1,Delivery was late
-45080,Rashmi,Fernando,29,Sri Lanka,131.0,Laptop,385.0,2025-05-11,1,Delivery was late
-45080,Rashmi,Fernando,29,Sri Lanka,155.0,Camera,490.0,2025-06-04,1,Delivery was late
-45081,Isla,Lewis,39,England,78.0,Phone,316.0,2025-03-19,5,Delivery was late
-45082,Sibusiso,Khumalo,35,South Africa,6.0,Tablet,163.0,2025-01-06,4,Average
-45082,Sibusiso,Khumalo,35,South Africa,110.0,Tablet,157.0,2025-04-20,4,Average
-45082,Sibusiso,Khumalo,35,South Africa,257.0,Tablet,65.0,2025-09-14,4,Average
-45083,Charlotte,Thompson,29,England,29.0,Tablet,524.0,2025-01-29,5,Product quality issue
-45083,Charlotte,Thompson,29,England,175.0,Phone,53.0,2025-06-24,5,Product quality issue
-45083,Charlotte,Thompson,29,England,272.0,Tablet,1088.0,2025-09-29,5,Product quality issue
-45083,Charlotte,Thompson,29,England,276.0,Laptop,313.0,2025-10-03,5,Product quality issue
-45084,Chathura,Silva,31,Sri Lanka,55.0,Phone,1115.0,2025-02-24,4,Product quality issue
-45084,Chathura,Silva,31,Sri Lanka,106.0,Camera,1014.0,2025-04-16,4,Product quality issue
-45084,Chathura,Silva,31,Sri Lanka,217.0,Camera,648.0,2025-08-05,4,Product quality issue
-45085,Lea,Wagner,31,Germany,8.0,Headphones,730.0,2025-01-08,2,Excellent service
-45085,Lea,Wagner,31,Germany,11.0,Camera,576.0,2025-01-11,2,Excellent service
-45085,Lea,Wagner,31,Germany,71.0,Camera,162.0,2025-03-12,2,Excellent service
-45085,Lea,Wagner,31,Germany,135.0,Phone,1059.0,2025-05-15,2,Excellent service
-45085,Lea,Wagner,31,Germany,232.0,Phone,495.0,2025-08-20,2,Excellent service
-45086,Sophie,Walker,19,Australia,69.0,Headphones,371.0,2025-03-10,2,Excellent service
-45086,Sophie,Walker,19,Australia,94.0,Headphones,154.0,2025-04-04,2,Excellent service
-45086,Sophie,Walker,19,Australia,296.0,Tablet,541.0,2025-10-23,2,Excellent service
-45087,Emma,Bernard,26,France,158.0,Laptop,921.0,2025-06-07,5,Product quality issue
-45088,Emily,Davis,35,USA,109.0,Camera,865.0,2025-04-19,1,Product quality issue
-45088,Emily,Davis,35,USA,159.0,Camera,243.0,2025-06-08,1,Product quality issue
-45089,Liam,Wilson,34,Australia,,,,,3,Average
-45090,Chloé,Moreau,37,France,21.0,Laptop,506.0,2025-01-21,1,Average
-45091,Olivia,Miller,32,USA,2.0,Laptop,300.0,2025-01-02,5,Delivery was late
-45091,Olivia,Miller,32,USA,56.0,Headphones,751.0,2025-02-25,5,Delivery was late
-45091,Olivia,Miller,32,USA,60.0,Phone,572.0,2025-03-01,5,Delivery was late
-45091,Olivia,Miller,32,USA,124.0,Laptop,876.0,2025-05-04,5,Delivery was late
-45091,Olivia,Miller,32,USA,164.0,Headphones,595.0,2025-06-13,5,Delivery was late
-45091,Olivia,Miller,32,USA,223.0,Tablet,1025.0,2025-08-11,5,Delivery was late
-45092,Naledi,Botha,32,South Africa,35.0,Camera,954.0,2025-02-04,4,Excellent service
-45092,Naledi,Botha,32,South Africa,168.0,Tablet,369.0,2025-06-17,4,Excellent service
-45092,Naledi,Botha,32,South Africa,177.0,Tablet,1107.0,2025-06-26,4,Excellent service
-45093,Sophia,Lewis,33,England,10.0,Tablet,708.0,2025-01-10,5,Good experience
-45093,Sophia,Lewis,33,England,84.0,Camera,377.0,2025-03-25,5,Good experience
-45094,Sara,Romano,18,Italy,116.0,Headphones,349.0,2025-04-26,5,Delivery was late
-45094,Sara,Romano,18,Italy,130.0,Camera,1185.0,2025-05-10,5,Delivery was late
-45094,Sara,Romano,18,Italy,153.0,Phone,99.0,2025-06-02,5,Delivery was late
-45094,Sara,Romano,18,Italy,167.0,Tablet,727.0,2025-06-16,5,Delivery was late
-45094,Sara,Romano,18,Italy,229.0,Camera,782.0,2025-08-17,5,Delivery was late
-45095,Emma,Schneider,21,Germany,3.0,Headphones,429.0,2025-01-03,1,Good experience
-45095,Emma,Schneider,21,Germany,203.0,Tablet,899.0,2025-07-22,1,Good experience
-45096,Sibusiso,Botha,38,South Africa,188.0,Phone,490.0,2025-07-07,2,Good experience
-45097,Nadeesha,Gunasekara,37,Sri Lanka,215.0,Tablet,765.0,2025-08-03,5,Excellent service
-45097,Nadeesha,Gunasekara,37,Sri Lanka,234.0,Phone,1067.0,2025-08-22,5,Excellent service
-45097,Nadeesha,Gunasekara,37,Sri Lanka,270.0,Camera,1054.0,2025-09-27,5,Excellent service
-45098,Boitumelo,Mthembu,22,South Africa,64.0,Tablet,291.0,2025-03-05,1,Good experience
-45098,Boitumelo,Mthembu,22,South Africa,173.0,Headphones,742.0,2025-06-22,1,Good experience
-45098,Boitumelo,Mthembu,22,South Africa,192.0,Phone,993.0,2025-07-11,1,Good experience
-45099,Lucas,Walker,24,Australia,26.0,Tablet,760.0,2025-01-26,4,Excellent service
-45099,Lucas,Walker,24,Australia,54.0,Tablet,77.0,2025-02-23,4,Excellent service
-45099,Lucas,Walker,24,Australia,75.0,Tablet,1049.0,2025-03-16,4,Excellent service
-45099,Lucas,Walker,24,Australia,77.0,Headphones,1104.0,2025-03-18,4,Excellent service
-45099,Lucas,Walker,24,Australia,199.0,Laptop,1144.0,2025-07-18,4,Excellent service
-45100,Lea,Hoffmann,20,Germany,43.0,Camera,105.0,2025-02-12,2,Good experience
-45100,Lea,Hoffmann,20,Germany,193.0,Headphones,954.0,2025-07-12,2,Good experience
-45100,Lea,Hoffmann,20,Germany,207.0,Phone,969.0,2025-07-26,2,Good experience
-45101,Sibusiso,Khumalo,30,South Africa,138.0,Phone,149.0,2025-05-18,4,Excellent service
-45101,Sibusiso,Khumalo,30,South Africa,209.0,Camera,203.0,2025-07-28,4,Excellent service
-45101,Sibusiso,Khumalo,30,South Africa,245.0,Camera,1080.0,2025-09-02,4,Excellent service
-45102,Ayanda,Mthembu,28,South Africa,105.0,Tablet,1190.0,2025-04-15,3,Good experience
-45102,Ayanda,Mthembu,28,South Africa,255.0,Tablet,702.0,2025-09-12,3,Good experience
-45103,Sibusiso,Khumalo,27,South Africa,25.0,Tablet,1066.0,2025-01-25,3,Excellent service
-45103,Sibusiso,Khumalo,27,South Africa,181.0,Camera,1134.0,2025-06-30,3,Excellent service
-45103,Sibusiso,Khumalo,27,South Africa,197.0,Tablet,751.0,2025-07-16,3,Excellent service
-45103,Sibusiso,Khumalo,27,South Africa,241.0,Camera,83.0,2025-08-29,3,Excellent service
-45104,Thabo,Petersen,35,South Africa,39.0,Headphones,338.0,2025-02-08,3,Delivery was late
-45104,Thabo,Petersen,35,South Africa,250.0,Camera,166.0,2025-09-07,3,Delivery was late
-45104,Thabo,Petersen,35,South Africa,263.0,Headphones,704.0,2025-09-20,3,Delivery was late
-45105,Robert,Taylor,38,USA,49.0,Tablet,628.0,2025-02-18,5,Delivery was late
-45105,Robert,Taylor,38,USA,267.0,Headphones,53.0,2025-09-24,5,Delivery was late
-45106,Sarah,Taylor,34,USA,7.0,Headphones,1025.0,2025-01-07,3,Good experience
-45106,Sarah,Taylor,34,USA,22.0,Headphones,794.0,2025-01-22,3,Good experience
-45107,Sibusiso,De Villiers,19,South Africa,163.0,Phone,729.0,2025-06-12,4,Average
-45108,Ethan,Williams,33,Australia,40.0,Camera,1143.0,2025-02-09,3,Delivery was late
-45108,Ethan,Williams,33,Australia,277.0,Headphones,752.0,2025-10-04,3,Delivery was late
-45109,Chathura,Wijesinghe,34,Sri Lanka,67.0,Camera,643.0,2025-03-08,5,Delivery was late
-45109,Chathura,Wijesinghe,34,Sri Lanka,70.0,Headphones,1050.0,2025-03-11,5,Delivery was late
-45109,Chathura,Wijesinghe,34,Sri Lanka,231.0,Headphones,992.0,2025-08-19,5,Delivery was late
-45110,Chloé,Durand,33,France,38.0,Phone,289.0,2025-02-07,5,Good experience
-45110,Chloé,Durand,33,France,286.0,Laptop,413.0,2025-10-13,5,Good experience
-45111,Ella,Lewis,22,England,27.0,Laptop,514.0,2025-01-27,1,Delivery was late
-45111,Ella,Lewis,22,England,157.0,Camera,636.0,2025-06-06,1,Delivery was late
-45111,Ella,Lewis,22,England,226.0,Laptop,791.0,2025-08-14,1,Delivery was late
-45111,Ella,Lewis,22,England,239.0,Tablet,272.0,2025-08-27,1,Delivery was late
-45112,Sarah,Taylor,33,USA,150.0,Phone,228.0,2025-05-30,5,Product quality issue
-45112,Sarah,Taylor,33,USA,224.0,Camera,379.0,2025-08-12,5,Product quality issue
-45112,Sarah,Taylor,33,USA,262.0,Headphones,126.0,2025-09-19,5,Product quality issue
-45113,Kagiso,De Villiers,32,South Africa,36.0,Laptop,435.0,2025-02-05,2,Excellent service
-45113,Kagiso,De Villiers,32,South Africa,111.0,Headphones,941.0,2025-04-21,2,Excellent service
-45113,Kagiso,De Villiers,32,South Africa,201.0,Laptop,934.0,2025-07-20,2,Excellent service
-45113,Kagiso,De Villiers,32,South Africa,244.0,Headphones,1003.0,2025-09-01,2,Excellent service
-45114,Thabo,Mokoena,40,South Africa,,,,,1,Product quality issue
-45115,Sophie,Jones,32,Australia,44.0,Camera,294.0,2025-02-13,1,Good experience
-45115,Sophie,Jones,32,Australia,63.0,Headphones,641.0,2025-03-04,1,Good experience
-45115,Sophie,Jones,32,Australia,128.0,Tablet,1014.0,2025-05-08,1,Good experience
-45115,Sophie,Jones,32,Australia,190.0,Phone,210.0,2025-07-09,1,Good experience
-45115,Sophie,Jones,32,Australia,218.0,Laptop,151.0,2025-08-06,1,Good experience
-45115,Sophie,Jones,32,Australia,275.0,Tablet,404.0,2025-10-02,1,Good experience
-45116,Sipho,Naidoo,39,South Africa,20.0,Camera,543.0,2025-01-20,4,Excellent service
-45117,Amelia,Wilson,30,England,30.0,Camera,1199.0,2025-01-30,2,Average
-45117,Amelia,Wilson,30,England,142.0,Phone,863.0,2025-05-22,2,Average
-45118,Charlotte,Evans,32,England,102.0,Camera,554.0,2025-04-12,5,Delivery was late
-45118,Charlotte,Evans,32,England,213.0,Phone,971.0,2025-08-01,5,Delivery was late
-45119,Leon,Hoffmann,34,Germany,140.0,Tablet,1176.0,2025-05-20,3,Excellent service
-45119,Leon,Hoffmann,34,Germany,281.0,Laptop,736.0,2025-10-08,3,Excellent service
+45000,Chathura,Rathnayake,24,Sri Lanka,1,Headphones,788,2025-01-01,1,Good experience
+45000,Chathura,Rathnayake,24,Sri Lanka,158,Camera,1112,2025-06-07,1,Good experience
+45001,Zoe,Lee,37,Australia,2,Headphones,76,2025-01-02,3,Excellent service
+45001,Zoe,Lee,37,Australia,139,Camera,983,2025-05-19,3,Excellent service
+45001,Zoe,Lee,37,Australia,246,Laptop,968,2025-09-03,3,Excellent service
+45001,Zoe,Lee,37,Australia,283,Laptop,670,2025-10-10,3,Excellent service
+45002,Léa,Martin,22,France,3,Tablet,209,2025-01-03,5,Delivery was late
+45002,Léa,Martin,22,France,165,Phone,500,2025-06-14,5,Delivery was late
+45002,Léa,Martin,22,France,198,Tablet,309,2025-07-17,5,Delivery was late
+45003,David,Anderson,36,USA,4,Headphones,277,2025-01-04,2,Excellent service
+45003,David,Anderson,36,USA,144,Camera,68,2025-05-24,2,Excellent service
+45004,Jessica,Miller,26,USA,5,Laptop,996,2025-01-05,2,Average
+45004,Jessica,Miller,26,USA,257,Camera,252,2025-09-14,2,Average
+45004,Jessica,Miller,26,USA,278,Headphones,547,2025-10-05,2,Average
+45004,Jessica,Miller,26,USA,286,Camera,958,2025-10-13,2,Average
+45004,Jessica,Miller,26,USA,297,Camera,224,2025-10-24,2,Average
+45005,Charlie,Allen,34,England,6,Tablet,925,2025-01-06,4,Good experience
+45006,Jessica,Brown,38,USA,7,Camera,902,2025-01-07,2,Excellent service
+45007,Hannah,Becker,18,Germany,8,Tablet,186,2025-01-08,2,Delivery was late
+45007,Hannah,Becker,18,Germany,182,Headphones,51,2025-07-01,2,Delivery was late
+45007,Hannah,Becker,18,Germany,200,Headphones,507,2025-07-19,2,Delivery was late
+45008,Kagiso,Jansen,32,South Africa,9,Headphones,118,2025-01-09,1,Average
+45008,Kagiso,Jansen,32,South Africa,167,Tablet,545,2025-06-16,1,Average
+45008,Kagiso,Jansen,32,South Africa,180,Phone,912,2025-06-29,1,Average
+45008,Kagiso,Jansen,32,South Africa,247,Headphones,912,2025-09-04,1,Average
+45008,Kagiso,Jansen,32,South Africa,259,Headphones,148,2025-09-16,1,Average
+45008,Kagiso,Jansen,32,South Africa,300,Laptop,843,2025-10-27,1,Average
+45009,Gabriel,Leroy,21,France,10,Phone,810,2025-01-10,2,Good experience
+45009,Gabriel,Leroy,21,France,135,Tablet,800,2025-05-15,2,Good experience
+45009,Gabriel,Leroy,21,France,211,Camera,850,2025-07-30,2,Good experience
+45010,Charlotte,Hall,30,England,11,Camera,386,2025-01-11,5,Excellent service
+45010,Charlotte,Hall,30,England,124,Tablet,247,2025-05-04,5,Excellent service
+45011,Gabriel,Richard,23,France,12,Camera,362,2025-01-12,3,Delivery was late
+45011,Gabriel,Richard,23,France,217,Headphones,495,2025-08-05,3,Delivery was late
+45012,Marco,Ricci,20,Italy,13,Tablet,962,2025-01-13,4,Good experience
+45012,Marco,Ricci,20,Italy,137,Phone,885,2025-05-17,4,Good experience
+45012,Marco,Ricci,20,Italy,215,Tablet,708,2025-08-03,4,Good experience
+45012,Marco,Ricci,20,Italy,262,Tablet,903,2025-09-19,4,Good experience
+45013,Sophie,Schneider,34,Germany,14,Laptop,855,2025-01-14,2,Excellent service
+45014,Boitumelo,Jansen,19,South Africa,15,Tablet,793,2025-01-15,3,Delivery was late
+45015,Sophia,White,35,England,16,Tablet,554,2025-01-16,3,Product quality issue
+45015,Sophia,White,35,England,170,Camera,708,2025-06-19,3,Product quality issue
+45015,Sophia,White,35,England,242,Laptop,829,2025-08-30,3,Product quality issue
+45016,Emily,Davis,25,USA,17,Headphones,587,2025-01-17,5,Average
+45016,Emily,Davis,25,USA,146,Phone,793,2025-05-26,5,Average
+45016,Emily,Davis,25,USA,151,Laptop,1041,2025-05-31,5,Average
+45016,Emily,Davis,25,USA,152,Tablet,168,2025-06-01,5,Average
+45016,Emily,Davis,25,USA,154,Phone,1119,2025-06-03,5,Average
+45016,Emily,Davis,25,USA,171,Phone,352,2025-06-20,5,Average
+45017,James,Miller,37,USA,18,Tablet,596,2025-01-18,1,Delivery was late
+45018,Chloe,Smith,36,Australia,19,Tablet,129,2025-01-19,1,Delivery was late
+45019,Davide,Bianchi,28,Italy,20,Laptop,597,2025-01-20,5,Excellent service
+45020,Manon,Petit,37,France,21,Camera,905,2025-01-21,5,Good experience
+45020,Manon,Petit,37,France,269,Phone,83,2025-09-26,5,Good experience
+45021,David,Jones,18,USA,22,Headphones,1009,2025-01-22,2,Excellent service
+45021,David,Jones,18,USA,214,Tablet,932,2025-08-02,2,Excellent service
+45022,Manon,Robert,36,France,23,Laptop,335,2025-01-23,5,Excellent service
+45022,Manon,Robert,36,France,279,Camera,995,2025-10-06,5,Excellent service
+45022,Manon,Robert,36,France,287,Laptop,545,2025-10-14,5,Excellent service
+45023,Noah,Williams,36,Australia,24,Phone,926,2025-01-24,1,Excellent service
+45023,Noah,Williams,36,Australia,265,Tablet,160,2025-09-22,1,Excellent service
+45024,James,Williams,33,USA,25,Phone,1155,2025-01-25,3,Good experience
+45024,James,Williams,33,USA,160,Tablet,749,2025-06-09,3,Good experience
+45024,James,Williams,33,USA,216,Headphones,1091,2025-08-04,3,Good experience
+45024,James,Williams,33,USA,284,Camera,162,2025-10-11,3,Good experience
+45025,Léa,Moreau,18,France,26,Camera,657,2025-01-26,3,Average
+45025,Léa,Moreau,18,France,206,Headphones,927,2025-07-25,3,Average
+45025,Léa,Moreau,18,France,295,Camera,209,2025-10-22,3,Average
+45026,Chloé,Dubois,26,France,27,Laptop,390,2025-01-27,4,Excellent service
+45026,Chloé,Dubois,26,France,141,Laptop,1157,2025-05-21,4,Excellent service
+45026,Chloé,Dubois,26,France,264,Tablet,930,2025-09-21,4,Excellent service
+45026,Chloé,Dubois,26,France,289,Camera,1019,2025-10-16,4,Excellent service
+45027,Rashmi,Perera,27,Sri Lanka,28,Tablet,73,2025-01-28,5,Product quality issue
+45028,Zoe,Williams,29,Australia,29,Laptop,715,2025-01-29,1,Product quality issue
+45028,Zoe,Williams,29,Australia,138,Headphones,1153,2025-05-18,1,Product quality issue
+45028,Zoe,Williams,29,Australia,202,Laptop,828,2025-07-21,1,Product quality issue
+45029,Olivia,Williams,37,USA,30,Laptop,140,2025-01-30,5,Delivery was late
+45029,Olivia,Williams,37,USA,227,Tablet,1187,2025-08-15,5,Delivery was late
+45030,Chloé,Martin,32,France,31,Headphones,992,2025-01-31,5,Good experience
+45030,Chloé,Martin,32,France,161,Tablet,1021,2025-06-10,5,Good experience
+45030,Chloé,Martin,32,France,271,Laptop,85,2025-09-28,5,Good experience
+45031,Chiara,Greco,31,Italy,32,Camera,534,2025-02-01,5,Good experience
+45032,Lukas,Koch,35,Germany,33,Laptop,683,2025-02-02,2,Average
+45032,Lukas,Koch,35,Germany,270,Phone,943,2025-09-27,2,Average
+45033,Michael,Williams,26,USA,34,Phone,546,2025-02-03,5,Good experience
+45033,Michael,Williams,26,USA,140,Laptop,417,2025-05-20,5,Good experience
+45033,Michael,Williams,26,USA,250,Laptop,1139,2025-09-07,5,Good experience
+45034,Kagiso,De Villiers,29,South Africa,35,Camera,1154,2025-02-04,5,Product quality issue
+45034,Kagiso,De Villiers,29,South Africa,238,Headphones,1127,2025-08-26,5,Product quality issue
+45034,Kagiso,De Villiers,29,South Africa,293,Camera,171,2025-10-20,5,Product quality issue
+45035,Leon,Schmidt,27,Germany,36,Camera,771,2025-02-05,5,Average
+45036,Zoe,Brown,19,Australia,37,Laptop,1073,2025-02-06,1,Product quality issue
+45036,Zoe,Brown,19,Australia,195,Camera,1163,2025-07-14,1,Product quality issue
+45037,Luca,Romano,33,Italy,38,Phone,993,2025-02-07,4,Delivery was late
+45037,Luca,Romano,33,Italy,256,Laptop,295,2025-09-13,4,Delivery was late
+45038,Hugo,Bernard,40,France,39,Laptop,617,2025-02-08,4,Product quality issue
+45038,Hugo,Bernard,40,France,121,Tablet,727,2025-05-01,4,Product quality issue
+45039,Grace,Walker,30,Australia,40,Phone,506,2025-02-09,4,Product quality issue
+45040,Davide,Greco,31,Italy,41,Tablet,628,2025-02-10,4,Delivery was late
+45040,Davide,Greco,31,Italy,204,Laptop,461,2025-07-23,4,Delivery was late
+45041,Giulia,Marino,35,Italy,42,Headphones,190,2025-02-11,1,Good experience
+45041,Giulia,Marino,35,Italy,236,Camera,1049,2025-08-24,1,Good experience
+45042,Jack,Johnson,39,Australia,43,Headphones,993,2025-02-12,5,Product quality issue
+45043,Chloe,Johnson,26,Australia,44,Tablet,264,2025-02-13,4,Average
+45043,Chloe,Johnson,26,Australia,190,Tablet,436,2025-07-09,4,Average
+45043,Chloe,Johnson,26,Australia,226,Tablet,213,2025-08-14,4,Average
+45043,Chloe,Johnson,26,Australia,244,Phone,843,2025-09-01,4,Average
+45043,Chloe,Johnson,26,Australia,268,Headphones,466,2025-09-25,4,Average
+45044,Louis,Durand,24,France,45,Camera,470,2025-02-14,2,Delivery was late
+45044,Louis,Durand,24,France,164,Tablet,61,2025-06-13,2,Delivery was late
+45045,Chiara,Esposito,23,Italy,46,Tablet,447,2025-02-15,2,Good experience
+45045,Chiara,Esposito,23,Italy,142,Tablet,262,2025-05-22,2,Good experience
+45045,Chiara,Esposito,23,Italy,212,Laptop,962,2025-07-31,2,Good experience
+45046,Mia,Meyer,29,Germany,47,Camera,647,2025-02-16,2,Delivery was late
+45046,Mia,Meyer,29,Germany,183,Headphones,824,2025-07-02,2,Delivery was late
+45046,Mia,Meyer,29,Germany,187,Headphones,66,2025-07-06,2,Delivery was late
+45047,Oliver,Thompson,28,England,48,Laptop,203,2025-02-17,5,Product quality issue
+45047,Oliver,Thompson,28,England,133,Phone,949,2025-05-13,5,Product quality issue
+45047,Oliver,Thompson,28,England,233,Laptop,760,2025-08-21,5,Product quality issue
+45048,Sipho,Mokoena,32,South Africa,49,Tablet,753,2025-02-18,3,Excellent service
+45049,William,Smith,29,USA,50,Camera,845,2025-02-19,1,Average
+45049,William,Smith,29,USA,127,Laptop,863,2025-05-07,1,Average
+45050,Harry,Evans,20,England,51,Tablet,826,2025-02-20,3,Delivery was late
+45051,Marco,Russo,23,Italy,52,Headphones,333,2025-02-21,5,Delivery was late
+45051,Marco,Russo,23,Italy,177,Camera,717,2025-06-26,5,Delivery was late
+45051,Marco,Russo,23,Italy,273,Phone,674,2025-09-30,5,Delivery was late
+45052,Olivia,Davis,36,USA,53,Headphones,285,2025-02-22,3,Product quality issue
+45052,Olivia,Davis,36,USA,209,Laptop,472,2025-07-28,3,Product quality issue
+45052,Olivia,Davis,36,USA,237,Laptop,664,2025-08-25,3,Product quality issue
+45053,Olivia,Smith,29,USA,54,Tablet,505,2025-02-23,5,Delivery was late
+45053,Olivia,Smith,29,USA,153,Phone,716,2025-06-02,5,Delivery was late
+45053,Olivia,Smith,29,USA,197,Laptop,337,2025-07-16,5,Delivery was late
+45053,Olivia,Smith,29,USA,294,Laptop,352,2025-10-21,5,Delivery was late
+45054,Sara,Esposito,24,Italy,55,Headphones,1057,2025-02-24,2,Delivery was late
+45054,Sara,Esposito,24,Italy,243,Phone,1057,2025-08-31,2,Delivery was late
+45055,Kasun,Perera,21,Sri Lanka,56,Camera,330,2025-02-25,2,Average
+45055,Kasun,Perera,21,Sri Lanka,168,Camera,461,2025-06-17,2,Average
+45056,Lucas,Richard,30,France,57,Headphones,970,2025-02-26,1,Product quality issue
+45056,Lucas,Richard,30,France,128,Laptop,977,2025-05-08,1,Product quality issue
+45056,Lucas,Richard,30,France,134,Tablet,445,2025-05-14,1,Product quality issue
+45057,Thabo,Van Wyk,30,South Africa,58,Camera,534,2025-02-27,5,Average
+45057,Thabo,Van Wyk,30,South Africa,162,Headphones,195,2025-06-11,5,Average
+45058,Zoe,Smith,37,Australia,59,Phone,543,2025-02-28,5,Product quality issue
+45058,Zoe,Smith,37,Australia,296,Laptop,490,2025-10-23,5,Product quality issue
+45059,Mia,Koch,28,Germany,60,Camera,1023,2025-03-01,3,Average
+45059,Mia,Koch,28,Germany,193,Camera,134,2025-07-12,3,Average
+45059,Mia,Koch,28,Germany,299,Phone,651,2025-10-26,3,Average
+45060,Palesa,Mokoena,35,South Africa,61,Camera,511,2025-03-02,1,Product quality issue
+45060,Palesa,Mokoena,35,South Africa,147,Laptop,666,2025-05-27,1,Product quality issue
+45060,Palesa,Mokoena,35,South Africa,199,Camera,769,2025-07-18,1,Product quality issue
+45061,Isuru,Wickramasinghe,30,Sri Lanka,62,Tablet,230,2025-03-03,4,Excellent service
+45061,Isuru,Wickramasinghe,30,Sri Lanka,249,Tablet,160,2025-09-06,4,Excellent service
+45061,Isuru,Wickramasinghe,30,Sri Lanka,263,Camera,177,2025-09-20,4,Excellent service
+45061,Isuru,Wickramasinghe,30,Sri Lanka,266,Phone,246,2025-09-23,4,Excellent service
+45062,Robert,Williams,18,USA,63,Tablet,1115,2025-03-04,1,Delivery was late
+45062,Robert,Williams,18,USA,186,Laptop,994,2025-07-05,1,Delivery was late
+45063,Sibusiso,Nkosi,34,South Africa,64,Phone,405,2025-03-05,3,Average
+45064,Jonas,Becker,21,Germany,65,Headphones,302,2025-03-06,2,Delivery was late
+45064,Jonas,Becker,21,Germany,229,Tablet,733,2025-08-17,2,Delivery was late
+45064,Jonas,Becker,21,Germany,253,Laptop,272,2025-09-10,2,Delivery was late
+45064,Jonas,Becker,21,Germany,280,Tablet,723,2025-10-07,2,Delivery was late
+45065,Kavindi,Perera,21,Sri Lanka,66,Phone,478,2025-03-07,1,Good experience
+45065,Kavindi,Perera,21,Sri Lanka,122,Tablet,486,2025-05-02,1,Good experience
+45065,Kavindi,Perera,21,Sri Lanka,155,Tablet,529,2025-06-04,1,Good experience
+45065,Kavindi,Perera,21,Sri Lanka,159,Laptop,1157,2025-06-08,1,Good experience
+45065,Kavindi,Perera,21,Sri Lanka,207,Headphones,689,2025-07-26,1,Good experience
+45066,Emily,Jones,35,USA,67,Tablet,947,2025-03-08,2,Average
+45067,Ashley,Williams,32,USA,68,Phone,452,2025-03-09,2,Product quality issue
+45067,Ashley,Williams,32,USA,196,Phone,947,2025-07-15,2,Product quality issue
+45067,Ashley,Williams,32,USA,221,Phone,643,2025-08-09,2,Product quality issue
+45067,Ashley,Williams,32,USA,291,Tablet,1001,2025-10-18,2,Product quality issue
+45068,Camille,Martin,30,France,69,Laptop,1108,2025-03-10,1,Good experience
+45068,Camille,Martin,30,France,149,Headphones,869,2025-05-29,1,Good experience
+45068,Camille,Martin,30,France,203,Headphones,1028,2025-07-22,1,Good experience
+45068,Camille,Martin,30,France,240,Camera,521,2025-08-28,1,Good experience
+45068,Camille,Martin,30,France,277,Laptop,838,2025-10-04,1,Good experience
+45069,Matteo,Ricci,21,Italy,70,Headphones,920,2025-03-11,5,Product quality issue
+45069,Matteo,Ricci,21,Italy,136,Phone,278,2025-05-16,5,Product quality issue
+45069,Matteo,Ricci,21,Italy,230,Laptop,964,2025-08-18,5,Product quality issue
+45070,Harry,White,38,England,71,Headphones,1005,2025-03-12,3,Product quality issue
+45070,Harry,White,38,England,210,Phone,884,2025-07-29,3,Product quality issue
+45071,Manon,Richard,31,France,72,Camera,190,2025-03-13,3,Product quality issue
+45072,Sophie,Smith,38,Australia,73,Camera,1048,2025-03-14,1,Delivery was late
+45072,Sophie,Smith,38,Australia,145,Headphones,1072,2025-05-25,1,Delivery was late
+45072,Sophie,Smith,38,Australia,252,Headphones,1062,2025-09-09,1,Delivery was late
+45072,Sophie,Smith,38,Australia,260,Phone,629,2025-09-17,1,Delivery was late
+45073,Charlie,Hall,30,England,74,Phone,196,2025-03-15,1,Average
+45073,Charlie,Hall,30,England,178,Headphones,227,2025-06-27,1,Average
+45073,Charlie,Hall,30,England,223,Phone,602,2025-08-11,1,Average
+45074,Lucas,Richard,28,France,75,Headphones,1007,2025-03-16,3,Product quality issue
+45075,Leon,Müller,40,Germany,76,Tablet,635,2025-03-17,1,Delivery was late
+45075,Leon,Müller,40,Germany,125,Laptop,340,2025-05-05,1,Delivery was late
+45075,Leon,Müller,40,Germany,169,Phone,715,2025-06-18,1,Delivery was late
+45075,Leon,Müller,40,Germany,189,Headphones,921,2025-07-08,1,Delivery was late
+45075,Leon,Müller,40,Germany,276,Camera,597,2025-10-03,1,Delivery was late
+45076,Marco,Marino,39,Italy,77,Laptop,390,2025-03-18,5,Average
+45077,Emily,Taylor,20,USA,78,Headphones,1147,2025-03-19,1,Excellent service
+45077,Emily,Taylor,20,USA,232,Camera,922,2025-08-20,1,Excellent service
+45078,Leon,Hoffmann,40,Germany,79,Camera,811,2025-03-20,2,Good experience
+45079,Ayanda,Van Wyk,19,South Africa,80,Phone,859,2025-03-21,3,Delivery was late
+45079,Ayanda,Van Wyk,19,South Africa,156,Camera,536,2025-06-05,3,Delivery was late
+45079,Ayanda,Van Wyk,19,South Africa,166,Headphones,1158,2025-06-15,3,Delivery was late
+45079,Ayanda,Van Wyk,19,South Africa,185,Laptop,142,2025-07-04,3,Delivery was late
+45080,Thabo,De Villiers,32,South Africa,81,Phone,675,2025-03-22,4,Product quality issue
+45080,Thabo,De Villiers,32,South Africa,173,Headphones,1022,2025-06-22,4,Product quality issue
+45080,Thabo,De Villiers,32,South Africa,255,Laptop,297,2025-09-12,4,Product quality issue
+45081,Kasun,Jayasinghe,39,Sri Lanka,82,Laptop,1061,2025-03-23,1,Product quality issue
+45081,Kasun,Jayasinghe,39,Sri Lanka,248,Laptop,699,2025-09-05,1,Product quality issue
+45082,Sophia,Young,25,England,83,Laptop,358,2025-03-24,1,Delivery was late
+45082,Sophia,Young,25,England,245,Tablet,1165,2025-09-02,1,Delivery was late
+45083,Grace,Jones,36,Australia,84,Laptop,152,2025-03-25,5,Good experience
+45083,Grace,Jones,36,Australia,143,Laptop,323,2025-05-23,5,Good experience
+45084,Ethan,Johnson,18,Australia,85,Laptop,518,2025-03-26,1,Average
+45084,Ethan,Johnson,18,Australia,174,Camera,219,2025-06-23,1,Average
+45085,Isla,Evans,20,England,86,Headphones,934,2025-03-27,5,Good experience
+45085,Isla,Evans,20,England,188,Phone,768,2025-07-07,5,Good experience
+45086,Hannah,Müller,38,Germany,87,Laptop,923,2025-03-28,4,Average
+45086,Hannah,Müller,38,Germany,213,Headphones,912,2025-08-01,4,Average
+45087,Chiara,Ferrari,34,Italy,88,Laptop,140,2025-03-29,5,Average
+45087,Chiara,Ferrari,34,Italy,258,Phone,489,2025-09-15,5,Average
+45088,Giulia,Ferrari,29,Italy,89,Phone,422,2025-03-30,3,Average
+45089,Isla,Walker,38,England,90,Camera,986,2025-03-31,2,Average
+45089,Isla,Walker,38,England,224,Laptop,858,2025-08-12,2,Average
+45089,Isla,Walker,38,England,228,Phone,685,2025-08-16,2,Average
+45090,Michael,Anderson,24,USA,91,Laptop,505,2025-04-01,2,Excellent service
+45090,Michael,Anderson,24,USA,179,Phone,748,2025-06-28,2,Excellent service
+45090,Michael,Anderson,24,USA,194,Phone,205,2025-07-13,2,Excellent service
+45090,Michael,Anderson,24,USA,231,Headphones,231,2025-08-19,2,Excellent service
+45090,Michael,Anderson,24,USA,241,Tablet,1177,2025-08-29,2,Excellent service
+45091,Martina,Colombo,21,Italy,92,Tablet,343,2025-04-02,4,Average
+45091,Martina,Colombo,21,Italy,184,Phone,431,2025-07-03,4,Average
+45091,Martina,Colombo,21,Italy,281,Laptop,494,2025-10-08,4,Average
+45092,Marco,Ferrari,23,Italy,93,Laptop,658,2025-04-03,4,Product quality issue
+45092,Marco,Ferrari,23,Italy,234,Camera,1189,2025-08-22,4,Product quality issue
+45093,Martina,Rossi,25,Italy,94,Headphones,891,2025-04-04,3,Delivery was late
+45093,Martina,Rossi,25,Italy,222,Headphones,199,2025-08-10,3,Delivery was late
+45093,Martina,Rossi,25,Italy,288,Tablet,949,2025-10-15,3,Delivery was late
+45094,Hugo,Leroy,25,France,95,Tablet,861,2025-04-05,3,Product quality issue
+45094,Hugo,Leroy,25,France,239,Tablet,1076,2025-08-27,3,Product quality issue
+45095,Ashley,Smith,30,USA,96,Camera,471,2025-04-06,3,Delivery was late
+45095,Ashley,Smith,30,USA,272,Camera,488,2025-09-29,3,Delivery was late
+45096,Mia,Hoffmann,40,Germany,97,Phone,784,2025-04-07,2,Product quality issue
+45096,Mia,Hoffmann,40,Germany,235,Headphones,66,2025-08-23,2,Product quality issue
+45096,Mia,Hoffmann,40,Germany,251,Laptop,498,2025-09-08,2,Product quality issue
+45096,Mia,Hoffmann,40,Germany,274,Camera,740,2025-10-01,2,Product quality issue
+45096,Mia,Hoffmann,40,Germany,292,Laptop,160,2025-10-19,2,Product quality issue
+45097,Sophia,Lewis,39,England,98,Phone,152,2025-04-08,3,Good experience
+45097,Sophia,Lewis,39,England,225,Laptop,267,2025-08-13,3,Good experience
+45097,Sophia,Lewis,39,England,254,Laptop,1097,2025-09-11,3,Good experience
+45097,Sophia,Lewis,39,England,298,Tablet,816,2025-10-25,3,Good experience
+45098,Oliver,Young,24,England,99,Headphones,366,2025-04-09,4,Product quality issue
+45098,Oliver,Young,24,England,201,Camera,371,2025-07-20,4,Product quality issue
+45099,Isuru,Perera,33,Sri Lanka,100,Camera,302,2025-04-10,1,Good experience
+45099,Isuru,Perera,33,Sri Lanka,181,Headphones,1121,2025-06-30,1,Good experience
+45099,Isuru,Perera,33,Sri Lanka,261,Headphones,845,2025-09-18,1,Good experience
+45100,Ethan,Johnson,35,Australia,101,Phone,474,2025-04-11,2,Excellent service
+45101,Lucas,Walker,19,Australia,102,Camera,853,2025-04-12,5,Excellent service
+45101,Lucas,Walker,19,Australia,176,Phone,357,2025-06-25,5,Excellent service
+45102,Grace,Martin,24,Australia,103,Laptop,143,2025-04-13,5,Product quality issue
+45102,Grace,Martin,24,Australia,191,Headphones,76,2025-07-10,5,Product quality issue
+45103,Kavindi,Fernando,38,Sri Lanka,104,Laptop,496,2025-04-14,5,Delivery was late
+45103,Kavindi,Fernando,38,Sri Lanka,131,Laptop,1051,2025-05-11,5,Delivery was late
+45103,Kavindi,Fernando,38,Sri Lanka,219,Headphones,1080,2025-08-07,5,Delivery was late
+45103,Kavindi,Fernando,38,Sri Lanka,267,Laptop,98,2025-09-24,5,Delivery was late
+45104,Lukas,Weber,30,Germany,105,Headphones,710,2025-04-15,3,Average
+45104,Lukas,Weber,30,Germany,157,Phone,675,2025-06-06,3,Average
+45105,Emily,Smith,39,USA,106,Headphones,1051,2025-04-16,2,Average
+45105,Emily,Smith,39,USA,220,Laptop,820,2025-08-08,2,Average
+45106,Leon,Hoffmann,31,Germany,107,Laptop,202,2025-04-17,2,Good experience
+45106,Leon,Hoffmann,31,Germany,172,Camera,925,2025-06-21,2,Good experience
+45106,Leon,Hoffmann,31,Germany,192,Tablet,1010,2025-07-11,2,Good experience
+45107,Boitumelo,Naidoo,19,South Africa,108,Phone,730,2025-04-18,4,Product quality issue
+45107,Boitumelo,Naidoo,19,South Africa,175,Tablet,943,2025-06-24,4,Product quality issue
+45107,Boitumelo,Naidoo,19,South Africa,282,Laptop,1113,2025-10-09,4,Product quality issue
+45108,Sara,Romano,32,Italy,109,Headphones,962,2025-04-19,4,Product quality issue
+45109,Sanduni,Silva,31,Sri Lanka,110,Phone,778,2025-04-20,1,Delivery was late
+45110,Supun,Perera,20,Sri Lanka,111,Headphones,1195,2025-04-21,5,Delivery was late
+45110,Supun,Perera,20,Sri Lanka,126,Tablet,891,2025-05-06,5,Delivery was late
+45110,Supun,Perera,20,Sri Lanka,150,Camera,1034,2025-05-30,5,Delivery was late
+45110,Supun,Perera,20,Sri Lanka,163,Headphones,114,2025-06-12,5,Delivery was late
+45111,George,Allen,32,England,112,Phone,513,2025-04-22,3,Delivery was late
+45111,George,Allen,32,England,123,Phone,712,2025-05-03,3,Delivery was late
+45112,Jack,Wilson,27,England,113,Laptop,934,2025-04-23,2,Good experience
+45112,Jack,Wilson,27,England,132,Camera,285,2025-05-12,2,Good experience
+45113,Kavindi,Ekanayake,21,Sri Lanka,114,Camera,856,2025-04-24,3,Delivery was late
+45113,Kavindi,Ekanayake,21,Sri Lanka,129,Phone,554,2025-05-09,3,Delivery was late
+45114,Emma,Petit,34,France,115,Camera,125,2025-04-25,4,Excellent service
+45114,Emma,Petit,34,France,205,Camera,205,2025-07-24,4,Excellent service
+45115,Naledi,Van Wyk,32,South Africa,116,Laptop,935,2025-04-26,2,Product quality issue
+45115,Naledi,Van Wyk,32,South Africa,218,Headphones,484,2025-08-06,2,Product quality issue
+45115,Naledi,Van Wyk,32,South Africa,290,Headphones,469,2025-10-17,2,Product quality issue
+45116,Mia,Brown,26,Australia,117,Tablet,924,2025-04-27,5,Average
+45116,Mia,Brown,26,Australia,208,Tablet,785,2025-07-27,5,Average
+45117,Emily,Jones,28,USA,118,Laptop,1020,2025-04-28,5,Good experience
+45117,Emily,Jones,28,USA,130,Laptop,983,2025-05-10,5,Good experience
+45117,Emily,Jones,28,USA,285,Phone,1126,2025-10-12,5,Good experience
+45118,Chloé,Petit,28,France,119,Laptop,688,2025-04-29,4,Product quality issue
+45118,Chloé,Petit,28,France,148,Tablet,325,2025-05-28,4,Product quality issue
+45118,Chloé,Petit,28,France,275,Camera,804,2025-10-02,4,Product quality issue
+45119,Charlie,Allen,22,England,120,Tablet,1057,2025-04-30,4,Excellent service
