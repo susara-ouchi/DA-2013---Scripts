@@ -1,798 +1,798 @@
-Customer_ID,Age,Age_Group,Gender,Gender_Label,Income,Log_Income,Education,Education_Ord,Region_East,Region_North,Region_South,Region_West,Signup_Year,Signup_Month,Signup_Day,Signup_Weekday,Days_Since_Signup,Signup_Channel,Churned
-1,35,Adult,Male,1,28000.0,10.239959789157341,High School,0,True,False,False,False,2023,5,18,3,14,Referral,0
-2,59,Senior,Male,1,21000.0,9.95227771670556,Bachelor,1,False,False,True,False,2023,2,21,1,100,Referral,0
-3,56,Senior,Male,1,30000.0,10.308952660644293,PhD,3,False,False,True,False,2023,1,15,6,137,Offline,0
-4,34,Adult,Female,0,47000.0,10.757902880692196,Master,2,False,False,False,True,2023,3,25,5,68,Referral,1
-5,31,Adult,Male,1,20000.0,9.903487552536127,High School,0,True,False,False,False,2023,5,11,3,21,Online,0
-6,48,Adult,Male,1,20000.0,9.903487552536127,Bachelor,1,True,False,False,False,2023,2,6,0,115,Offline,1
-7,41,Adult,Female,0,49000.0,10.799575577092764,Bachelor,1,False,False,False,True,2023,5,6,5,26,Offline,1
-8,52,Senior,Male,1,32000.0,10.373491181781864,Bachelor,1,False,True,False,False,2023,2,9,3,112,Offline,0
-9,61,Senior,Female,0,17000.0,9.740968623038354,PhD,3,True,False,False,False,2023,3,13,0,80,Offline,0
-10,62,Senior,Female,0,29000.0,10.275051108968611,PhD,3,False,False,True,False,2023,2,9,3,112,Referral,0
-11,51,Senior,Male,1,17000.0,9.740968623038354,High School,0,False,True,False,False,2023,2,25,5,96,Referral,0
-12,20,Young,Female,0,17000.0,9.740968623038354,High School,0,False,False,True,False,2023,4,14,4,48,Online,1
-13,54,Senior,Female,0,25000.0,10.126631103850338,PhD,3,True,False,False,False,2023,5,19,4,13,Online,1
-14,60,Senior,Male,1,8000.0,8.987196820661973,High School,0,True,False,False,False,2023,4,20,3,42,Offline,0
-15,57,Senior,Female,0,9000.0,9.104979856318357,Master,2,True,False,False,False,2023,5,16,1,16,Online,0
-16,43,Adult,Female,0,17000.0,9.740968623038354,Master,2,False,False,False,True,2023,4,3,0,59,Online,1
-17,40,Adult,Male,1,13000.0,9.472704636443673,PhD,3,True,False,False,False,2023,4,4,1,58,Online,1
-18,61,Senior,Male,1,26000.0,10.165851817003619,High School,0,False,False,False,True,2023,2,25,5,96,Online,0
-19,56,Senior,Male,1,14000.0,9.546812608597396,Bachelor,1,False,False,False,True,2023,3,1,2,92,Online,0
-20,32,Adult,Female,0,11000.0,9.305650551780507,Master,2,False,False,False,True,2023,5,18,3,14,Offline,0
-21,66,Senior,Male,1,46000.0,10.736396675471232,PhD,3,False,True,False,False,2023,2,8,2,113,Offline,1
-22,21,Young,Female,0,20000.0,9.903487552536127,High School,0,False,True,False,False,2023,1,28,5,124,Online,0
-23,46,Adult,Female,0,23000.0,10.043249494911286,PhD,3,False,True,False,False,2023,2,18,5,103,Offline,0
-24,39,Adult,Female,0,11000.0,9.305650551780507,Bachelor,1,False,True,False,False,2023,5,5,4,27,Offline,1
-25,42,Adult,Female,0,17000.0,9.740968623038354,Master,2,False,False,False,True,2023,1,13,4,139,Online,1
-26,30,Adult,Female,0,23000.0,10.043249494911286,PhD,3,False,True,False,False,2023,2,5,6,116,Referral,1
-27,35,Adult,Female,0,12000.0,9.392661928770137,PhD,3,False,False,False,True,2023,4,11,1,51,Offline,0
-28,50,Adult,Female,0,27000.0,10.203592144986466,PhD,3,True,False,False,False,2023,1,26,3,126,Offline,0
-29,33,Adult,Male,1,16000.0,9.680344001221918,Bachelor,1,False,False,True,False,2023,3,27,0,66,Offline,1
-30,62,Senior,Male,1,19000.0,9.852194258148577,PhD,3,False,False,False,True,2023,1,4,2,148,Offline,0
-31,59,Senior,Female,0,16000.0,9.680344001221918,Bachelor,1,False,False,False,True,2023,3,23,3,70,Online,0
-32,61,Senior,Female,0,52500.0,10.868568448579715,Bachelor,1,False,True,False,False,2023,5,7,6,25,Referral,0
-33,19,Young,Male,1,22000.0,9.998797732340453,Bachelor,1,True,False,False,False,2023,3,29,2,64,Online,0
-34,52,Senior,Female,0,13000.0,9.472704636443673,Master,2,False,False,False,True,2023,5,7,6,25,Referral,0
-35,59,Senior,Male,1,33000.0,10.404262840448617,Master,2,True,False,False,False,2023,4,30,6,32,Offline,1
-36,51,Senior,Male,1,12000.0,9.392661928770137,PhD,3,False,False,True,False,2023,1,22,6,130,Referral,1
-37,47,Adult,Male,1,24000.0,10.085809109330082,PhD,3,False,False,True,False,2023,5,10,2,22,Referral,1
-38,30,Adult,Female,0,8000.0,8.987196820661973,Master,2,False,True,False,False,2023,1,31,1,121,Online,0
-39,30,Adult,Female,0,11000.0,9.305650551780507,High School,0,False,False,True,False,2023,4,29,5,33,Offline,0
-40,35,Adult,Male,1,24000.0,10.085809109330082,Master,2,False,False,True,False,2023,1,11,2,141,Online,0
-41,49,Adult,Male,1,32000.0,10.373491181781864,Bachelor,1,False,True,False,False,2023,2,15,2,106,Offline,1
-42,49,Adult,Male,1,24000.0,10.085809109330082,Master,2,False,False,False,True,2023,4,6,3,56,Online,0
-43,52,Senior,Male,1,21000.0,9.95227771670556,Bachelor,1,True,False,False,False,2023,1,10,1,142,Referral,1
-44,56,Senior,Male,1,19000.0,9.852194258148577,PhD,3,True,False,False,False,2023,5,8,0,24,Online,1
-45,63,Senior,Female,0,11000.0,9.305650551780507,High School,0,False,False,True,False,2023,4,9,6,53,Offline,0
-46,69,Senior,Male,1,15000.0,9.615805480084347,PhD,3,True,False,False,False,2023,4,22,5,40,Offline,0
-47,46,Adult,Female,0,17000.0,9.740968623038354,Bachelor,1,False,False,False,True,2023,3,1,2,92,Offline,1
-48,66,Senior,Male,1,37000.0,10.51867319162636,Bachelor,1,False,False,False,True,2023,3,28,1,65,Offline,1
-49,46,Adult,Female,0,26000.0,10.165851817003619,Bachelor,1,False,False,True,False,2023,5,25,3,7,Online,0
-50,61,Senior,Female,0,9000.0,9.104979856318357,High School,0,False,False,True,False,2023,3,6,0,87,Referral,0
-51,33,Adult,Female,0,26000.0,10.165851817003619,Master,2,False,True,False,False,2023,2,26,6,95,Offline,1
-52,61,Senior,Female,0,18000.0,9.798127036878302,PhD,3,False,False,False,True,2023,4,16,6,46,Offline,0
-53,64,Senior,Female,0,16000.0,9.680344001221918,PhD,3,False,False,True,False,2023,1,9,0,143,Online,0
-54,27,Adult,Female,0,30000.0,10.308952660644293,Master,2,False,False,False,True,2023,1,22,6,130,Online,0
-55,47,Adult,Male,1,37000.0,10.51867319162636,PhD,3,False,True,False,False,2023,5,21,6,11,Referral,0
-56,42,Adult,Female,0,35000.0,10.46310334047155,High School,0,False,False,True,False,2023,3,30,3,63,Offline,0
-57,56,Senior,Male,1,14000.0,9.546812608597396,PhD,3,False,True,False,False,2023,1,18,2,134,Online,0
-58,37,Adult,Female,0,19000.0,9.852194258148577,Bachelor,1,False,False,False,True,2023,4,25,1,37,Referral,0
-59,22,Young,Female,0,26000.0,10.165851817003619,Master,2,False,False,True,False,2023,5,25,3,7,Offline,0
-60,18,Young,Male,1,36000.0,10.491274217438248,High School,0,False,True,False,False,2023,5,23,1,9,Online,1
-61,47,Adult,Female,0,17000.0,9.740968623038354,Master,2,False,False,False,True,2023,4,16,6,46,Referral,1
-62,66,Senior,Male,1,20000.0,9.903487552536127,High School,0,False,False,True,False,2023,1,15,6,137,Referral,1
-63,20,Young,Male,1,13000.0,9.472704636443673,Bachelor,1,True,False,False,False,2023,3,4,5,89,Online,1
-64,62,Senior,Male,1,12000.0,9.392661928770137,Master,2,False,True,False,False,2023,1,13,4,139,Offline,0
-65,31,Adult,Male,1,33000.0,10.404262840448617,PhD,3,True,False,False,False,2023,3,22,2,71,Offline,0
-66,47,Adult,Female,0,43000.0,10.668955394675699,High School,0,False,True,False,False,2023,2,1,2,120,Offline,1
-67,67,Senior,Female,0,21000.0,9.95227771670556,Master,2,True,False,False,False,2023,5,17,2,15,Referral,0
-68,21,Young,Male,1,36000.0,10.491274217438248,PhD,3,True,False,False,False,2023,2,9,3,112,Online,0
-69,35,Adult,Female,0,26000.0,10.165851817003619,Master,2,False,True,False,False,2023,5,28,6,4,Offline,1
-70,54,Senior,Female,0,16000.0,9.680344001221918,Master,2,False,False,False,True,2023,3,23,3,70,Referral,0
-71,42,Adult,Male,1,26000.0,10.165851817003619,Master,2,False,False,False,True,2023,3,18,5,75,Offline,0
-72,65,Senior,Female,0,48000.0,10.778956289890028,High School,0,False,False,True,False,2023,3,17,4,76,Online,1
-73,18,Young,Male,1,22000.0,9.998797732340453,PhD,3,False,False,False,True,2023,2,7,1,114,Online,1
-74,63,Senior,Male,1,48000.0,10.778956289890028,Bachelor,1,True,False,False,False,2023,3,12,6,81,Online,0
-75,32,Adult,Female,0,6000.0,8.699514748210191,High School,0,False,False,False,True,2023,2,17,4,104,Online,1
-76,26,Adult,Female,0,33000.0,10.404262840448617,High School,0,False,True,False,False,2023,1,18,2,134,Offline,1
-77,32,Adult,Female,0,23000.0,10.043249494911286,High School,0,False,True,False,False,2023,5,24,2,8,Offline,1
-78,66,Senior,Male,1,19000.0,9.852194258148577,Bachelor,1,True,False,False,False,2023,2,8,2,113,Online,0
-79,41,Adult,Male,1,23000.0,10.043249494911286,PhD,3,False,False,True,False,2023,3,30,3,63,Referral,0
-80,21,Young,Female,0,8000.0,8.987196820661973,PhD,3,False,False,False,True,2023,3,3,4,90,Online,1
-81,29,Adult,Female,0,20000.0,9.903487552536127,PhD,3,False,False,True,False,2023,5,21,6,11,Offline,1
-82,54,Senior,Female,0,26000.0,10.165851817003619,Master,2,True,False,False,False,2023,4,19,2,43,Offline,1
-83,54,Senior,Female,0,46000.0,10.736396675471232,Master,2,False,True,False,False,2023,3,22,2,71,Referral,0
-84,60,Senior,Male,1,17000.0,9.740968623038354,Master,2,False,True,False,False,2023,5,14,6,18,Online,0
-85,23,Young,Female,0,15000.0,9.615805480084347,Bachelor,1,False,True,False,False,2023,3,18,5,75,Online,1
-86,56,Senior,Male,1,17000.0,9.740968623038354,Master,2,True,False,False,False,2023,3,31,4,62,Online,0
-87,63,Senior,Male,1,35000.0,10.46310334047155,Bachelor,1,True,False,False,False,2023,1,14,5,138,Offline,0
-88,41,Adult,Female,0,26000.0,10.165851817003619,PhD,3,False,False,True,False,2023,4,5,2,57,Online,0
-89,28,Adult,Female,0,17000.0,9.740968623038354,Master,2,False,False,True,False,2023,2,23,3,98,Referral,0
-90,30,Adult,Female,0,28000.0,10.239959789157341,Master,2,True,False,False,False,2023,5,12,4,20,Offline,1
-91,51,Senior,Male,1,23000.0,10.043249494911286,High School,0,False,False,False,True,2023,2,8,2,113,Offline,1
-92,42,Adult,Female,0,36000.0,10.491274217438248,Bachelor,1,False,True,False,False,2023,3,13,0,80,Online,0
-93,24,Young,Female,0,16000.0,9.680344001221918,PhD,3,False,True,False,False,2023,1,25,2,127,Referral,0
-94,69,Senior,Male,1,19000.0,9.852194258148577,High School,0,False,False,True,False,2023,3,18,5,75,Offline,1
-95,21,Young,Female,0,18000.0,9.798127036878302,High School,0,False,True,False,False,2023,4,30,6,32,Offline,0
-96,25,Young,Male,1,11000.0,9.305650551780507,PhD,3,False,True,False,False,2023,2,22,2,99,Online,0
-97,37,Adult,Female,0,26000.0,10.165851817003619,High School,0,False,False,True,False,2023,5,11,3,21,Online,1
-98,46,Adult,Male,1,25000.0,10.126631103850338,Bachelor,1,False,True,False,False,2023,5,30,1,2,Referral,0
-99,68,Senior,Female,0,22000.0,9.998797732340453,Bachelor,1,False,True,False,False,2023,4,6,3,56,Offline,1
-100,62,Senior,Female,0,20000.0,9.903487552536127,Master,2,False,True,False,False,2023,3,13,0,80,Referral,0
-101,63,Senior,Male,1,11000.0,9.305650551780507,High School,0,False,True,False,False,2023,3,3,4,90,Offline,0
-102,27,Adult,Male,1,18000.0,9.798127036878302,Master,2,True,False,False,False,2023,1,6,4,146,Referral,0
-103,60,Senior,Female,0,19000.0,9.852194258148577,High School,0,False,False,False,True,2023,2,1,2,120,Referral,1
-104,51,Senior,Male,1,15000.0,9.615805480084347,Bachelor,1,False,False,False,True,2023,4,9,6,53,Referral,0
-105,43,Adult,Male,1,20000.0,9.903487552536127,Bachelor,1,False,False,True,False,2023,5,18,3,14,Offline,0
-106,58,Senior,Male,1,27000.0,10.203592144986466,Bachelor,1,False,False,False,True,2023,5,11,3,21,Online,1
-107,66,Senior,Male,1,52500.0,10.868568448579715,High School,0,False,True,False,False,2023,3,17,4,76,Offline,0
-108,20,Young,Female,0,24000.0,10.085809109330082,Bachelor,1,True,False,False,False,2023,2,28,1,93,Online,0
-109,23,Young,Female,0,25000.0,10.126631103850338,High School,0,True,False,False,False,2023,1,31,1,121,Referral,0
-110,22,Young,Male,1,21000.0,9.95227771670556,Master,2,True,False,False,False,2023,4,3,0,59,Referral,1
-111,22,Young,Male,1,8000.0,8.987196820661973,High School,0,False,False,False,True,2023,3,10,4,83,Online,0
-112,64,Senior,Male,1,22000.0,9.998797732340453,Master,2,False,False,False,True,2023,2,21,1,100,Referral,0
-113,40,Adult,Male,1,23000.0,10.043249494911286,High School,0,False,False,True,False,2023,3,30,3,63,Referral,0
-114,66,Senior,Female,0,52500.0,10.868568448579715,Master,2,False,True,False,False,2023,5,7,6,25,Online,0
-115,26,Adult,Female,0,20000.0,9.903487552536127,Bachelor,1,False,False,True,False,2023,1,31,1,121,Online,1
-116,52,Senior,Male,1,26000.0,10.165851817003619,Master,2,False,True,False,False,2023,3,25,5,68,Referral,1
-117,37,Adult,Male,1,22000.0,9.998797732340453,Bachelor,1,False,False,False,True,2023,5,7,6,25,Offline,1
-118,66,Senior,Male,1,12000.0,9.392661928770137,Bachelor,1,False,False,False,True,2023,5,30,1,2,Offline,1
-119,59,Senior,Female,0,39000.0,10.571316925111784,Master,2,True,False,False,False,2023,5,12,4,20,Referral,1
-120,52,Senior,Male,1,32000.0,10.373491181781864,High School,0,False,False,True,False,2023,1,13,4,139,Online,0
-121,67,Senior,Female,0,33000.0,10.404262840448617,High School,0,False,True,False,False,2023,2,14,1,107,Offline,1
-122,35,Adult,Male,1,14000.0,9.546812608597396,PhD,3,False,True,False,False,2023,5,7,6,25,Offline,0
-123,34,Adult,Female,0,44000.0,10.691944912900398,High School,0,False,False,False,True,2023,4,24,0,38,Offline,0
-124,41,Adult,Male,1,11000.0,9.305650551780507,PhD,3,True,False,False,False,2023,1,20,4,132,Referral,1
-125,20,Young,Female,0,30000.0,10.308952660644293,High School,0,False,False,False,True,2023,3,22,2,71,Offline,0
-126,49,Adult,Male,1,52500.0,10.868568448579715,High School,0,False,True,False,False,2023,5,9,1,23,Offline,1
-127,52,Senior,Male,1,13000.0,9.472704636443673,Bachelor,1,False,True,False,False,2023,5,23,1,9,Offline,0
-128,55,Senior,Male,1,17000.0,9.740968623038354,PhD,3,True,False,False,False,2023,1,17,1,135,Offline,1
-129,30,Adult,Female,0,23000.0,10.043249494911286,High School,0,True,False,False,False,2023,2,27,0,94,Online,0
-130,64,Senior,Male,1,17000.0,9.740968623038354,PhD,3,False,True,False,False,2023,3,13,0,80,Referral,1
-131,42,Adult,Female,0,10000.0,9.210340371976184,Bachelor,1,True,False,False,False,2023,4,19,2,43,Referral,1
-132,26,Adult,Female,0,23000.0,10.043249494911286,Bachelor,1,True,False,False,False,2023,1,23,0,129,Online,0
-133,21,Young,Male,1,13000.0,9.472704636443673,PhD,3,False,False,True,False,2023,3,13,0,80,Online,0
-134,31,Adult,Male,1,28000.0,10.239959789157341,Bachelor,1,False,False,False,True,2023,1,8,6,144,Referral,0
-135,54,Senior,Male,1,14000.0,9.546812608597396,Master,2,False,False,False,True,2023,2,28,1,93,Offline,0
-136,51,Senior,Female,0,48000.0,10.778956289890028,Master,2,False,False,True,False,2023,4,21,4,41,Offline,1
-137,28,Adult,Male,1,15000.0,9.615805480084347,Bachelor,1,True,False,False,False,2023,1,13,4,139,Referral,1
-138,58,Senior,Female,0,19000.0,9.852194258148577,Master,2,False,False,False,True,2023,1,16,0,136,Offline,0
-139,20,Young,Female,0,33000.0,10.404262840448617,High School,0,False,False,True,False,2023,4,29,5,33,Online,1
-140,45,Adult,Male,1,12000.0,9.392661928770137,PhD,3,False,True,False,False,2023,1,2,0,150,Offline,1
-141,46,Adult,Male,1,25000.0,10.126631103850338,High School,0,False,True,False,False,2023,5,25,3,7,Offline,0
-142,26,Adult,Male,1,42000.0,10.645424897265505,PhD,3,False,False,True,False,2023,1,30,0,122,Offline,1
-143,20,Young,Male,1,10000.0,9.210340371976184,Bachelor,1,False,True,False,False,2023,4,13,3,49,Referral,1
-144,42,Adult,Male,1,24000.0,10.085809109330082,High School,0,False,True,False,False,2023,1,13,4,139,Online,0
-145,51,Senior,Male,1,25000.0,10.126631103850338,Bachelor,1,False,False,True,False,2023,4,6,3,56,Offline,0
-146,29,Adult,Female,0,33000.0,10.404262840448617,Bachelor,1,False,True,False,False,2023,4,4,1,58,Referral,0
-147,59,Senior,Female,0,12000.0,9.392661928770137,PhD,3,False,False,False,True,2023,3,23,3,70,Offline,1
-148,26,Adult,Female,0,11000.0,9.305650551780507,PhD,3,False,False,True,False,2023,1,13,4,139,Online,1
-149,32,Adult,Male,1,29000.0,10.275051108968611,PhD,3,False,False,False,True,2023,4,4,1,58,Offline,1
-150,57,Senior,Female,0,26000.0,10.165851817003619,High School,0,True,False,False,False,2023,5,29,0,3,Online,0
-151,42,Adult,Female,0,25000.0,10.126631103850338,Master,2,True,False,False,False,2030,1,1,1,-2406,Offline,0
-152,22,Young,Female,0,26000.0,10.165851817003619,PhD,3,False,False,False,True,2023,2,24,4,97,Online,0
-153,28,Adult,Female,0,16000.0,9.680344001221918,PhD,3,False,False,False,True,2023,3,22,2,71,Offline,0
-154,51,Senior,Female,0,25000.0,10.126631103850338,High School,0,True,False,False,False,2023,4,26,2,36,Online,1
-155,41,Adult,Male,1,26000.0,10.165851817003619,PhD,3,False,False,False,True,2023,5,23,1,9,Offline,1
-156,32,Adult,Male,1,15000.0,9.615805480084347,High School,0,False,True,False,False,2023,4,18,1,44,Offline,1
-157,55,Senior,Female,0,52500.0,10.868568448579715,Bachelor,1,False,True,False,False,2023,2,22,2,99,Referral,1
-158,25,Young,Female,0,28000.0,10.239959789157341,PhD,3,False,True,False,False,2023,5,8,0,24,Referral,0
-159,22,Young,Female,0,12000.0,9.392661928770137,PhD,3,False,False,True,False,2023,2,26,6,95,Online,0
-160,65,Senior,Male,1,31000.0,10.341742483467284,Bachelor,1,False,False,False,True,2023,2,21,1,100,Offline,0
-161,43,Adult,Male,1,14000.0,9.546812608597396,Bachelor,1,True,False,False,False,2023,5,17,2,15,Online,1
-162,35,Adult,Female,0,33000.0,10.404262840448617,Bachelor,1,False,True,False,False,2023,4,21,4,41,Referral,1
-163,23,Young,Male,1,39000.0,10.571316925111784,PhD,3,True,False,False,False,2023,1,1,6,151,Online,0
-164,54,Senior,Male,1,15000.0,9.615805480084347,Master,2,False,False,False,True,2023,2,13,0,108,Online,0
-165,65,Senior,Female,0,36000.0,10.491274217438248,Master,2,False,False,False,True,2023,3,16,3,77,Referral,0
-166,30,Adult,Male,1,27000.0,10.203592144986466,Master,2,False,True,False,False,2023,4,8,5,54,Offline,0
-167,45,Adult,Male,1,33000.0,10.404262840448617,PhD,3,False,False,True,False,2023,1,9,0,143,Online,0
-168,22,Young,Female,0,52500.0,10.868568448579715,Bachelor,1,False,True,False,False,2023,2,1,2,120,Referral,0
-169,30,Adult,Male,1,19000.0,9.852194258148577,PhD,3,True,False,False,False,2023,1,15,6,137,Offline,0
-170,34,Adult,Male,1,15000.0,9.615805480084347,Bachelor,1,False,False,False,True,2023,5,20,5,12,Referral,1
-171,67,Senior,Female,0,14000.0,9.546812608597396,PhD,3,False,False,False,True,2023,5,16,1,16,Online,0
-172,57,Senior,Male,1,15000.0,9.615805480084347,PhD,3,False,False,False,True,2023,3,13,0,80,Offline,0
-173,62,Senior,Male,1,21000.0,9.95227771670556,Bachelor,1,True,False,False,False,2023,1,12,3,140,Offline,0
-174,49,Adult,Female,0,26000.0,10.165851817003619,Master,2,True,False,False,False,2023,3,6,0,87,Referral,0
-175,46,Adult,Female,0,25000.0,10.126631103850338,Bachelor,1,False,False,False,True,2023,4,17,0,45,Referral,0
-176,68,Senior,Female,0,33000.0,10.404262840448617,High School,0,True,False,False,False,2023,2,11,5,110,Offline,0
-177,20,Young,Male,1,22000.0,9.998797732340453,High School,0,True,False,False,False,2023,4,25,1,37,Offline,0
-178,57,Senior,Female,0,46000.0,10.736396675471232,Bachelor,1,False,False,True,False,2023,5,19,4,13,Offline,0
-179,51,Senior,Male,1,19000.0,9.852194258148577,PhD,3,False,True,False,False,2023,4,13,3,49,Online,1
-180,57,Senior,Female,0,52500.0,10.868568448579715,High School,0,False,False,False,True,2023,4,5,2,57,Offline,0
-181,44,Adult,Male,1,30000.0,10.308952660644293,High School,0,False,True,False,False,2023,1,17,1,135,Online,1
-182,30,Adult,Female,0,14000.0,9.546812608597396,PhD,3,False,True,False,False,2023,3,26,6,67,Referral,0
-183,62,Senior,Female,0,13000.0,9.472704636443673,PhD,3,True,False,False,False,2023,2,25,5,96,Referral,0
-184,50,Adult,Female,0,28000.0,10.239959789157341,Master,2,True,False,False,False,2023,5,14,6,18,Offline,0
-185,23,Young,Female,0,20000.0,9.903487552536127,PhD,3,False,True,False,False,2023,3,27,0,66,Referral,0
-186,41,Adult,Male,1,31000.0,10.341742483467284,Bachelor,1,True,False,False,False,2023,4,12,2,50,Referral,1
-187,36,Adult,Female,0,28000.0,10.239959789157341,Bachelor,1,False,True,False,False,2023,2,23,3,98,Offline,1
-188,33,Adult,Female,0,21000.0,9.95227771670556,Master,2,False,False,False,True,2023,4,25,1,37,Online,1
-189,57,Senior,Male,1,14000.0,9.546812608597396,High School,0,False,False,False,True,2023,5,19,4,13,Offline,1
-190,45,Adult,Female,0,10000.0,9.210340371976184,High School,0,False,True,False,False,2023,3,29,2,64,Online,1
-191,50,Adult,Male,1,18000.0,9.798127036878302,PhD,3,False,False,False,True,2023,2,18,5,103,Offline,0
-192,65,Senior,Female,0,34000.0,10.4341158035983,Bachelor,1,False,False,True,False,2023,5,29,0,3,Offline,0
-193,58,Senior,Female,0,25000.0,10.126631103850338,High School,0,False,False,False,True,2023,4,25,1,37,Referral,1
-194,30,Adult,Female,0,12000.0,9.392661928770137,Master,2,False,True,False,False,2023,3,4,5,89,Offline,1
-195,60,Senior,Male,1,24000.0,10.085809109330082,Master,2,False,False,True,False,2023,4,14,4,48,Offline,0
-196,62,Senior,Female,0,27000.0,10.203592144986466,Bachelor,1,False,False,False,True,2023,3,24,4,69,Offline,1
-197,42,Adult,Female,0,14000.0,9.546812608597396,Master,2,False,False,True,False,2023,4,13,3,49,Referral,0
-198,59,Senior,Female,0,24000.0,10.085809109330082,Master,2,False,True,False,False,2023,1,17,1,135,Online,0
-199,53,Senior,Male,1,23000.0,10.043249494911286,Bachelor,1,False,False,False,True,2023,1,6,4,146,Online,0
-200,44,Adult,Male,1,12000.0,9.392661928770137,PhD,3,False,True,False,False,2023,5,27,5,5,Referral,1
-201,55,Senior,Female,0,26000.0,10.165851817003619,PhD,3,False,True,False,False,2023,1,28,5,124,Referral,1
-202,24,Young,Male,1,29000.0,10.275051108968611,Master,2,False,False,False,True,2023,2,7,1,114,Referral,0
-203,22,Young,Female,0,38000.0,10.545341438708522,PhD,3,False,False,False,True,2023,4,29,5,33,Offline,0
-204,60,Senior,Female,0,37000.0,10.51867319162636,PhD,3,False,True,False,False,2023,2,6,0,115,Referral,0
-205,62,Senior,Female,0,11000.0,9.305650551780507,Master,2,True,False,False,False,2023,4,25,1,37,Referral,1
-206,68,Senior,Female,0,14000.0,9.546812608597396,PhD,3,True,False,False,False,2023,3,9,3,84,Offline,0
-207,48,Adult,Female,0,28000.0,10.239959789157341,Master,2,True,False,False,False,2023,2,12,6,109,Online,0
-208,40,Adult,Female,0,28000.0,10.239959789157341,High School,0,True,False,False,False,2023,2,27,0,94,Online,0
-209,59,Senior,Female,0,28000.0,10.239959789157341,Bachelor,1,False,False,False,True,2023,1,13,4,139,Offline,0
-210,27,Adult,Male,1,52500.0,10.868568448579715,Bachelor,1,True,False,False,False,2023,2,21,1,100,Online,0
-211,49,Adult,Male,1,29000.0,10.275051108968611,PhD,3,False,False,True,False,2023,2,27,0,94,Offline,1
-212,60,Senior,Male,1,39000.0,10.571316925111784,PhD,3,False,True,False,False,2023,2,1,2,120,Online,0
-213,47,Adult,Male,1,35000.0,10.46310334047155,PhD,3,False,False,False,True,2023,4,15,5,47,Referral,1
-214,56,Senior,Male,1,31000.0,10.341742483467284,Bachelor,1,False,False,False,True,2023,3,24,4,69,Online,0
-215,48,Adult,Male,1,19000.0,9.852194258148577,High School,0,False,False,True,False,2023,4,9,6,53,Offline,0
-216,35,Adult,Male,1,32000.0,10.373491181781864,High School,0,True,False,False,False,2023,4,14,4,48,Online,0
-217,53,Senior,Female,0,15000.0,9.615805480084347,Bachelor,1,True,False,False,False,2023,1,28,5,124,Referral,1
-218,19,Young,Female,0,20000.0,9.903487552536127,High School,0,False,False,True,False,2023,5,9,1,23,Online,1
-219,31,Adult,Female,0,17000.0,9.740968623038354,Bachelor,1,False,False,False,True,2023,2,17,4,104,Referral,1
-220,30,Adult,Female,0,23000.0,10.043249494911286,High School,0,False,False,False,True,2023,2,9,3,112,Referral,0
-221,46,Adult,Male,1,52500.0,10.868568448579715,Master,2,False,False,False,True,2023,4,7,4,55,Offline,0
-222,29,Adult,Male,1,9000.0,9.104979856318357,Master,2,False,False,False,True,2023,4,24,0,38,Referral,1
-223,56,Senior,Female,0,31000.0,10.341742483467284,Bachelor,1,True,False,False,False,2023,5,12,4,20,Referral,1
-224,19,Young,Female,0,10000.0,9.210340371976184,High School,0,True,False,False,False,2023,5,17,2,15,Online,0
-225,49,Adult,Male,1,17000.0,9.740968623038354,PhD,3,False,False,False,True,2023,4,21,4,41,Offline,1
-226,30,Adult,Female,0,38000.0,10.545341438708522,High School,0,False,False,True,False,2023,5,24,2,8,Referral,0
-227,63,Senior,Female,0,23000.0,10.043249494911286,Master,2,False,True,False,False,2023,3,17,4,76,Referral,0
-228,44,Adult,Female,0,13000.0,9.472704636443673,Master,2,False,False,True,False,2023,1,31,1,121,Referral,0
-229,66,Senior,Female,0,15000.0,9.615805480084347,High School,0,True,False,False,False,2023,4,29,5,33,Offline,0
-230,58,Senior,Male,1,31000.0,10.341742483467284,High School,0,False,True,False,False,2023,5,22,0,10,Offline,0
-231,34,Adult,Female,0,15000.0,9.615805480084347,PhD,3,True,False,False,False,2023,1,25,2,127,Referral,0
-232,57,Senior,Female,0,25000.0,10.126631103850338,PhD,3,True,False,False,False,2023,2,3,4,118,Referral,0
-233,48,Adult,Male,1,23000.0,10.043249494911286,High School,0,False,False,False,True,2023,3,8,2,85,Offline,0
-234,51,Senior,Male,1,16000.0,9.680344001221918,High School,0,False,False,False,True,2023,4,28,4,34,Referral,0
-235,41,Adult,Female,0,52500.0,10.868568448579715,High School,0,False,False,False,True,2023,3,14,1,79,Offline,1
-236,62,Senior,Male,1,30000.0,10.308952660644293,High School,0,False,False,False,True,2023,1,26,3,126,Online,0
-237,52,Senior,Female,0,8000.0,8.987196820661973,Bachelor,1,False,False,False,True,2023,5,28,6,4,Online,0
-238,65,Senior,Female,0,24000.0,10.085809109330082,High School,0,True,False,False,False,2023,4,14,4,48,Referral,0
-239,23,Young,Male,1,16000.0,9.680344001221918,PhD,3,False,False,False,True,2023,1,10,1,142,Referral,1
-240,36,Adult,Female,0,34000.0,10.4341158035983,Master,2,False,False,False,True,2023,3,8,2,85,Referral,0
-241,47,Adult,Female,0,15000.0,9.615805480084347,Bachelor,1,True,False,False,False,2023,1,5,3,147,Offline,0
-242,24,Young,Female,0,21000.0,9.95227771670556,High School,0,True,False,False,False,2023,1,27,4,125,Referral,0
-243,27,Adult,Female,0,28000.0,10.239959789157341,Master,2,False,True,False,False,2023,4,23,6,39,Referral,1
-244,58,Senior,Male,1,34000.0,10.4341158035983,Bachelor,1,False,False,True,False,2023,1,15,6,137,Online,0
-245,49,Adult,Male,1,12000.0,9.392661928770137,Master,2,True,False,False,False,2023,4,15,5,47,Referral,0
-246,51,Senior,Female,0,19000.0,9.852194258148577,High School,0,False,True,False,False,2023,2,13,0,108,Online,0
-247,45,Adult,Male,1,17000.0,9.740968623038354,High School,0,False,False,False,True,2023,1,26,3,126,Referral,0
-248,32,Adult,Female,0,16000.0,9.680344001221918,PhD,3,False,False,True,False,2023,4,5,2,57,Online,1
-249,47,Adult,Female,0,52500.0,10.868568448579715,High School,0,False,False,True,False,2023,3,25,5,68,Referral,1
-250,54,Senior,Female,0,27000.0,10.203592144986466,High School,0,False,False,False,True,2023,5,20,5,12,Online,1
-251,46,Adult,Female,0,12000.0,9.392661928770137,Bachelor,1,True,False,False,False,2023,5,12,4,20,Offline,1
-252,39,Adult,Female,0,35000.0,10.46310334047155,PhD,3,False,False,False,True,2023,3,28,1,65,Online,0
-253,21,Young,Male,1,52500.0,10.868568448579715,Bachelor,1,False,False,False,True,2023,4,22,5,40,Online,0
-254,37,Adult,Female,0,37000.0,10.51867319162636,Master,2,False,False,False,True,2023,5,9,1,23,Online,1
-255,49,Adult,Male,1,10000.0,9.210340371976184,High School,0,False,True,False,False,2023,3,30,3,63,Referral,0
-256,53,Senior,Male,1,17000.0,9.740968623038354,Master,2,False,False,True,False,2023,3,7,1,86,Referral,1
-257,67,Senior,Female,0,42000.0,10.645424897265505,Bachelor,1,False,False,False,True,2023,5,11,3,21,Referral,0
-258,21,Young,Female,0,15000.0,9.615805480084347,High School,0,False,False,True,False,2023,5,2,1,30,Offline,0
-259,44,Adult,Female,0,27000.0,10.203592144986466,High School,0,False,True,False,False,2023,5,29,0,3,Offline,1
-260,34,Adult,Female,0,32000.0,10.373491181781864,Bachelor,1,False,True,False,False,2023,3,25,5,68,Online,1
-261,29,Adult,Female,0,14000.0,9.546812608597396,Bachelor,1,True,False,False,False,2023,4,26,2,36,Offline,1
-262,39,Adult,Male,1,21000.0,9.95227771670556,Bachelor,1,True,False,False,False,2023,4,26,2,36,Online,0
-263,34,Adult,Female,0,4000.0,8.294049640102028,Bachelor,1,True,False,False,False,2023,2,7,1,114,Online,1
-264,27,Adult,Female,0,13000.0,9.472704636443673,Bachelor,1,False,False,False,True,2023,5,23,1,9,Online,0
-265,18,Young,Male,1,19000.0,9.852194258148577,High School,0,False,False,False,True,2023,4,20,3,42,Online,0
-266,39,Adult,Male,1,12000.0,9.392661928770137,Bachelor,1,True,False,False,False,2023,2,15,2,106,Referral,1
-267,43,Adult,Female,0,50000.0,10.819778284410283,High School,0,False,True,False,False,2023,1,25,2,127,Offline,1
-268,35,Adult,Male,1,11000.0,9.305650551780507,High School,0,False,False,True,False,2023,1,21,5,131,Online,0
-269,67,Senior,Female,0,18000.0,9.798127036878302,Bachelor,1,False,False,True,False,2023,5,1,0,31,Online,1
-270,31,Adult,Male,1,24000.0,10.085809109330082,Bachelor,1,False,False,False,True,2023,5,2,1,30,Offline,0
-271,64,Senior,Male,1,45000.0,10.714417768752456,PhD,3,False,False,False,True,2023,5,13,5,19,Online,0
-272,46,Adult,Female,0,11000.0,9.305650551780507,High School,0,True,False,False,False,2023,3,11,5,82,Online,0
-273,29,Adult,Male,1,39000.0,10.571316925111784,Bachelor,1,False,True,False,False,2023,4,23,6,39,Offline,1
-274,53,Senior,Male,1,22000.0,9.998797732340453,Bachelor,1,False,False,True,False,2023,4,17,0,45,Offline,0
-275,52,Senior,Male,1,13000.0,9.472704636443673,Bachelor,1,False,True,False,False,2023,4,22,5,40,Offline,1
-276,69,Senior,Male,1,28000.0,10.239959789157341,PhD,3,True,False,False,False,2023,4,18,1,44,Offline,0
-277,29,Adult,Male,1,24000.0,10.085809109330082,PhD,3,False,True,False,False,2023,2,16,3,105,Online,1
-278,24,Young,Male,1,16000.0,9.680344001221918,Master,2,False,False,False,True,2023,4,1,5,61,Referral,0
-279,46,Adult,Female,0,23000.0,10.043249494911286,High School,0,False,False,False,True,2023,1,18,2,134,Referral,1
-280,28,Adult,Female,0,18000.0,9.798127036878302,Master,2,False,False,True,False,2023,5,29,0,3,Offline,0
-281,50,Adult,Male,1,23000.0,10.043249494911286,Bachelor,1,False,False,False,True,2023,4,14,4,48,Referral,1
-282,23,Young,Female,0,31000.0,10.341742483467284,PhD,3,False,False,True,False,2023,2,9,3,112,Online,1
-283,64,Senior,Female,0,49000.0,10.799575577092764,PhD,3,False,False,True,False,2023,5,18,3,14,Referral,1
-284,32,Adult,Female,0,12000.0,9.392661928770137,Master,2,False,False,True,False,2023,3,30,3,63,Online,0
-285,49,Adult,Male,1,52500.0,10.868568448579715,PhD,3,False,True,False,False,2023,3,2,3,91,Offline,1
-286,68,Senior,Female,0,8000.0,8.987196820661973,Bachelor,1,False,True,False,False,2023,1,5,3,147,Offline,0
-287,28,Adult,Male,1,20000.0,9.903487552536127,PhD,3,False,True,False,False,2023,5,2,1,30,Online,1
-288,40,Adult,Female,0,30000.0,10.308952660644293,Master,2,False,True,False,False,2023,2,24,4,97,Referral,1
-289,43,Adult,Male,1,25000.0,10.126631103850338,Bachelor,1,False,True,False,False,2023,2,6,0,115,Offline,0
-290,51,Senior,Male,1,16000.0,9.680344001221918,Master,2,True,False,False,False,2023,2,25,5,96,Offline,0
-291,63,Senior,Female,0,20000.0,9.903487552536127,PhD,3,False,True,False,False,2023,4,12,2,50,Referral,0
-292,51,Senior,Female,0,17000.0,9.740968623038354,Master,2,True,False,False,False,2023,4,3,0,59,Referral,0
-293,46,Adult,Male,1,16000.0,9.680344001221918,Master,2,False,False,True,False,2023,3,14,1,79,Online,1
-294,21,Young,Female,0,34000.0,10.4341158035983,High School,0,False,False,True,False,2023,2,28,1,93,Referral,0
-295,34,Adult,Female,0,26000.0,10.165851817003619,PhD,3,False,True,False,False,2023,1,2,0,150,Referral,0
-296,52,Senior,Female,0,16000.0,9.680344001221918,PhD,3,False,False,True,False,2023,4,14,4,48,Referral,0
-297,30,Adult,Male,1,35000.0,10.46310334047155,Master,2,False,True,False,False,2023,2,20,0,101,Online,0
-298,58,Senior,Male,1,26000.0,10.165851817003619,High School,0,False,True,False,False,2023,1,30,0,122,Online,0
-299,56,Senior,Female,0,33000.0,10.404262840448617,PhD,3,False,True,False,False,2023,1,11,2,141,Offline,1
-300,32,Adult,Female,0,30000.0,10.308952660644293,Bachelor,1,False,True,False,False,2023,4,18,1,44,Online,0
-301,46,Adult,Female,0,15000.0,9.615805480084347,Master,2,False,False,True,False,2023,3,17,4,76,Offline,1
-302,46,Adult,Male,1,17000.0,9.740968623038354,PhD,3,False,False,True,False,2023,3,31,4,62,Referral,0
-303,28,Adult,Male,1,32000.0,10.373491181781864,Bachelor,1,False,True,False,False,2023,5,3,2,29,Offline,0
-304,69,Senior,Female,0,30000.0,10.308952660644293,PhD,3,True,False,False,False,2023,5,5,4,27,Offline,1
-305,49,Adult,Female,0,22000.0,9.998797732340453,Bachelor,1,True,False,False,False,2023,5,2,1,30,Referral,0
-306,19,Young,Female,0,23000.0,10.043249494911286,Master,2,False,True,False,False,2023,4,4,1,58,Online,0
-307,64,Senior,Female,0,42000.0,10.645424897265505,PhD,3,False,False,True,False,2023,4,13,3,49,Online,0
-308,31,Adult,Female,0,16000.0,9.680344001221918,PhD,3,True,False,False,False,2023,1,31,1,121,Online,0
-309,37,Adult,Female,0,29000.0,10.275051108968611,High School,0,False,True,False,False,2023,2,21,1,100,Online,0
-310,39,Adult,Male,1,20000.0,9.903487552536127,Master,2,False,False,True,False,2023,3,30,3,63,Online,0
-311,28,Adult,Female,0,20000.0,9.903487552536127,Bachelor,1,False,True,False,False,2023,3,17,4,76,Offline,0
-312,44,Adult,Male,1,38000.0,10.545341438708522,PhD,3,True,False,False,False,2023,5,9,1,23,Offline,0
-313,20,Young,Female,0,33000.0,10.404262840448617,PhD,3,True,False,False,False,2023,1,22,6,130,Referral,0
-314,34,Adult,Female,0,33000.0,10.404262840448617,Bachelor,1,True,False,False,False,2023,2,9,3,112,Offline,0
-315,61,Senior,Male,1,42000.0,10.645424897265505,Master,2,False,True,False,False,2023,4,11,1,51,Offline,0
-316,45,Adult,Male,1,22000.0,9.998797732340453,High School,0,True,False,False,False,2023,4,21,4,41,Offline,0
-317,46,Adult,Male,1,31000.0,10.341742483467284,High School,0,False,False,False,True,2023,5,9,1,23,Referral,1
-318,38,Adult,Male,1,19000.0,9.852194258148577,PhD,3,False,False,True,False,2023,3,6,0,87,Online,0
-319,64,Senior,Female,0,26000.0,10.165851817003619,Bachelor,1,False,False,False,True,2023,5,29,0,3,Offline,1
-320,33,Adult,Male,1,21000.0,9.95227771670556,PhD,3,False,True,False,False,2023,3,20,0,73,Referral,0
-321,54,Senior,Female,0,23000.0,10.043249494911286,Bachelor,1,False,False,True,False,2023,1,22,6,130,Referral,1
-322,37,Adult,Male,1,30000.0,10.308952660644293,High School,0,False,False,False,True,2023,4,9,6,53,Referral,0
-323,23,Young,Female,0,15000.0,9.615805480084347,Master,2,False,True,False,False,2023,1,8,6,144,Online,1
-324,36,Adult,Female,0,52500.0,10.868568448579715,Bachelor,1,False,False,True,False,2023,1,17,1,135,Offline,1
-325,22,Young,Female,0,13000.0,9.472704636443673,High School,0,False,False,False,True,2023,1,17,1,135,Online,0
-326,20,Young,Female,0,12000.0,9.392661928770137,PhD,3,False,False,True,False,2023,3,31,4,62,Online,1
-327,18,Young,Female,0,39000.0,10.571316925111784,Bachelor,1,False,True,False,False,2023,5,21,6,11,Online,0
-328,55,Senior,Female,0,33000.0,10.404262840448617,Master,2,False,True,False,False,2023,5,25,3,7,Referral,0
-329,32,Adult,Male,1,30000.0,10.308952660644293,PhD,3,True,False,False,False,2023,3,22,2,71,Referral,1
-330,51,Senior,Female,0,30000.0,10.308952660644293,PhD,3,True,False,False,False,2023,3,19,6,74,Referral,1
-331,52,Senior,Male,1,22000.0,9.998797732340453,High School,0,False,True,False,False,2023,1,6,4,146,Referral,0
-332,66,Senior,Male,1,14000.0,9.546812608597396,Bachelor,1,False,False,True,False,2023,4,20,3,42,Online,0
-333,42,Adult,Female,0,23000.0,10.043249494911286,PhD,3,False,True,False,False,2023,1,14,5,138,Offline,1
-334,41,Adult,Male,1,16000.0,9.680344001221918,Master,2,False,False,True,False,2023,3,13,0,80,Offline,1
-335,29,Adult,Female,0,36000.0,10.491274217438248,Bachelor,1,True,False,False,False,2023,5,23,1,9,Offline,1
-336,35,Adult,Male,1,20000.0,9.903487552536127,Master,2,False,False,True,False,2023,2,23,3,98,Offline,1
-337,32,Adult,Female,0,15000.0,9.615805480084347,PhD,3,False,False,False,True,2023,1,27,4,125,Online,0
-338,61,Senior,Male,1,19000.0,9.852194258148577,Master,2,False,False,True,False,2023,1,13,4,139,Online,1
-339,33,Adult,Female,0,27000.0,10.203592144986466,High School,0,False,True,False,False,2023,3,1,2,92,Online,0
-340,44,Adult,Female,0,17000.0,9.740968623038354,Master,2,False,False,False,True,2023,1,6,4,146,Referral,0
-341,25,Young,Female,0,15000.0,9.615805480084347,Bachelor,1,False,False,True,False,2023,2,27,0,94,Referral,0
-342,63,Senior,Female,0,25000.0,10.126631103850338,Master,2,False,False,False,True,2023,2,18,5,103,Referral,0
-343,42,Adult,Male,1,25000.0,10.126631103850338,Master,2,True,False,False,False,2023,1,26,3,126,Offline,0
-344,34,Adult,Female,0,17000.0,9.740968623038354,High School,0,False,False,False,True,2023,2,16,3,105,Referral,1
-345,46,Adult,Male,1,17000.0,9.740968623038354,Master,2,False,False,False,True,2023,1,5,3,147,Offline,0
-346,25,Young,Male,1,25000.0,10.126631103850338,Master,2,False,False,False,True,2023,1,20,4,132,Referral,0
-347,32,Adult,Male,1,11000.0,9.305650551780507,PhD,3,False,False,False,True,2023,5,14,6,18,Offline,1
-348,44,Adult,Female,0,11000.0,9.305650551780507,PhD,3,False,False,False,True,2023,2,28,1,93,Referral,0
-349,63,Senior,Male,1,15000.0,9.615805480084347,Bachelor,1,False,False,True,False,2023,5,26,4,6,Referral,0
-350,67,Senior,Male,1,20000.0,9.903487552536127,PhD,3,False,False,True,False,2023,5,12,4,20,Online,0
-351,69,Senior,Male,1,26000.0,10.165851817003619,PhD,3,False,True,False,False,2023,1,17,1,135,Offline,1
-352,24,Young,Female,0,46000.0,10.736396675471232,PhD,3,False,False,True,False,2023,1,14,5,138,Referral,0
-353,20,Young,Female,0,34000.0,10.4341158035983,PhD,3,False,False,False,True,2023,1,13,4,139,Online,0
-354,46,Adult,Male,1,20000.0,9.903487552536127,High School,0,False,False,False,True,2023,5,15,0,17,Offline,0
-355,61,Senior,Female,0,22000.0,9.998797732340453,PhD,3,False,False,False,True,2023,5,8,0,24,Online,0
-356,41,Adult,Female,0,13000.0,9.472704636443673,High School,0,True,False,False,False,2023,2,13,0,108,Online,0
-357,20,Young,Male,1,22000.0,9.998797732340453,High School,0,False,False,False,True,2023,4,29,5,33,Offline,0
-358,37,Adult,Male,1,19000.0,9.852194258148577,PhD,3,True,False,False,False,2023,5,23,1,9,Referral,0
-359,63,Senior,Female,0,26000.0,10.165851817003619,Master,2,False,False,False,True,2023,1,19,3,133,Offline,1
-360,32,Adult,Male,1,15000.0,9.615805480084347,High School,0,False,False,False,True,2023,3,4,5,89,Referral,0
-361,42,Adult,Female,0,29000.0,10.275051108968611,Master,2,True,False,False,False,2023,3,22,2,71,Referral,0
-362,47,Adult,Female,0,47000.0,10.757902880692196,Master,2,False,True,False,False,2023,5,27,5,5,Offline,0
-363,31,Adult,Female,0,21000.0,9.95227771670556,PhD,3,True,False,False,False,2023,5,28,6,4,Online,0
-364,24,Young,Female,0,27000.0,10.203592144986466,Bachelor,1,False,False,True,False,2023,4,10,0,52,Offline,1
-365,34,Adult,Female,0,31000.0,10.341742483467284,PhD,3,False,False,False,True,2023,5,2,1,30,Referral,0
-366,61,Senior,Female,0,18000.0,9.798127036878302,Bachelor,1,True,False,False,False,2023,2,13,0,108,Offline,0
-367,37,Adult,Male,1,25000.0,10.126631103850338,Bachelor,1,True,False,False,False,2023,4,14,4,48,Offline,1
-368,53,Senior,Male,1,22000.0,9.998797732340453,PhD,3,False,True,False,False,2023,3,2,3,91,Referral,0
-369,26,Adult,Female,0,23000.0,10.043249494911286,PhD,3,False,False,False,True,2023,5,5,4,27,Online,0
-370,55,Senior,Female,0,15000.0,9.615805480084347,Bachelor,1,False,True,False,False,2023,5,25,3,7,Offline,0
-371,65,Senior,Female,0,22000.0,9.998797732340453,PhD,3,True,False,False,False,2023,3,12,6,81,Referral,0
-372,39,Adult,Male,1,28000.0,10.239959789157341,Bachelor,1,False,False,True,False,2023,4,17,0,45,Referral,0
-373,19,Young,Female,0,46000.0,10.736396675471232,Master,2,True,False,False,False,2023,2,19,6,102,Online,0
-374,41,Adult,Male,1,36000.0,10.491274217438248,PhD,3,False,False,False,True,2023,3,6,0,87,Online,0
-375,25,Young,Female,0,52500.0,10.868568448579715,Master,2,True,False,False,False,2023,4,9,6,53,Offline,1
-376,28,Adult,Female,0,15000.0,9.615805480084347,High School,0,False,False,False,True,2023,2,1,2,120,Online,0
-377,30,Adult,Male,1,34000.0,10.4341158035983,Master,2,False,False,False,True,2023,5,21,6,11,Online,0
-378,34,Adult,Male,1,24000.0,10.085809109330082,Master,2,False,False,True,False,2023,2,27,0,94,Online,0
-379,25,Young,Female,0,52500.0,10.868568448579715,Bachelor,1,False,False,False,True,2023,5,8,0,24,Online,0
-380,38,Adult,Female,0,15000.0,9.615805480084347,Master,2,False,False,False,True,2023,5,22,0,10,Offline,0
-381,35,Adult,Female,0,14000.0,9.546812608597396,PhD,3,False,False,True,False,2023,4,22,5,40,Referral,1
-382,47,Adult,Male,1,16000.0,9.680344001221918,Bachelor,1,False,False,True,False,2023,3,9,3,84,Referral,1
-383,35,Adult,Male,1,8000.0,8.987196820661973,High School,0,False,False,True,False,2023,2,9,3,112,Referral,1
-384,63,Senior,Male,1,17000.0,9.740968623038354,PhD,3,False,True,False,False,2023,5,24,2,8,Referral,1
-385,64,Senior,Male,1,15000.0,9.615805480084347,High School,0,True,False,False,False,2023,5,12,4,20,Referral,0
-386,48,Adult,Male,1,24000.0,10.085809109330082,Master,2,True,False,False,False,2023,3,31,4,62,Referral,0
-387,55,Senior,Male,1,26000.0,10.165851817003619,PhD,3,False,True,False,False,2023,1,28,5,124,Offline,0
-388,49,Adult,Female,0,52500.0,10.868568448579715,PhD,3,True,False,False,False,2023,4,6,3,56,Online,0
-389,28,Adult,Female,0,35000.0,10.46310334047155,High School,0,False,False,False,True,2023,1,31,1,121,Referral,1
-390,62,Senior,Male,1,17000.0,9.740968623038354,PhD,3,False,False,True,False,2023,1,3,1,149,Offline,0
-391,42,Adult,Female,0,14000.0,9.546812608597396,PhD,3,False,True,False,False,2023,5,16,1,16,Referral,1
-392,50,Adult,Female,0,28000.0,10.239959789157341,PhD,3,True,False,False,False,2023,1,24,1,128,Referral,0
-393,55,Senior,Male,1,11000.0,9.305650551780507,Master,2,False,True,False,False,2023,1,15,6,137,Online,1
-394,58,Senior,Female,0,52500.0,10.868568448579715,High School,0,False,True,False,False,2023,2,14,1,107,Online,1
-395,25,Young,Male,1,40000.0,10.596634733096073,PhD,3,False,False,False,True,2023,1,8,6,144,Online,1
-396,28,Adult,Male,1,17000.0,9.740968623038354,Bachelor,1,True,False,False,False,2023,3,12,6,81,Referral,1
-397,39,Adult,Female,0,9000.0,9.104979856318357,Bachelor,1,False,False,False,True,2023,4,18,1,44,Referral,0
-398,68,Senior,Male,1,43000.0,10.668955394675699,Bachelor,1,True,False,False,False,2023,4,25,1,37,Referral,1
-399,41,Adult,Male,1,21000.0,9.95227771670556,Bachelor,1,False,False,False,True,2023,4,13,3,49,Offline,1
-400,58,Senior,Male,1,41000.0,10.621327345686446,Master,2,False,False,False,True,2023,5,5,4,27,Offline,1
-401,34,Adult,Male,1,10000.0,9.210340371976184,PhD,3,False,False,True,False,2023,2,26,6,95,Referral,1
-402,29,Adult,Male,1,16000.0,9.680344001221918,High School,0,False,False,False,True,2023,1,30,0,122,Referral,1
-403,63,Senior,Male,1,22000.0,9.998797732340453,PhD,3,True,False,False,False,2023,5,26,4,6,Referral,1
-404,49,Adult,Male,1,23000.0,10.043249494911286,Master,2,False,False,False,True,2023,4,24,0,38,Offline,0
-405,32,Adult,Male,1,18000.0,9.798127036878302,Bachelor,1,False,True,False,False,2023,4,27,3,35,Referral,1
-406,33,Adult,Female,0,30000.0,10.308952660644293,Master,2,False,False,False,True,2023,3,1,2,92,Offline,0
-407,39,Adult,Female,0,13000.0,9.472704636443673,PhD,3,False,True,False,False,2023,4,8,5,54,Referral,0
-408,45,Adult,Female,0,21000.0,9.95227771670556,High School,0,False,False,True,False,2023,5,6,5,26,Offline,0
-409,37,Adult,Male,1,23000.0,10.043249494911286,Master,2,True,False,False,False,2023,4,4,1,58,Referral,0
-410,50,Adult,Male,1,28000.0,10.239959789157341,High School,0,False,False,False,True,2023,5,14,6,18,Online,0
-411,27,Adult,Female,0,31000.0,10.341742483467284,Master,2,False,False,False,True,2023,5,2,1,30,Online,0
-412,57,Senior,Female,0,13000.0,9.472704636443673,High School,0,True,False,False,False,2023,4,18,1,44,Online,0
-413,49,Adult,Female,0,10000.0,9.210340371976184,High School,0,True,False,False,False,2023,1,4,2,148,Online,0
-414,67,Senior,Male,1,42000.0,10.645424897265505,Bachelor,1,False,True,False,False,2023,4,3,0,59,Referral,0
-415,50,Adult,Female,0,26000.0,10.165851817003619,High School,0,False,True,False,False,2023,1,6,4,146,Online,1
-416,19,Young,Female,0,15000.0,9.615805480084347,Bachelor,1,True,False,False,False,2023,2,1,2,120,Online,1
-417,50,Adult,Male,1,48000.0,10.778956289890028,PhD,3,True,False,False,False,2023,4,16,6,46,Online,1
-418,50,Adult,Female,0,23000.0,10.043249494911286,PhD,3,False,False,False,True,2023,5,26,4,6,Online,1
-419,58,Senior,Male,1,40000.0,10.596634733096073,Bachelor,1,False,True,False,False,2023,1,15,6,137,Online,1
-420,30,Adult,Male,1,23000.0,10.043249494911286,Bachelor,1,True,False,False,False,2023,5,2,1,30,Referral,0
-421,47,Adult,Male,1,52500.0,10.868568448579715,Master,2,False,False,True,False,2023,4,6,3,56,Online,1
-422,50,Adult,Female,0,52500.0,10.868568448579715,Master,2,False,False,False,True,2023,1,6,4,146,Offline,1
-423,30,Adult,Female,0,19000.0,9.852194258148577,Master,2,False,False,False,True,2023,4,22,5,40,Online,0
-424,69,Senior,Male,1,36000.0,10.491274217438248,PhD,3,False,False,False,True,2023,4,30,6,32,Offline,0
-425,43,Adult,Female,0,30000.0,10.308952660644293,Master,2,False,False,False,True,2023,5,3,2,29,Online,1
-426,39,Adult,Female,0,44000.0,10.691944912900398,High School,0,True,False,False,False,2023,3,8,2,85,Offline,0
-427,56,Senior,Female,0,14000.0,9.546812608597396,High School,0,False,True,False,False,2023,4,16,6,46,Online,1
-428,19,Young,Female,0,31000.0,10.341742483467284,Master,2,False,False,True,False,2023,5,19,4,13,Referral,0
-429,55,Senior,Male,1,37000.0,10.51867319162636,High School,0,False,False,False,True,2023,2,12,6,109,Offline,0
-430,56,Senior,Female,0,9000.0,9.104979856318357,PhD,3,False,True,False,False,2023,5,25,3,7,Online,0
-431,43,Adult,Male,1,12000.0,9.392661928770137,High School,0,False,False,False,True,2023,4,6,3,56,Offline,0
-432,63,Senior,Male,1,8000.0,8.987196820661973,PhD,3,False,False,True,False,2023,5,12,4,20,Referral,0
-433,67,Senior,Female,0,19000.0,9.852194258148577,Bachelor,1,False,False,True,False,2023,3,22,2,71,Offline,1
-434,32,Adult,Male,1,32000.0,10.373491181781864,Bachelor,1,False,True,False,False,2023,2,10,4,111,Online,1
-435,51,Senior,Female,0,47000.0,10.757902880692196,Bachelor,1,True,False,False,False,2023,5,13,5,19,Offline,1
-436,59,Senior,Female,0,23000.0,10.043249494911286,Bachelor,1,False,False,False,True,2023,2,4,5,117,Offline,0
-437,61,Senior,Male,1,50000.0,10.819778284410283,High School,0,False,False,False,True,2023,1,22,6,130,Online,1
-438,66,Senior,Male,1,11000.0,9.305650551780507,Master,2,True,False,False,False,2023,5,30,1,2,Online,0
-439,57,Senior,Male,1,9000.0,9.104979856318357,High School,0,False,True,False,False,2023,4,22,5,40,Offline,0
-440,28,Adult,Male,1,21000.0,9.95227771670556,PhD,3,True,False,False,False,2023,1,11,2,141,Offline,0
-441,20,Young,Female,0,27000.0,10.203592144986466,High School,0,False,False,True,False,2023,1,3,1,149,Referral,0
-442,23,Young,Female,0,22000.0,9.998797732340453,High School,0,False,False,True,False,2023,5,17,2,15,Referral,0
-443,26,Adult,Female,0,8000.0,8.987196820661973,PhD,3,False,False,True,False,2023,3,1,2,92,Online,0
-444,23,Young,Male,1,21000.0,9.95227771670556,Bachelor,1,True,False,False,False,2023,3,17,4,76,Referral,1
-445,26,Adult,Male,1,11000.0,9.305650551780507,Bachelor,1,False,False,False,True,2023,3,28,1,65,Online,1
-446,56,Senior,Male,1,31000.0,10.341742483467284,Bachelor,1,False,True,False,False,2023,1,14,5,138,Offline,0
-447,48,Adult,Female,0,26000.0,10.165851817003619,Master,2,True,False,False,False,2023,1,18,2,134,Offline,0
-448,49,Adult,Male,1,14000.0,9.546812608597396,PhD,3,False,True,False,False,2023,4,23,6,39,Online,0
-449,58,Senior,Female,0,17000.0,9.740968623038354,PhD,3,False,True,False,False,2023,3,14,1,79,Online,0
-450,67,Senior,Male,1,13000.0,9.472704636443673,High School,0,False,False,False,True,2023,1,23,0,129,Offline,1
-451,29,Adult,Female,0,21000.0,9.95227771670556,Master,2,False,False,True,False,2023,3,24,4,69,Referral,0
-452,25,Young,Female,0,36000.0,10.491274217438248,Bachelor,1,False,False,True,False,2023,5,5,4,27,Offline,1
-453,25,Young,Male,1,13000.0,9.472704636443673,Master,2,False,False,True,False,2023,3,10,4,83,Online,1
-454,67,Senior,Male,1,28000.0,10.239959789157341,PhD,3,True,False,False,False,2023,2,16,3,105,Offline,0
-455,45,Adult,Female,0,17000.0,9.740968623038354,PhD,3,False,True,False,False,2023,4,26,2,36,Online,1
-456,37,Adult,Female,0,15000.0,9.615805480084347,High School,0,False,True,False,False,2023,1,30,0,122,Online,0
-457,64,Senior,Male,1,21000.0,9.95227771670556,High School,0,True,False,False,False,2023,1,25,2,127,Offline,0
-458,24,Young,Male,1,13000.0,9.472704636443673,PhD,3,True,False,False,False,2023,4,22,5,40,Referral,0
-459,28,Adult,Female,0,17000.0,9.740968623038354,Bachelor,1,True,False,False,False,2023,1,25,2,127,Offline,0
-460,37,Adult,Male,1,12000.0,9.392661928770137,Bachelor,1,False,True,False,False,2023,3,15,2,78,Online,0
-461,33,Adult,Female,0,52500.0,10.868568448579715,Master,2,False,False,True,False,2023,2,27,0,94,Offline,0
-462,21,Young,Female,0,22000.0,9.998797732340453,PhD,3,False,False,True,False,2023,4,4,1,58,Online,1
-463,23,Young,Male,1,16000.0,9.680344001221918,PhD,3,False,False,True,False,2023,4,29,5,33,Referral,1
-464,39,Adult,Male,1,25000.0,10.126631103850338,Bachelor,1,False,True,False,False,2023,5,7,6,25,Referral,1
-465,43,Adult,Male,1,21000.0,9.95227771670556,Bachelor,1,False,False,False,True,2023,1,25,2,127,Referral,0
-466,20,Young,Male,1,20000.0,9.903487552536127,PhD,3,False,True,False,False,2023,3,19,6,74,Online,1
-467,58,Senior,Male,1,30000.0,10.308952660644293,High School,0,False,False,True,False,2023,4,9,6,53,Offline,1
-468,59,Senior,Female,0,32000.0,10.373491181781864,PhD,3,True,False,False,False,2023,4,26,2,36,Referral,1
-469,31,Adult,Female,0,17000.0,9.740968623038354,PhD,3,True,False,False,False,2023,2,17,4,104,Online,1
-470,28,Adult,Male,1,17000.0,9.740968623038354,Bachelor,1,False,False,False,True,2023,1,10,1,142,Online,1
-471,35,Adult,Male,1,19000.0,9.852194258148577,Bachelor,1,False,False,True,False,2023,4,9,6,53,Offline,0
-472,29,Adult,Male,1,7000.0,8.85366542803745,High School,0,False,True,False,False,2023,1,11,2,141,Referral,1
-473,40,Adult,Female,0,10000.0,9.210340371976184,High School,0,False,True,False,False,2023,3,26,6,67,Online,0
-474,29,Adult,Male,1,44000.0,10.691944912900398,Master,2,False,False,False,True,2023,5,29,0,3,Offline,1
-475,30,Adult,Male,1,50000.0,10.819778284410283,PhD,3,True,False,False,False,2023,5,15,0,17,Referral,0
-476,42,Adult,Female,0,19000.0,9.852194258148577,Bachelor,1,False,True,False,False,2023,5,6,5,26,Offline,0
-477,62,Senior,Female,0,29000.0,10.275051108968611,High School,0,True,False,False,False,2023,3,5,6,88,Offline,0
-478,68,Senior,Male,1,26000.0,10.165851817003619,Master,2,False,False,False,True,2023,1,2,0,150,Offline,1
-479,36,Adult,Male,1,52500.0,10.868568448579715,Master,2,False,False,True,False,2023,3,17,4,76,Offline,0
-480,63,Senior,Male,1,39000.0,10.571316925111784,Bachelor,1,False,False,False,True,2023,5,1,0,31,Online,0
-481,53,Senior,Female,0,21000.0,9.95227771670556,Bachelor,1,True,False,False,False,2023,2,11,5,110,Offline,1
-482,62,Senior,Male,1,14000.0,9.546812608597396,Master,2,True,False,False,False,2023,2,23,3,98,Online,1
-483,25,Young,Male,1,10000.0,9.210340371976184,High School,0,False,False,False,True,2023,3,16,3,77,Offline,0
-484,46,Adult,Male,1,24000.0,10.085809109330082,Master,2,False,False,True,False,2023,1,16,0,136,Offline,0
-485,49,Adult,Female,0,15000.0,9.615805480084347,PhD,3,True,False,False,False,2023,1,18,2,134,Online,1
-486,68,Senior,Female,0,11000.0,9.305650551780507,PhD,3,True,False,False,False,2023,3,31,4,62,Referral,1
-487,61,Senior,Male,1,16000.0,9.680344001221918,Bachelor,1,False,True,False,False,2023,5,24,2,8,Referral,0
-488,35,Adult,Male,1,13000.0,9.472704636443673,High School,0,False,False,True,False,2023,1,6,4,146,Referral,1
-489,23,Young,Female,0,51000.0,10.839580911706463,High School,0,False,True,False,False,2023,4,18,1,44,Offline,0
-491,36,Adult,Female,0,22000.0,9.998797732340453,Master,2,False,True,False,False,2023,2,11,5,110,Offline,1
-492,39,Adult,Female,0,46000.0,10.736396675471232,Bachelor,1,True,False,False,False,2023,3,17,4,76,Online,0
-493,54,Senior,Female,0,23000.0,10.043249494911286,Master,2,False,False,True,False,2023,3,18,5,75,Offline,0
-494,49,Adult,Female,0,14000.0,9.546812608597396,Master,2,False,True,False,False,2023,5,12,4,20,Online,1
-495,58,Senior,Female,0,47000.0,10.757902880692196,Master,2,False,True,False,False,2023,5,10,2,22,Online,1
-496,20,Young,Female,0,29000.0,10.275051108968611,High School,0,True,False,False,False,2023,2,28,1,93,Referral,0
-497,45,Adult,Female,0,13000.0,9.472704636443673,PhD,3,False,False,True,False,2023,1,27,4,125,Referral,1
-498,27,Adult,Male,1,20000.0,9.903487552536127,High School,0,False,False,False,True,2023,3,20,0,73,Referral,1
-499,68,Senior,Male,1,14000.0,9.546812608597396,PhD,3,True,False,False,False,2023,3,13,0,80,Offline,0
-500,52,Senior,Male,1,11000.0,9.305650551780507,Bachelor,1,False,False,False,True,2023,1,7,5,145,Online,1
-501,46,Adult,Female,0,35000.0,10.46310334047155,Bachelor,1,True,False,False,False,2023,4,21,4,41,Online,0
-502,32,Adult,Male,1,52500.0,10.868568448579715,Master,2,False,True,False,False,2023,4,29,5,33,Offline,1
-503,50,Adult,Female,0,11000.0,9.305650551780507,PhD,3,False,False,True,False,2023,3,4,5,89,Online,0
-504,24,Young,Female,0,29000.0,10.275051108968611,PhD,3,False,True,False,False,2023,5,4,3,28,Referral,0
-505,29,Adult,Male,1,16000.0,9.680344001221918,PhD,3,False,False,False,True,2023,1,12,3,140,Referral,0
-506,66,Senior,Female,0,17000.0,9.740968623038354,Master,2,False,False,False,True,2023,5,21,6,11,Online,1
-507,47,Adult,Male,1,16000.0,9.680344001221918,Master,2,True,False,False,False,2023,2,12,6,109,Online,1
-508,38,Adult,Male,1,14000.0,9.546812608597396,Bachelor,1,False,False,False,True,2023,1,17,1,135,Referral,1
-509,48,Adult,Male,1,23000.0,10.043249494911286,High School,0,False,False,True,False,2023,3,4,5,89,Online,1
-510,41,Adult,Female,0,15000.0,9.615805480084347,PhD,3,True,False,False,False,2023,4,30,6,32,Referral,0
-511,37,Adult,Male,1,25000.0,10.126631103850338,PhD,3,False,False,False,True,2023,2,5,6,116,Offline,1
-512,54,Senior,Female,0,21000.0,9.95227771670556,High School,0,False,False,True,False,2023,1,8,6,144,Referral,0
-513,21,Young,Male,1,20000.0,9.903487552536127,PhD,3,True,False,False,False,2023,3,10,4,83,Offline,1
-514,45,Adult,Male,1,14000.0,9.546812608597396,Master,2,False,False,True,False,2023,3,31,4,62,Online,0
-515,61,Senior,Male,1,17000.0,9.740968623038354,Master,2,False,True,False,False,2023,2,5,6,116,Online,1
-516,37,Adult,Female,0,32000.0,10.373491181781864,PhD,3,False,True,False,False,2023,1,28,5,124,Offline,1
-517,41,Adult,Female,0,28000.0,10.239959789157341,Master,2,False,False,True,False,2023,4,28,4,34,Online,1
-518,67,Senior,Female,0,14000.0,9.546812608597396,Master,2,False,False,True,False,2023,4,3,0,59,Offline,0
-519,66,Senior,Male,1,23000.0,10.043249494911286,PhD,3,False,False,False,True,2023,3,17,4,76,Offline,0
-520,68,Senior,Male,1,32000.0,10.373491181781864,Bachelor,1,False,True,False,False,2023,4,11,1,51,Referral,0
-521,49,Adult,Female,0,10000.0,9.210340371976184,High School,0,False,False,True,False,2023,5,24,2,8,Online,1
-522,58,Senior,Female,0,29000.0,10.275051108968611,Master,2,False,False,False,True,2023,1,14,5,138,Referral,0
-523,53,Senior,Female,0,16000.0,9.680344001221918,Bachelor,1,True,False,False,False,2023,3,12,6,81,Referral,1
-524,51,Senior,Female,0,29000.0,10.275051108968611,Master,2,False,False,False,True,2023,5,4,3,28,Offline,0
-525,53,Senior,Female,0,15000.0,9.615805480084347,Master,2,False,False,False,True,2023,5,5,4,27,Online,0
-526,19,Young,Female,0,9000.0,9.104979856318357,High School,0,True,False,False,False,2023,2,6,0,115,Online,1
-527,32,Adult,Male,1,10000.0,9.210340371976184,Master,2,False,False,False,True,2023,1,29,6,123,Online,0
-528,51,Senior,Female,0,23000.0,10.043249494911286,High School,0,False,True,False,False,2023,5,23,1,9,Referral,1
-529,53,Senior,Male,1,25000.0,10.126631103850338,High School,0,True,False,False,False,2023,1,19,3,133,Referral,1
-530,23,Young,Male,1,14000.0,9.546812608597396,High School,0,False,False,True,False,2023,4,16,6,46,Online,0
-531,56,Senior,Female,0,30000.0,10.308952660644293,Bachelor,1,False,True,False,False,2023,1,21,5,131,Online,0
-532,59,Senior,Female,0,10000.0,9.210340371976184,PhD,3,True,False,False,False,2023,3,5,6,88,Offline,0
-533,68,Senior,Male,1,21000.0,9.95227771670556,Bachelor,1,False,False,False,True,2023,1,27,4,125,Offline,0
-534,68,Senior,Female,0,12000.0,9.392661928770137,PhD,3,False,False,True,False,2023,2,24,4,97,Offline,1
-535,29,Adult,Female,0,16000.0,9.680344001221918,PhD,3,True,False,False,False,2023,1,29,6,123,Online,0
-536,20,Young,Male,1,23000.0,10.043249494911286,High School,0,False,False,True,False,2023,5,28,6,4,Offline,0
-537,62,Senior,Male,1,14000.0,9.546812608597396,Master,2,False,True,False,False,2023,1,25,2,127,Online,0
-538,35,Adult,Male,1,18000.0,9.798127036878302,High School,0,False,False,True,False,2023,3,11,5,82,Referral,0
-539,57,Senior,Female,0,52500.0,10.868568448579715,Master,2,True,False,False,False,2023,3,4,5,89,Offline,0
-540,38,Adult,Male,1,17000.0,9.740968623038354,PhD,3,False,True,False,False,2023,5,10,2,22,Offline,1
-541,32,Adult,Female,0,33000.0,10.404262840448617,High School,0,False,False,True,False,2023,5,30,1,2,Referral,1
-542,50,Adult,Male,1,13000.0,9.472704636443673,Master,2,False,True,False,False,2023,1,16,0,136,Referral,1
-543,52,Senior,Male,1,29000.0,10.275051108968611,Bachelor,1,False,False,True,False,2023,5,26,4,6,Referral,1
-544,43,Adult,Male,1,45000.0,10.714417768752456,Master,2,False,True,False,False,2023,4,10,0,52,Online,0
-545,25,Young,Female,0,6000.0,8.699514748210191,High School,0,False,True,False,False,2023,1,30,0,122,Referral,1
-546,53,Senior,Female,0,15000.0,9.615805480084347,Bachelor,1,True,False,False,False,2023,2,14,1,107,Online,0
-547,65,Senior,Male,1,29000.0,10.275051108968611,Master,2,True,False,False,False,2023,1,19,3,133,Offline,0
-548,47,Adult,Male,1,20000.0,9.903487552536127,Master,2,True,False,False,False,2023,2,3,4,118,Offline,0
-549,40,Adult,Male,1,27000.0,10.203592144986466,Master,2,False,True,False,False,2023,5,21,6,11,Referral,0
-550,59,Senior,Female,0,16000.0,9.680344001221918,Master,2,False,False,True,False,2023,3,3,4,90,Online,1
-551,61,Senior,Male,1,23000.0,10.043249494911286,Master,2,False,False,True,False,2023,4,28,4,34,Referral,0
-552,31,Adult,Female,0,20000.0,9.903487552536127,Bachelor,1,False,True,False,False,2023,4,10,0,52,Referral,1
-553,31,Adult,Male,1,39000.0,10.571316925111784,PhD,3,False,False,False,True,2023,1,22,6,130,Online,0
-554,19,Young,Male,1,25000.0,10.126631103850338,Bachelor,1,False,False,False,True,2023,4,21,4,41,Online,0
-556,22,Young,Male,1,18000.0,9.798127036878302,Bachelor,1,True,False,False,False,2023,5,27,5,5,Referral,0
-557,55,Senior,Male,1,17000.0,9.740968623038354,PhD,3,False,False,True,False,2023,2,7,1,114,Online,0
-558,62,Senior,Male,1,18000.0,9.798127036878302,High School,0,False,False,False,True,2023,3,11,5,82,Online,0
-559,58,Senior,Female,0,27000.0,10.203592144986466,PhD,3,True,False,False,False,2023,4,26,2,36,Offline,1
-560,64,Senior,Male,1,18000.0,9.798127036878302,Bachelor,1,False,False,True,False,2023,3,20,0,73,Online,1
-561,31,Adult,Female,0,25000.0,10.126631103850338,Master,2,False,False,True,False,2023,5,28,6,4,Online,0
-562,56,Senior,Male,1,52500.0,10.868568448579715,Master,2,False,False,True,False,2023,1,9,0,143,Offline,1
-563,42,Adult,Male,1,34000.0,10.4341158035983,Bachelor,1,True,False,False,False,2023,2,1,2,120,Referral,1
-564,37,Adult,Female,0,19000.0,9.852194258148577,Master,2,False,False,False,True,2023,5,12,4,20,Offline,1
-565,19,Young,Male,1,40000.0,10.596634733096073,Bachelor,1,True,False,False,False,2023,2,19,6,102,Online,1
-566,56,Senior,Female,0,18000.0,9.798127036878302,Master,2,True,False,False,False,2023,3,23,3,70,Offline,0
-567,23,Young,Female,0,8000.0,8.987196820661973,PhD,3,False,False,False,True,2023,1,5,3,147,Referral,1
-568,34,Adult,Male,1,13000.0,9.472704636443673,High School,0,False,False,True,False,2023,5,28,6,4,Offline,0
-569,42,Adult,Female,0,9000.0,9.104979856318357,High School,0,False,False,True,False,2023,3,28,1,65,Referral,0
-570,45,Adult,Female,0,18000.0,9.798127036878302,PhD,3,False,True,False,False,2023,5,6,5,26,Offline,1
-571,19,Young,Male,1,22000.0,9.998797732340453,PhD,3,True,False,False,False,2023,3,16,3,77,Referral,1
-572,52,Senior,Female,0,51000.0,10.839580911706463,Bachelor,1,True,False,False,False,2023,1,22,6,130,Offline,0
-573,54,Senior,Male,1,26000.0,10.165851817003619,Bachelor,1,True,False,False,False,2023,3,9,3,84,Online,0
-574,22,Young,Male,1,20000.0,9.903487552536127,Bachelor,1,False,True,False,False,2023,2,13,0,108,Referral,1
-575,18,Young,Male,1,33000.0,10.404262840448617,Master,2,False,False,False,True,2023,2,3,4,118,Online,0
-576,57,Senior,Male,1,7000.0,8.85366542803745,Bachelor,1,True,False,False,False,2023,3,18,5,75,Referral,0
-577,29,Adult,Female,0,25000.0,10.126631103850338,PhD,3,False,False,False,True,2023,2,11,5,110,Offline,0
-578,53,Senior,Male,1,32000.0,10.373491181781864,High School,0,False,False,True,False,2023,5,17,2,15,Offline,0
-579,62,Senior,Male,1,11000.0,9.305650551780507,Master,2,True,False,False,False,2023,4,16,6,46,Referral,1
-580,40,Adult,Female,0,39000.0,10.571316925111784,Bachelor,1,False,False,True,False,2023,4,5,2,57,Offline,0
-581,64,Senior,Male,1,26000.0,10.165851817003619,Master,2,True,False,False,False,2023,5,15,0,17,Online,1
-582,48,Adult,Male,1,18000.0,9.798127036878302,Master,2,False,False,False,True,2023,3,9,3,84,Referral,0
-583,28,Adult,Female,0,30000.0,10.308952660644293,Bachelor,1,False,False,False,True,2023,5,27,5,5,Online,1
-584,27,Adult,Female,0,52500.0,10.868568448579715,Master,2,False,False,False,True,2023,5,8,0,24,Referral,1
-585,20,Young,Female,0,24000.0,10.085809109330082,High School,0,False,True,False,False,2023,3,26,6,67,Referral,1
-586,31,Adult,Female,0,25000.0,10.126631103850338,PhD,3,False,False,False,True,2023,3,24,4,69,Referral,1
-587,33,Adult,Female,0,18000.0,9.798127036878302,PhD,3,False,False,False,True,2023,4,5,2,57,Offline,1
-588,27,Adult,Female,0,14000.0,9.546812608597396,High School,0,False,False,True,False,2023,2,1,2,120,Online,0
-589,46,Adult,Female,0,52500.0,10.868568448579715,Master,2,True,False,False,False,2023,3,7,1,86,Referral,1
-590,27,Adult,Male,1,14000.0,9.546812608597396,Bachelor,1,False,True,False,False,2023,4,26,2,36,Offline,1
-591,29,Adult,Female,0,23000.0,10.043249494911286,Master,2,False,False,False,True,2023,5,18,3,14,Offline,0
-592,47,Adult,Female,0,17000.0,9.740968623038354,High School,0,False,False,True,False,2023,5,10,2,22,Offline,0
-593,58,Senior,Female,0,28000.0,10.239959789157341,Master,2,False,True,False,False,2023,3,1,2,92,Referral,1
-594,18,Young,Male,1,52500.0,10.868568448579715,PhD,3,True,False,False,False,2023,1,17,1,135,Online,1
-595,22,Young,Male,1,37000.0,10.51867319162636,Master,2,False,False,False,True,2023,4,6,3,56,Online,0
-596,37,Adult,Female,0,17000.0,9.740968623038354,High School,0,True,False,False,False,2023,5,24,2,8,Referral,0
-597,25,Young,Female,0,19000.0,9.852194258148577,PhD,3,False,True,False,False,2023,1,16,0,136,Offline,1
-598,60,Senior,Female,0,14000.0,9.546812608597396,Master,2,False,False,True,False,2023,2,15,2,106,Referral,0
-599,29,Adult,Male,1,18000.0,9.798127036878302,Master,2,False,False,True,False,2023,4,17,0,45,Offline,1
-600,18,Young,Male,1,27000.0,10.203592144986466,PhD,3,False,False,False,True,2023,3,29,2,64,Online,1
-601,37,Adult,Female,0,32000.0,10.373491181781864,Bachelor,1,True,False,False,False,2023,5,9,1,23,Offline,1
-602,45,Adult,Male,1,14000.0,9.546812608597396,PhD,3,False,False,True,False,2023,5,19,4,13,Online,0
-603,60,Senior,Female,0,34000.0,10.4341158035983,Bachelor,1,True,False,False,False,2023,4,29,5,33,Referral,1
-604,54,Senior,Male,1,43000.0,10.668955394675699,High School,0,True,False,False,False,2023,3,26,6,67,Online,1
-605,64,Senior,Male,1,27000.0,10.203592144986466,High School,0,False,True,False,False,2023,1,4,2,148,Online,1
-606,54,Senior,Female,0,52500.0,10.868568448579715,PhD,3,False,False,True,False,2023,3,12,6,81,Referral,0
-607,29,Adult,Female,0,15000.0,9.615805480084347,PhD,3,False,False,True,False,2023,4,21,4,41,Referral,0
-608,54,Senior,Female,0,12000.0,9.392661928770137,High School,0,True,False,False,False,2023,2,19,6,102,Offline,1
-609,66,Senior,Female,0,9000.0,9.104979856318357,Bachelor,1,True,False,False,False,2023,5,20,5,12,Offline,0
-610,66,Senior,Male,1,47000.0,10.757902880692196,High School,0,True,False,False,False,2023,4,5,2,57,Online,0
-611,61,Senior,Male,1,31000.0,10.341742483467284,PhD,3,True,False,False,False,2023,4,2,6,60,Offline,0
-612,45,Adult,Male,1,21000.0,9.95227771670556,High School,0,False,True,False,False,2023,3,6,0,87,Offline,1
-613,64,Senior,Female,0,25000.0,10.126631103850338,PhD,3,False,False,False,True,2023,2,16,3,105,Referral,0
-614,32,Adult,Male,1,13000.0,9.472704636443673,PhD,3,False,False,False,True,2023,4,16,6,46,Offline,0
-615,23,Young,Female,0,52500.0,10.868568448579715,High School,0,True,False,False,False,2023,5,10,2,22,Online,0
-616,61,Senior,Male,1,23000.0,10.043249494911286,Bachelor,1,True,False,False,False,2023,4,16,6,46,Offline,1
-617,37,Adult,Female,0,23000.0,10.043249494911286,Master,2,False,False,False,True,2023,1,24,1,128,Online,0
-618,67,Senior,Female,0,32000.0,10.373491181781864,High School,0,True,False,False,False,2023,1,4,2,148,Referral,0
-619,31,Adult,Male,1,28000.0,10.239959789157341,Master,2,True,False,False,False,2023,4,18,1,44,Online,0
-620,19,Young,Female,0,25000.0,10.126631103850338,High School,0,False,False,True,False,2023,1,19,3,133,Referral,1
-621,26,Adult,Female,0,15000.0,9.615805480084347,Master,2,False,False,True,False,2023,2,9,3,112,Referral,0
-622,54,Senior,Male,1,28000.0,10.239959789157341,Bachelor,1,False,False,False,True,2023,2,19,6,102,Offline,0
-623,37,Adult,Female,0,52500.0,10.868568448579715,Bachelor,1,False,True,False,False,2023,3,16,3,77,Referral,0
-624,43,Adult,Female,0,43000.0,10.668955394675699,High School,0,False,True,False,False,2023,1,12,3,140,Referral,1
-625,46,Adult,Female,0,49000.0,10.799575577092764,PhD,3,False,False,False,True,2023,1,27,4,125,Offline,1
-626,18,Young,Male,1,17000.0,9.740968623038354,Master,2,True,False,False,False,2023,4,23,6,39,Online,1
-627,52,Senior,Male,1,13000.0,9.472704636443673,PhD,3,True,False,False,False,2023,2,18,5,103,Referral,1
-628,23,Young,Female,0,21000.0,9.95227771670556,PhD,3,False,True,False,False,2023,5,24,2,8,Referral,0
-629,54,Senior,Male,1,23000.0,10.043249494911286,PhD,3,False,False,False,True,2023,5,10,2,22,Offline,1
-630,22,Young,Female,0,38000.0,10.545341438708522,Bachelor,1,False,False,False,True,2023,3,1,2,92,Online,0
-631,50,Adult,Female,0,9000.0,9.104979856318357,High School,0,False,False,True,False,2023,1,30,0,122,Offline,0
-632,66,Senior,Female,0,47000.0,10.757902880692196,High School,0,False,False,False,True,2023,3,25,5,68,Referral,0
-633,68,Senior,Female,0,20000.0,9.903487552536127,Bachelor,1,False,False,True,False,2023,1,28,5,124,Offline,0
-634,31,Adult,Female,0,18000.0,9.798127036878302,Bachelor,1,False,True,False,False,2023,1,25,2,127,Online,1
-635,29,Adult,Male,1,13000.0,9.472704636443673,High School,0,True,False,False,False,2023,4,6,3,56,Offline,0
-636,59,Senior,Female,0,10000.0,9.210340371976184,PhD,3,False,False,False,True,2023,5,5,4,27,Referral,1
-637,37,Adult,Male,1,33000.0,10.404262840448617,Master,2,False,True,False,False,2023,1,10,1,142,Offline,0
-638,67,Senior,Male,1,23000.0,10.043249494911286,Master,2,False,False,False,True,2023,2,11,5,110,Offline,0
-639,41,Adult,Female,0,12000.0,9.392661928770137,Master,2,True,False,False,False,2023,2,9,3,112,Referral,1
-640,60,Senior,Female,0,12000.0,9.392661928770137,PhD,3,True,False,False,False,2023,3,18,5,75,Offline,1
-641,51,Senior,Male,1,19000.0,9.852194258148577,High School,0,False,False,False,True,2023,4,15,5,47,Referral,1
-642,42,Adult,Male,1,51000.0,10.839580911706463,Bachelor,1,False,False,False,True,2023,4,28,4,34,Referral,0
-643,67,Senior,Male,1,19000.0,9.852194258148577,High School,0,False,True,False,False,2023,2,11,5,110,Offline,0
-644,46,Adult,Female,0,10000.0,9.210340371976184,PhD,3,False,True,False,False,2023,2,16,3,105,Online,1
-645,56,Senior,Male,1,19000.0,9.852194258148577,Bachelor,1,False,False,True,False,2023,1,22,6,130,Online,1
-646,48,Adult,Female,0,19000.0,9.852194258148577,PhD,3,True,False,False,False,2023,4,17,0,45,Online,0
-647,64,Senior,Female,0,6000.0,8.699514748210191,Master,2,False,False,True,False,2023,1,27,4,125,Offline,1
-648,60,Senior,Female,0,21000.0,9.95227771670556,Master,2,False,False,True,False,2023,2,10,4,111,Offline,1
-649,67,Senior,Male,1,20000.0,9.903487552536127,PhD,3,False,True,False,False,2023,3,21,1,72,Offline,1
-650,40,Adult,Female,0,31000.0,10.341742483467284,Bachelor,1,True,False,False,False,2023,3,30,3,63,Referral,1
-651,61,Senior,Female,0,52500.0,10.868568448579715,Bachelor,1,False,True,False,False,2023,3,7,1,86,Referral,1
-652,55,Senior,Female,0,39000.0,10.571316925111784,High School,0,True,False,False,False,2023,1,12,3,140,Offline,0
-653,37,Adult,Female,0,19000.0,9.852194258148577,Master,2,False,False,True,False,2023,3,14,1,79,Online,0
-654,40,Adult,Female,0,13000.0,9.472704636443673,High School,0,False,False,False,True,2023,3,17,4,76,Referral,1
-655,62,Senior,Male,1,52500.0,10.868568448579715,High School,0,False,False,False,True,2023,3,31,4,62,Referral,0
-656,69,Senior,Female,0,23000.0,10.043249494911286,PhD,3,False,False,False,True,2023,1,10,1,142,Offline,0
-657,33,Adult,Female,0,22000.0,9.998797732340453,PhD,3,True,False,False,False,2023,4,6,3,56,Referral,0
-658,67,Senior,Male,1,22000.0,9.998797732340453,High School,0,False,False,True,False,2023,1,20,4,132,Offline,0
-659,59,Senior,Female,0,24000.0,10.085809109330082,Master,2,False,True,False,False,2023,2,8,2,113,Referral,1
-660,25,Young,Male,1,20000.0,9.903487552536127,PhD,3,False,False,True,False,2023,3,1,2,92,Referral,1
-662,38,Adult,Male,1,17000.0,9.740968623038354,High School,0,False,True,False,False,2023,3,6,0,87,Referral,0
-663,18,Young,Male,1,22000.0,9.998797732340453,High School,0,False,False,True,False,2023,5,4,3,28,Online,1
-664,25,Young,Female,0,17000.0,9.740968623038354,High School,0,True,False,False,False,2023,5,10,2,22,Offline,1
-665,46,Adult,Female,0,15000.0,9.615805480084347,High School,0,False,False,False,True,2023,2,26,6,95,Online,1
-666,49,Adult,Female,0,23000.0,10.043249494911286,High School,0,False,False,True,False,2023,3,19,6,74,Offline,0
-667,55,Senior,Male,1,19000.0,9.852194258148577,PhD,3,False,False,True,False,2023,1,29,6,123,Offline,0
-668,22,Young,Male,1,47000.0,10.757902880692196,Master,2,False,True,False,False,2023,1,15,6,137,Referral,0
-669,64,Senior,Male,1,6000.0,8.699514748210191,High School,0,False,False,True,False,2023,1,12,3,140,Online,1
-670,39,Adult,Female,0,38000.0,10.545341438708522,Bachelor,1,False,False,False,True,2023,4,11,1,51,Online,1
-671,64,Senior,Male,1,41000.0,10.621327345686446,PhD,3,False,True,False,False,2023,3,25,5,68,Referral,1
-672,51,Senior,Male,1,8000.0,8.987196820661973,PhD,3,False,True,False,False,2023,5,5,4,27,Referral,0
-673,18,Young,Female,0,19000.0,9.852194258148577,High School,0,True,False,False,False,2023,4,13,3,49,Online,1
-674,43,Adult,Male,1,18000.0,9.798127036878302,PhD,3,True,False,False,False,2023,1,24,1,128,Referral,1
-675,60,Senior,Male,1,11000.0,9.305650551780507,High School,0,True,False,False,False,2023,5,29,0,3,Online,0
-676,27,Adult,Female,0,15000.0,9.615805480084347,Master,2,False,False,True,False,2030,1,1,1,-2406,Offline,0
-677,47,Adult,Male,1,13000.0,9.472704636443673,Master,2,False,True,False,False,2023,4,20,3,42,Referral,0
-678,67,Senior,Female,0,52500.0,10.868568448579715,PhD,3,False,False,True,False,2023,3,19,6,74,Offline,0
-679,35,Adult,Female,0,35000.0,10.46310334047155,PhD,3,False,True,False,False,2023,4,11,1,51,Referral,0
-680,34,Adult,Female,0,42000.0,10.645424897265505,Bachelor,1,False,False,False,True,2023,5,26,4,6,Offline,0
-681,43,Adult,Female,0,32000.0,10.373491181781864,PhD,3,False,True,False,False,2023,5,22,0,10,Referral,0
-682,25,Young,Female,0,13000.0,9.472704636443673,Bachelor,1,False,False,True,False,2023,5,8,0,24,Online,0
-683,64,Senior,Male,1,17000.0,9.740968623038354,Master,2,False,False,False,True,2023,2,27,0,94,Online,0
-684,57,Senior,Male,1,28000.0,10.239959789157341,Master,2,False,True,False,False,2023,3,17,4,76,Referral,1
-685,66,Senior,Female,0,12000.0,9.392661928770137,High School,0,False,False,False,True,2023,5,30,1,2,Referral,0
-686,29,Adult,Female,0,31000.0,10.341742483467284,Master,2,False,False,False,True,2023,2,5,6,116,Online,1
-687,44,Adult,Male,1,20000.0,9.903487552536127,Bachelor,1,False,False,False,True,2023,1,22,6,130,Referral,0
-688,25,Young,Female,0,18000.0,9.798127036878302,PhD,3,False,True,False,False,2023,5,7,6,25,Offline,1
-689,42,Adult,Female,0,31000.0,10.341742483467284,High School,0,False,True,False,False,2023,3,21,1,72,Offline,0
-690,63,Senior,Female,0,28000.0,10.239959789157341,Bachelor,1,False,False,False,True,2023,4,10,0,52,Offline,1
-691,21,Young,Male,1,18000.0,9.798127036878302,PhD,3,False,False,True,False,2023,4,6,3,56,Offline,0
-692,50,Adult,Male,1,39000.0,10.571316925111784,High School,0,True,False,False,False,2023,5,28,6,4,Offline,1
-693,18,Young,Female,0,13000.0,9.472704636443673,Master,2,False,False,False,True,2023,1,18,2,134,Referral,0
-694,36,Adult,Female,0,30000.0,10.308952660644293,Bachelor,1,False,False,False,True,2023,2,7,1,114,Referral,1
-695,48,Adult,Male,1,30000.0,10.308952660644293,PhD,3,True,False,False,False,2023,4,19,2,43,Offline,0
-696,33,Adult,Male,1,19000.0,9.852194258148577,High School,0,False,False,False,True,2023,5,3,2,29,Referral,0
-697,31,Adult,Female,0,26000.0,10.165851817003619,High School,0,False,False,False,True,2023,5,24,2,8,Referral,0
-698,65,Senior,Female,0,12000.0,9.392661928770137,Master,2,False,False,False,True,2023,5,29,0,3,Offline,1
-699,22,Young,Male,1,35000.0,10.46310334047155,PhD,3,False,False,False,True,2023,4,14,4,48,Referral,1
-700,58,Senior,Male,1,20000.0,9.903487552536127,Master,2,False,True,False,False,2023,5,20,5,12,Referral,1
-701,43,Adult,Male,1,17000.0,9.740968623038354,Master,2,False,True,False,False,2023,5,24,2,8,Referral,0
-702,45,Adult,Female,0,37000.0,10.51867319162636,PhD,3,False,False,False,True,2023,3,22,2,71,Offline,0
-703,19,Young,Male,1,15000.0,9.615805480084347,PhD,3,False,True,False,False,2023,3,28,1,65,Referral,1
-704,67,Senior,Female,0,11000.0,9.305650551780507,PhD,3,True,False,False,False,2023,5,22,0,10,Referral,0
-705,23,Young,Male,1,10000.0,9.210340371976184,Bachelor,1,False,False,False,True,2023,3,2,3,91,Online,1
-706,26,Adult,Male,1,30000.0,10.308952660644293,PhD,3,False,False,False,True,2023,2,15,2,106,Offline,1
-707,50,Adult,Male,1,12000.0,9.392661928770137,High School,0,False,False,True,False,2023,2,1,2,120,Online,1
-708,58,Senior,Male,1,52500.0,10.868568448579715,Master,2,True,False,False,False,2023,1,15,6,137,Offline,0
-709,42,Adult,Female,0,8000.0,8.987196820661973,Bachelor,1,False,False,True,False,2023,2,13,0,108,Online,0
-710,65,Senior,Female,0,51000.0,10.839580911706463,PhD,3,False,False,True,False,2023,5,25,3,7,Online,0
-711,30,Adult,Male,1,24000.0,10.085809109330082,Bachelor,1,False,True,False,False,2023,2,23,3,98,Online,1
-712,26,Adult,Female,0,21000.0,9.95227771670556,PhD,3,False,True,False,False,2023,2,13,0,108,Offline,0
-713,30,Adult,Male,1,17000.0,9.740968623038354,Bachelor,1,False,False,False,True,2023,4,8,5,54,Offline,0
-714,48,Adult,Male,1,27000.0,10.203592144986466,Master,2,False,True,False,False,2023,1,5,3,147,Referral,0
-715,58,Senior,Male,1,22000.0,9.998797732340453,Master,2,True,False,False,False,2023,4,19,2,43,Offline,0
-716,28,Adult,Male,1,38000.0,10.545341438708522,High School,0,False,False,True,False,2023,1,27,4,125,Online,1
-717,21,Young,Female,0,23000.0,10.043249494911286,High School,0,False,True,False,False,2023,4,26,2,36,Online,1
-718,51,Senior,Male,1,24000.0,10.085809109330082,PhD,3,False,True,False,False,2023,3,28,1,65,Offline,0
-719,55,Senior,Male,1,18000.0,9.798127036878302,Master,2,True,False,False,False,2023,4,14,4,48,Offline,0
-720,63,Senior,Female,0,21000.0,9.95227771670556,Bachelor,1,False,False,False,True,2023,5,3,2,29,Offline,1
-721,21,Young,Male,1,26000.0,10.165851817003619,Bachelor,1,False,False,False,True,2023,3,20,0,73,Referral,0
-722,55,Senior,Male,1,9000.0,9.104979856318357,Bachelor,1,False,True,False,False,2023,2,12,6,109,Online,1
-723,36,Adult,Male,1,11000.0,9.305650551780507,High School,0,True,False,False,False,2023,4,7,4,55,Referral,1
-724,23,Young,Female,0,32000.0,10.373491181781864,Bachelor,1,False,False,False,True,2023,1,31,1,121,Referral,0
-725,51,Senior,Male,1,24000.0,10.085809109330082,High School,0,False,False,False,True,2023,4,9,6,53,Online,0
-726,35,Adult,Female,0,20000.0,9.903487552536127,High School,0,True,False,False,False,2023,1,17,1,135,Online,1
-727,30,Adult,Male,1,22000.0,9.998797732340453,PhD,3,False,False,True,False,2023,3,24,4,69,Offline,0
-728,58,Senior,Male,1,26000.0,10.165851817003619,Bachelor,1,True,False,False,False,2023,4,20,3,42,Offline,0
-729,40,Adult,Female,0,17000.0,9.740968623038354,Bachelor,1,False,False,True,False,2023,2,1,2,120,Referral,0
-730,36,Adult,Male,1,15000.0,9.615805480084347,Master,2,False,False,True,False,2023,5,21,6,11,Offline,0
-731,62,Senior,Male,1,24000.0,10.085809109330082,PhD,3,False,True,False,False,2023,2,4,5,117,Offline,1
-732,28,Adult,Female,0,14000.0,9.546812608597396,Master,2,False,False,False,True,2023,5,13,5,19,Online,1
-733,18,Young,Female,0,27000.0,10.203592144986466,PhD,3,True,False,False,False,2023,1,29,6,123,Online,1
-734,41,Adult,Female,0,9000.0,9.104979856318357,Bachelor,1,False,True,False,False,2023,3,11,5,82,Offline,0
-735,24,Young,Female,0,37000.0,10.51867319162636,High School,0,False,False,True,False,2023,4,5,2,57,Online,0
-736,42,Adult,Female,0,28000.0,10.239959789157341,High School,0,False,False,False,True,2023,1,22,6,130,Offline,1
-737,38,Adult,Male,1,25000.0,10.126631103850338,High School,0,True,False,False,False,2023,3,10,4,83,Online,0
-738,32,Adult,Female,0,36000.0,10.491274217438248,High School,0,False,False,False,True,2023,3,30,3,63,Online,1
-739,18,Young,Male,1,51000.0,10.839580911706463,High School,0,False,False,False,True,2023,3,13,0,80,Online,0
-740,29,Adult,Male,1,37000.0,10.51867319162636,Master,2,True,False,False,False,2023,5,9,1,23,Online,1
-741,24,Young,Male,1,9000.0,9.104979856318357,PhD,3,False,False,True,False,2023,3,28,1,65,Offline,0
-742,32,Adult,Female,0,12000.0,9.392661928770137,Bachelor,1,False,False,True,False,2023,4,6,3,56,Referral,0
-743,38,Adult,Female,0,16000.0,9.680344001221918,Master,2,False,False,False,True,2023,3,16,3,77,Online,0
-744,36,Adult,Male,1,22000.0,9.998797732340453,PhD,3,False,False,False,True,2023,2,23,3,98,Offline,0
-745,46,Adult,Female,0,29000.0,10.275051108968611,High School,0,False,False,False,True,2023,3,29,2,64,Offline,0
-746,42,Adult,Female,0,15000.0,9.615805480084347,PhD,3,False,False,True,False,2023,2,23,3,98,Online,1
-747,50,Adult,Female,0,24000.0,10.085809109330082,PhD,3,True,False,False,False,2023,1,16,0,136,Referral,1
-748,66,Senior,Female,0,15000.0,9.615805480084347,High School,0,True,False,False,False,2023,4,9,6,53,Online,1
-749,49,Adult,Male,1,16000.0,9.680344001221918,High School,0,False,True,False,False,2023,1,20,4,132,Offline,1
-750,66,Senior,Male,1,11000.0,9.305650551780507,High School,0,True,False,False,False,2023,2,15,2,106,Referral,0
-751,52,Senior,Female,0,14000.0,9.546812608597396,Bachelor,1,False,True,False,False,2023,5,7,6,25,Offline,0
-752,61,Senior,Male,1,11000.0,9.305650551780507,High School,0,False,True,False,False,2023,2,27,0,94,Online,0
-753,55,Senior,Female,0,14000.0,9.546812608597396,Bachelor,1,False,True,False,False,2023,4,21,4,41,Referral,1
-754,43,Adult,Female,0,37000.0,10.51867319162636,High School,0,False,True,False,False,2023,5,9,1,23,Offline,0
-755,28,Adult,Male,1,14000.0,9.546812608597396,Bachelor,1,True,False,False,False,2030,1,1,1,-2406,Offline,1
-756,52,Senior,Male,1,52500.0,10.868568448579715,PhD,3,False,False,True,False,2023,3,25,5,68,Offline,0
-757,25,Young,Male,1,28000.0,10.239959789157341,Master,2,False,True,False,False,2023,3,11,5,82,Online,1
-758,63,Senior,Female,0,24000.0,10.085809109330082,PhD,3,False,True,False,False,2023,1,8,6,144,Referral,1
-759,31,Adult,Male,1,14000.0,9.546812608597396,PhD,3,False,False,True,False,2023,1,29,6,123,Online,0
-760,27,Adult,Female,0,31000.0,10.341742483467284,High School,0,False,True,False,False,2023,4,22,5,40,Online,0
-761,19,Young,Male,1,17000.0,9.740968623038354,Bachelor,1,False,True,False,False,2023,5,11,3,21,Online,1
-762,63,Senior,Male,1,23000.0,10.043249494911286,Master,2,False,True,False,False,2023,4,18,1,44,Referral,0
-763,26,Adult,Female,0,52500.0,10.868568448579715,High School,0,False,False,False,True,2023,4,19,2,43,Online,0
-764,20,Young,Female,0,21000.0,9.95227771670556,High School,0,False,False,False,True,2023,1,20,4,132,Online,1
-765,38,Adult,Female,0,39000.0,10.571316925111784,High School,0,False,False,False,True,2023,3,14,1,79,Online,0
-766,43,Adult,Female,0,15000.0,9.615805480084347,PhD,3,True,False,False,False,2023,1,4,2,148,Online,1
-767,25,Young,Female,0,22000.0,9.998797732340453,Bachelor,1,False,True,False,False,2023,1,19,3,133,Offline,1
-768,65,Senior,Female,0,52500.0,10.868568448579715,Bachelor,1,False,False,False,True,2023,4,12,2,50,Offline,0
-769,19,Young,Female,0,16000.0,9.680344001221918,Master,2,False,False,True,False,2023,5,21,6,11,Offline,0
-770,23,Young,Female,0,52500.0,10.868568448579715,Bachelor,1,False,False,True,False,2023,5,21,6,11,Online,0
-771,45,Adult,Male,1,31000.0,10.341742483467284,Bachelor,1,False,True,False,False,2023,3,27,0,66,Referral,1
-772,46,Adult,Female,0,17000.0,9.740968623038354,High School,0,False,False,True,False,2023,2,21,1,100,Offline,0
-773,43,Adult,Female,0,30000.0,10.308952660644293,High School,0,False,False,True,False,2023,4,21,4,41,Offline,1
-774,42,Adult,Male,1,36000.0,10.491274217438248,PhD,3,False,False,True,False,2023,4,19,2,43,Offline,0
-775,29,Adult,Female,0,30000.0,10.308952660644293,High School,0,False,False,True,False,2023,3,27,0,66,Offline,0
-776,22,Young,Male,1,10000.0,9.210340371976184,High School,0,False,False,True,False,2023,2,12,6,109,Referral,0
-777,51,Senior,Male,1,15000.0,9.615805480084347,High School,0,False,False,False,True,2023,2,11,5,110,Online,0
-778,65,Senior,Female,0,19000.0,9.852194258148577,High School,0,False,False,False,True,2023,3,31,4,62,Offline,0
-779,54,Senior,Male,1,21000.0,9.95227771670556,PhD,3,False,True,False,False,2023,4,25,1,37,Referral,0
-780,32,Adult,Female,0,30000.0,10.308952660644293,High School,0,False,False,False,True,2023,1,26,3,126,Offline,0
-781,61,Senior,Male,1,24000.0,10.085809109330082,Master,2,True,False,False,False,2023,2,12,6,109,Online,0
-782,53,Senior,Male,1,11000.0,9.305650551780507,Master,2,False,True,False,False,2023,3,18,5,75,Offline,0
-783,32,Adult,Male,1,27000.0,10.203592144986466,Master,2,True,False,False,False,2023,5,17,2,15,Referral,1
-784,60,Senior,Female,0,30000.0,10.308952660644293,Master,2,False,False,True,False,2023,1,20,4,132,Online,0
-785,65,Senior,Female,0,29000.0,10.275051108968611,High School,0,False,False,False,True,2023,2,8,2,113,Referral,0
-786,40,Adult,Male,1,38000.0,10.545341438708522,Master,2,False,True,False,False,2023,1,12,3,140,Online,1
-787,23,Young,Male,1,33000.0,10.404262840448617,High School,0,True,False,False,False,2023,1,11,2,141,Online,0
-788,63,Senior,Female,0,28000.0,10.239959789157341,PhD,3,False,False,True,False,2023,2,11,5,110,Online,1
-789,67,Senior,Female,0,21000.0,9.95227771670556,Master,2,False,True,False,False,2023,1,11,2,141,Offline,0
-790,61,Senior,Male,1,10000.0,9.210340371976184,Bachelor,1,True,False,False,False,2023,2,7,1,114,Referral,0
-791,60,Senior,Male,1,27000.0,10.203592144986466,Master,2,False,False,False,True,2023,4,8,5,54,Referral,1
-792,62,Senior,Female,0,24000.0,10.085809109330082,Master,2,False,True,False,False,2023,1,19,3,133,Referral,0
-793,38,Adult,Female,0,25000.0,10.126631103850338,High School,0,False,False,False,True,2023,5,14,6,18,Online,1
-794,40,Adult,Female,0,12000.0,9.392661928770137,Master,2,False,False,False,True,2023,4,26,2,36,Offline,0
-795,60,Senior,Female,0,13000.0,9.472704636443673,Bachelor,1,True,False,False,False,2023,4,23,6,39,Online,1
-796,33,Adult,Female,0,37000.0,10.51867319162636,High School,0,False,False,False,True,2023,3,6,0,87,Referral,1
-797,64,Senior,Male,1,22000.0,9.998797732340453,High School,0,True,False,False,False,2023,4,9,6,53,Offline,0
-798,32,Adult,Female,0,31000.0,10.341742483467284,PhD,3,False,True,False,False,2023,3,13,0,80,Offline,1
-799,42,Adult,Male,1,22000.0,9.998797732340453,PhD,3,False,False,True,False,2023,2,21,1,100,Offline,0
-800,53,Senior,Female,0,22000.0,9.998797732340453,Master,2,False,False,False,True,2023,4,28,4,34,Referral,1
+Age,Age_Group,Gender,Gender_Label,Income,Log_Income,Education,Education_Ord,Region_East,Region_North,Region_South,Region_West,Signup_Year,Signup_Month,Signup_Day,Signup_Weekday,Days_Since_Signup,Signup_Channel,Churned
+35,Adult,Male,1,28000.0,10.239959789157341,High School,0,True,False,False,False,2023,5,18,3,14,Referral,0
+59,Senior,Male,1,21000.0,9.95227771670556,Bachelor,1,False,False,True,False,2023,2,21,1,100,Referral,0
+56,Senior,Male,1,30000.0,10.308952660644293,PhD,3,False,False,True,False,2023,1,15,6,137,Offline,0
+34,Adult,Female,0,47000.0,10.757902880692196,Master,2,False,False,False,True,2023,3,25,5,68,Referral,1
+31,Adult,Male,1,20000.0,9.903487552536127,High School,0,True,False,False,False,2023,5,11,3,21,Online,0
+48,Adult,Male,1,20000.0,9.903487552536127,Bachelor,1,True,False,False,False,2023,2,6,0,115,Offline,1
+41,Adult,Female,0,49000.0,10.799575577092764,Bachelor,1,False,False,False,True,2023,5,6,5,26,Offline,1
+52,Senior,Male,1,32000.0,10.373491181781864,Bachelor,1,False,True,False,False,2023,2,9,3,112,Offline,0
+61,Senior,Female,0,17000.0,9.740968623038354,PhD,3,True,False,False,False,2023,3,13,0,80,Offline,0
+62,Senior,Female,0,29000.0,10.275051108968611,PhD,3,False,False,True,False,2023,2,9,3,112,Referral,0
+51,Senior,Male,1,17000.0,9.740968623038354,High School,0,False,True,False,False,2023,2,25,5,96,Referral,0
+20,Young,Female,0,17000.0,9.740968623038354,High School,0,False,False,True,False,2023,4,14,4,48,Online,1
+54,Senior,Female,0,25000.0,10.126631103850338,PhD,3,True,False,False,False,2023,5,19,4,13,Online,1
+60,Senior,Male,1,8000.0,8.987196820661973,High School,0,True,False,False,False,2023,4,20,3,42,Offline,0
+57,Senior,Female,0,9000.0,9.104979856318357,Master,2,True,False,False,False,2023,5,16,1,16,Online,0
+43,Adult,Female,0,17000.0,9.740968623038354,Master,2,False,False,False,True,2023,4,3,0,59,Online,1
+40,Adult,Male,1,13000.0,9.472704636443673,PhD,3,True,False,False,False,2023,4,4,1,58,Online,1
+61,Senior,Male,1,26000.0,10.165851817003619,High School,0,False,False,False,True,2023,2,25,5,96,Online,0
+56,Senior,Male,1,14000.0,9.546812608597396,Bachelor,1,False,False,False,True,2023,3,1,2,92,Online,0
+32,Adult,Female,0,11000.0,9.305650551780507,Master,2,False,False,False,True,2023,5,18,3,14,Offline,0
+66,Senior,Male,1,46000.0,10.736396675471232,PhD,3,False,True,False,False,2023,2,8,2,113,Offline,1
+21,Young,Female,0,20000.0,9.903487552536127,High School,0,False,True,False,False,2023,1,28,5,124,Online,0
+46,Adult,Female,0,23000.0,10.043249494911286,PhD,3,False,True,False,False,2023,2,18,5,103,Offline,0
+39,Adult,Female,0,11000.0,9.305650551780507,Bachelor,1,False,True,False,False,2023,5,5,4,27,Offline,1
+42,Adult,Female,0,17000.0,9.740968623038354,Master,2,False,False,False,True,2023,1,13,4,139,Online,1
+30,Adult,Female,0,23000.0,10.043249494911286,PhD,3,False,True,False,False,2023,2,5,6,116,Referral,1
+35,Adult,Female,0,12000.0,9.392661928770137,PhD,3,False,False,False,True,2023,4,11,1,51,Offline,0
+50,Adult,Female,0,27000.0,10.203592144986466,PhD,3,True,False,False,False,2023,1,26,3,126,Offline,0
+33,Adult,Male,1,16000.0,9.680344001221918,Bachelor,1,False,False,True,False,2023,3,27,0,66,Offline,1
+62,Senior,Male,1,19000.0,9.852194258148577,PhD,3,False,False,False,True,2023,1,4,2,148,Offline,0
+59,Senior,Female,0,16000.0,9.680344001221918,Bachelor,1,False,False,False,True,2023,3,23,3,70,Online,0
+61,Senior,Female,0,52500.0,10.868568448579715,Bachelor,1,False,True,False,False,2023,5,7,6,25,Referral,0
+19,Young,Male,1,22000.0,9.998797732340453,Bachelor,1,True,False,False,False,2023,3,29,2,64,Online,0
+52,Senior,Female,0,13000.0,9.472704636443673,Master,2,False,False,False,True,2023,5,7,6,25,Referral,0
+59,Senior,Male,1,33000.0,10.404262840448617,Master,2,True,False,False,False,2023,4,30,6,32,Offline,1
+51,Senior,Male,1,12000.0,9.392661928770137,PhD,3,False,False,True,False,2023,1,22,6,130,Referral,1
+47,Adult,Male,1,24000.0,10.085809109330082,PhD,3,False,False,True,False,2023,5,10,2,22,Referral,1
+30,Adult,Female,0,8000.0,8.987196820661973,Master,2,False,True,False,False,2023,1,31,1,121,Online,0
+30,Adult,Female,0,11000.0,9.305650551780507,High School,0,False,False,True,False,2023,4,29,5,33,Offline,0
+35,Adult,Male,1,24000.0,10.085809109330082,Master,2,False,False,True,False,2023,1,11,2,141,Online,0
+49,Adult,Male,1,32000.0,10.373491181781864,Bachelor,1,False,True,False,False,2023,2,15,2,106,Offline,1
+49,Adult,Male,1,24000.0,10.085809109330082,Master,2,False,False,False,True,2023,4,6,3,56,Online,0
+52,Senior,Male,1,21000.0,9.95227771670556,Bachelor,1,True,False,False,False,2023,1,10,1,142,Referral,1
+56,Senior,Male,1,19000.0,9.852194258148577,PhD,3,True,False,False,False,2023,5,8,0,24,Online,1
+63,Senior,Female,0,11000.0,9.305650551780507,High School,0,False,False,True,False,2023,4,9,6,53,Offline,0
+69,Senior,Male,1,15000.0,9.615805480084347,PhD,3,True,False,False,False,2023,4,22,5,40,Offline,0
+46,Adult,Female,0,17000.0,9.740968623038354,Bachelor,1,False,False,False,True,2023,3,1,2,92,Offline,1
+66,Senior,Male,1,37000.0,10.51867319162636,Bachelor,1,False,False,False,True,2023,3,28,1,65,Offline,1
+46,Adult,Female,0,26000.0,10.165851817003619,Bachelor,1,False,False,True,False,2023,5,25,3,7,Online,0
+61,Senior,Female,0,9000.0,9.104979856318357,High School,0,False,False,True,False,2023,3,6,0,87,Referral,0
+33,Adult,Female,0,26000.0,10.165851817003619,Master,2,False,True,False,False,2023,2,26,6,95,Offline,1
+61,Senior,Female,0,18000.0,9.798127036878302,PhD,3,False,False,False,True,2023,4,16,6,46,Offline,0
+64,Senior,Female,0,16000.0,9.680344001221918,PhD,3,False,False,True,False,2023,1,9,0,143,Online,0
+27,Adult,Female,0,30000.0,10.308952660644293,Master,2,False,False,False,True,2023,1,22,6,130,Online,0
+47,Adult,Male,1,37000.0,10.51867319162636,PhD,3,False,True,False,False,2023,5,21,6,11,Referral,0
+42,Adult,Female,0,35000.0,10.46310334047155,High School,0,False,False,True,False,2023,3,30,3,63,Offline,0
+56,Senior,Male,1,14000.0,9.546812608597396,PhD,3,False,True,False,False,2023,1,18,2,134,Online,0
+37,Adult,Female,0,19000.0,9.852194258148577,Bachelor,1,False,False,False,True,2023,4,25,1,37,Referral,0
+22,Young,Female,0,26000.0,10.165851817003619,Master,2,False,False,True,False,2023,5,25,3,7,Offline,0
+18,Young,Male,1,36000.0,10.491274217438248,High School,0,False,True,False,False,2023,5,23,1,9,Online,1
+47,Adult,Female,0,17000.0,9.740968623038354,Master,2,False,False,False,True,2023,4,16,6,46,Referral,1
+66,Senior,Male,1,20000.0,9.903487552536127,High School,0,False,False,True,False,2023,1,15,6,137,Referral,1
+20,Young,Male,1,13000.0,9.472704636443673,Bachelor,1,True,False,False,False,2023,3,4,5,89,Online,1
+62,Senior,Male,1,12000.0,9.392661928770137,Master,2,False,True,False,False,2023,1,13,4,139,Offline,0
+31,Adult,Male,1,33000.0,10.404262840448617,PhD,3,True,False,False,False,2023,3,22,2,71,Offline,0
+47,Adult,Female,0,43000.0,10.668955394675699,High School,0,False,True,False,False,2023,2,1,2,120,Offline,1
+67,Senior,Female,0,21000.0,9.95227771670556,Master,2,True,False,False,False,2023,5,17,2,15,Referral,0
+21,Young,Male,1,36000.0,10.491274217438248,PhD,3,True,False,False,False,2023,2,9,3,112,Online,0
+35,Adult,Female,0,26000.0,10.165851817003619,Master,2,False,True,False,False,2023,5,28,6,4,Offline,1
+54,Senior,Female,0,16000.0,9.680344001221918,Master,2,False,False,False,True,2023,3,23,3,70,Referral,0
+42,Adult,Male,1,26000.0,10.165851817003619,Master,2,False,False,False,True,2023,3,18,5,75,Offline,0
+65,Senior,Female,0,48000.0,10.778956289890028,High School,0,False,False,True,False,2023,3,17,4,76,Online,1
+18,Young,Male,1,22000.0,9.998797732340453,PhD,3,False,False,False,True,2023,2,7,1,114,Online,1
+63,Senior,Male,1,48000.0,10.778956289890028,Bachelor,1,True,False,False,False,2023,3,12,6,81,Online,0
+32,Adult,Female,0,6000.0,8.699514748210191,High School,0,False,False,False,True,2023,2,17,4,104,Online,1
+26,Adult,Female,0,33000.0,10.404262840448617,High School,0,False,True,False,False,2023,1,18,2,134,Offline,1
+32,Adult,Female,0,23000.0,10.043249494911286,High School,0,False,True,False,False,2023,5,24,2,8,Offline,1
+66,Senior,Male,1,19000.0,9.852194258148577,Bachelor,1,True,False,False,False,2023,2,8,2,113,Online,0
+41,Adult,Male,1,23000.0,10.043249494911286,PhD,3,False,False,True,False,2023,3,30,3,63,Referral,0
+21,Young,Female,0,8000.0,8.987196820661973,PhD,3,False,False,False,True,2023,3,3,4,90,Online,1
+29,Adult,Female,0,20000.0,9.903487552536127,PhD,3,False,False,True,False,2023,5,21,6,11,Offline,1
+54,Senior,Female,0,26000.0,10.165851817003619,Master,2,True,False,False,False,2023,4,19,2,43,Offline,1
+54,Senior,Female,0,46000.0,10.736396675471232,Master,2,False,True,False,False,2023,3,22,2,71,Referral,0
+60,Senior,Male,1,17000.0,9.740968623038354,Master,2,False,True,False,False,2023,5,14,6,18,Online,0
+23,Young,Female,0,15000.0,9.615805480084347,Bachelor,1,False,True,False,False,2023,3,18,5,75,Online,1
+56,Senior,Male,1,17000.0,9.740968623038354,Master,2,True,False,False,False,2023,3,31,4,62,Online,0
+63,Senior,Male,1,35000.0,10.46310334047155,Bachelor,1,True,False,False,False,2023,1,14,5,138,Offline,0
+41,Adult,Female,0,26000.0,10.165851817003619,PhD,3,False,False,True,False,2023,4,5,2,57,Online,0
+28,Adult,Female,0,17000.0,9.740968623038354,Master,2,False,False,True,False,2023,2,23,3,98,Referral,0
+30,Adult,Female,0,28000.0,10.239959789157341,Master,2,True,False,False,False,2023,5,12,4,20,Offline,1
+51,Senior,Male,1,23000.0,10.043249494911286,High School,0,False,False,False,True,2023,2,8,2,113,Offline,1
+42,Adult,Female,0,36000.0,10.491274217438248,Bachelor,1,False,True,False,False,2023,3,13,0,80,Online,0
+24,Young,Female,0,16000.0,9.680344001221918,PhD,3,False,True,False,False,2023,1,25,2,127,Referral,0
+69,Senior,Male,1,19000.0,9.852194258148577,High School,0,False,False,True,False,2023,3,18,5,75,Offline,1
+21,Young,Female,0,18000.0,9.798127036878302,High School,0,False,True,False,False,2023,4,30,6,32,Offline,0
+25,Young,Male,1,11000.0,9.305650551780507,PhD,3,False,True,False,False,2023,2,22,2,99,Online,0
+37,Adult,Female,0,26000.0,10.165851817003619,High School,0,False,False,True,False,2023,5,11,3,21,Online,1
+46,Adult,Male,1,25000.0,10.126631103850338,Bachelor,1,False,True,False,False,2023,5,30,1,2,Referral,0
+68,Senior,Female,0,22000.0,9.998797732340453,Bachelor,1,False,True,False,False,2023,4,6,3,56,Offline,1
+62,Senior,Female,0,20000.0,9.903487552536127,Master,2,False,True,False,False,2023,3,13,0,80,Referral,0
+63,Senior,Male,1,11000.0,9.305650551780507,High School,0,False,True,False,False,2023,3,3,4,90,Offline,0
+27,Adult,Male,1,18000.0,9.798127036878302,Master,2,True,False,False,False,2023,1,6,4,146,Referral,0
+60,Senior,Female,0,19000.0,9.852194258148577,High School,0,False,False,False,True,2023,2,1,2,120,Referral,1
+51,Senior,Male,1,15000.0,9.615805480084347,Bachelor,1,False,False,False,True,2023,4,9,6,53,Referral,0
+43,Adult,Male,1,20000.0,9.903487552536127,Bachelor,1,False,False,True,False,2023,5,18,3,14,Offline,0
+58,Senior,Male,1,27000.0,10.203592144986466,Bachelor,1,False,False,False,True,2023,5,11,3,21,Online,1
+66,Senior,Male,1,52500.0,10.868568448579715,High School,0,False,True,False,False,2023,3,17,4,76,Offline,0
+20,Young,Female,0,24000.0,10.085809109330082,Bachelor,1,True,False,False,False,2023,2,28,1,93,Online,0
+23,Young,Female,0,25000.0,10.126631103850338,High School,0,True,False,False,False,2023,1,31,1,121,Referral,0
+22,Young,Male,1,21000.0,9.95227771670556,Master,2,True,False,False,False,2023,4,3,0,59,Referral,1
+22,Young,Male,1,8000.0,8.987196820661973,High School,0,False,False,False,True,2023,3,10,4,83,Online,0
+64,Senior,Male,1,22000.0,9.998797732340453,Master,2,False,False,False,True,2023,2,21,1,100,Referral,0
+40,Adult,Male,1,23000.0,10.043249494911286,High School,0,False,False,True,False,2023,3,30,3,63,Referral,0
+66,Senior,Female,0,52500.0,10.868568448579715,Master,2,False,True,False,False,2023,5,7,6,25,Online,0
+26,Adult,Female,0,20000.0,9.903487552536127,Bachelor,1,False,False,True,False,2023,1,31,1,121,Online,1
+52,Senior,Male,1,26000.0,10.165851817003619,Master,2,False,True,False,False,2023,3,25,5,68,Referral,1
+37,Adult,Male,1,22000.0,9.998797732340453,Bachelor,1,False,False,False,True,2023,5,7,6,25,Offline,1
+66,Senior,Male,1,12000.0,9.392661928770137,Bachelor,1,False,False,False,True,2023,5,30,1,2,Offline,1
+59,Senior,Female,0,39000.0,10.571316925111784,Master,2,True,False,False,False,2023,5,12,4,20,Referral,1
+52,Senior,Male,1,32000.0,10.373491181781864,High School,0,False,False,True,False,2023,1,13,4,139,Online,0
+67,Senior,Female,0,33000.0,10.404262840448617,High School,0,False,True,False,False,2023,2,14,1,107,Offline,1
+35,Adult,Male,1,14000.0,9.546812608597396,PhD,3,False,True,False,False,2023,5,7,6,25,Offline,0
+34,Adult,Female,0,44000.0,10.691944912900398,High School,0,False,False,False,True,2023,4,24,0,38,Offline,0
+41,Adult,Male,1,11000.0,9.305650551780507,PhD,3,True,False,False,False,2023,1,20,4,132,Referral,1
+20,Young,Female,0,30000.0,10.308952660644293,High School,0,False,False,False,True,2023,3,22,2,71,Offline,0
+49,Adult,Male,1,52500.0,10.868568448579715,High School,0,False,True,False,False,2023,5,9,1,23,Offline,1
+52,Senior,Male,1,13000.0,9.472704636443673,Bachelor,1,False,True,False,False,2023,5,23,1,9,Offline,0
+55,Senior,Male,1,17000.0,9.740968623038354,PhD,3,True,False,False,False,2023,1,17,1,135,Offline,1
+30,Adult,Female,0,23000.0,10.043249494911286,High School,0,True,False,False,False,2023,2,27,0,94,Online,0
+64,Senior,Male,1,17000.0,9.740968623038354,PhD,3,False,True,False,False,2023,3,13,0,80,Referral,1
+42,Adult,Female,0,10000.0,9.210340371976184,Bachelor,1,True,False,False,False,2023,4,19,2,43,Referral,1
+26,Adult,Female,0,23000.0,10.043249494911286,Bachelor,1,True,False,False,False,2023,1,23,0,129,Online,0
+21,Young,Male,1,13000.0,9.472704636443673,PhD,3,False,False,True,False,2023,3,13,0,80,Online,0
+31,Adult,Male,1,28000.0,10.239959789157341,Bachelor,1,False,False,False,True,2023,1,8,6,144,Referral,0
+54,Senior,Male,1,14000.0,9.546812608597396,Master,2,False,False,False,True,2023,2,28,1,93,Offline,0
+51,Senior,Female,0,48000.0,10.778956289890028,Master,2,False,False,True,False,2023,4,21,4,41,Offline,1
+28,Adult,Male,1,15000.0,9.615805480084347,Bachelor,1,True,False,False,False,2023,1,13,4,139,Referral,1
+58,Senior,Female,0,19000.0,9.852194258148577,Master,2,False,False,False,True,2023,1,16,0,136,Offline,0
+20,Young,Female,0,33000.0,10.404262840448617,High School,0,False,False,True,False,2023,4,29,5,33,Online,1
+45,Adult,Male,1,12000.0,9.392661928770137,PhD,3,False,True,False,False,2023,1,2,0,150,Offline,1
+46,Adult,Male,1,25000.0,10.126631103850338,High School,0,False,True,False,False,2023,5,25,3,7,Offline,0
+26,Adult,Male,1,42000.0,10.645424897265505,PhD,3,False,False,True,False,2023,1,30,0,122,Offline,1
+20,Young,Male,1,10000.0,9.210340371976184,Bachelor,1,False,True,False,False,2023,4,13,3,49,Referral,1
+42,Adult,Male,1,24000.0,10.085809109330082,High School,0,False,True,False,False,2023,1,13,4,139,Online,0
+51,Senior,Male,1,25000.0,10.126631103850338,Bachelor,1,False,False,True,False,2023,4,6,3,56,Offline,0
+29,Adult,Female,0,33000.0,10.404262840448617,Bachelor,1,False,True,False,False,2023,4,4,1,58,Referral,0
+59,Senior,Female,0,12000.0,9.392661928770137,PhD,3,False,False,False,True,2023,3,23,3,70,Offline,1
+26,Adult,Female,0,11000.0,9.305650551780507,PhD,3,False,False,True,False,2023,1,13,4,139,Online,1
+32,Adult,Male,1,29000.0,10.275051108968611,PhD,3,False,False,False,True,2023,4,4,1,58,Offline,1
+57,Senior,Female,0,26000.0,10.165851817003619,High School,0,True,False,False,False,2023,5,29,0,3,Online,0
+42,Adult,Female,0,25000.0,10.126631103850338,Master,2,True,False,False,False,2030,1,1,1,-2406,Offline,0
+22,Young,Female,0,26000.0,10.165851817003619,PhD,3,False,False,False,True,2023,2,24,4,97,Online,0
+28,Adult,Female,0,16000.0,9.680344001221918,PhD,3,False,False,False,True,2023,3,22,2,71,Offline,0
+51,Senior,Female,0,25000.0,10.126631103850338,High School,0,True,False,False,False,2023,4,26,2,36,Online,1
+41,Adult,Male,1,26000.0,10.165851817003619,PhD,3,False,False,False,True,2023,5,23,1,9,Offline,1
+32,Adult,Male,1,15000.0,9.615805480084347,High School,0,False,True,False,False,2023,4,18,1,44,Offline,1
+55,Senior,Female,0,52500.0,10.868568448579715,Bachelor,1,False,True,False,False,2023,2,22,2,99,Referral,1
+25,Young,Female,0,28000.0,10.239959789157341,PhD,3,False,True,False,False,2023,5,8,0,24,Referral,0
+22,Young,Female,0,12000.0,9.392661928770137,PhD,3,False,False,True,False,2023,2,26,6,95,Online,0
+65,Senior,Male,1,31000.0,10.341742483467284,Bachelor,1,False,False,False,True,2023,2,21,1,100,Offline,0
+43,Adult,Male,1,14000.0,9.546812608597396,Bachelor,1,True,False,False,False,2023,5,17,2,15,Online,1
+35,Adult,Female,0,33000.0,10.404262840448617,Bachelor,1,False,True,False,False,2023,4,21,4,41,Referral,1
+23,Young,Male,1,39000.0,10.571316925111784,PhD,3,True,False,False,False,2023,1,1,6,151,Online,0
+54,Senior,Male,1,15000.0,9.615805480084347,Master,2,False,False,False,True,2023,2,13,0,108,Online,0
+65,Senior,Female,0,36000.0,10.491274217438248,Master,2,False,False,False,True,2023,3,16,3,77,Referral,0
+30,Adult,Male,1,27000.0,10.203592144986466,Master,2,False,True,False,False,2023,4,8,5,54,Offline,0
+45,Adult,Male,1,33000.0,10.404262840448617,PhD,3,False,False,True,False,2023,1,9,0,143,Online,0
+22,Young,Female,0,52500.0,10.868568448579715,Bachelor,1,False,True,False,False,2023,2,1,2,120,Referral,0
+30,Adult,Male,1,19000.0,9.852194258148577,PhD,3,True,False,False,False,2023,1,15,6,137,Offline,0
+34,Adult,Male,1,15000.0,9.615805480084347,Bachelor,1,False,False,False,True,2023,5,20,5,12,Referral,1
+67,Senior,Female,0,14000.0,9.546812608597396,PhD,3,False,False,False,True,2023,5,16,1,16,Online,0
+57,Senior,Male,1,15000.0,9.615805480084347,PhD,3,False,False,False,True,2023,3,13,0,80,Offline,0
+62,Senior,Male,1,21000.0,9.95227771670556,Bachelor,1,True,False,False,False,2023,1,12,3,140,Offline,0
+49,Adult,Female,0,26000.0,10.165851817003619,Master,2,True,False,False,False,2023,3,6,0,87,Referral,0
+46,Adult,Female,0,25000.0,10.126631103850338,Bachelor,1,False,False,False,True,2023,4,17,0,45,Referral,0
+68,Senior,Female,0,33000.0,10.404262840448617,High School,0,True,False,False,False,2023,2,11,5,110,Offline,0
+20,Young,Male,1,22000.0,9.998797732340453,High School,0,True,False,False,False,2023,4,25,1,37,Offline,0
+57,Senior,Female,0,46000.0,10.736396675471232,Bachelor,1,False,False,True,False,2023,5,19,4,13,Offline,0
+51,Senior,Male,1,19000.0,9.852194258148577,PhD,3,False,True,False,False,2023,4,13,3,49,Online,1
+57,Senior,Female,0,52500.0,10.868568448579715,High School,0,False,False,False,True,2023,4,5,2,57,Offline,0
+44,Adult,Male,1,30000.0,10.308952660644293,High School,0,False,True,False,False,2023,1,17,1,135,Online,1
+30,Adult,Female,0,14000.0,9.546812608597396,PhD,3,False,True,False,False,2023,3,26,6,67,Referral,0
+62,Senior,Female,0,13000.0,9.472704636443673,PhD,3,True,False,False,False,2023,2,25,5,96,Referral,0
+50,Adult,Female,0,28000.0,10.239959789157341,Master,2,True,False,False,False,2023,5,14,6,18,Offline,0
+23,Young,Female,0,20000.0,9.903487552536127,PhD,3,False,True,False,False,2023,3,27,0,66,Referral,0
+41,Adult,Male,1,31000.0,10.341742483467284,Bachelor,1,True,False,False,False,2023,4,12,2,50,Referral,1
+36,Adult,Female,0,28000.0,10.239959789157341,Bachelor,1,False,True,False,False,2023,2,23,3,98,Offline,1
+33,Adult,Female,0,21000.0,9.95227771670556,Master,2,False,False,False,True,2023,4,25,1,37,Online,1
+57,Senior,Male,1,14000.0,9.546812608597396,High School,0,False,False,False,True,2023,5,19,4,13,Offline,1
+45,Adult,Female,0,10000.0,9.210340371976184,High School,0,False,True,False,False,2023,3,29,2,64,Online,1
+50,Adult,Male,1,18000.0,9.798127036878302,PhD,3,False,False,False,True,2023,2,18,5,103,Offline,0
+65,Senior,Female,0,34000.0,10.4341158035983,Bachelor,1,False,False,True,False,2023,5,29,0,3,Offline,0
+58,Senior,Female,0,25000.0,10.126631103850338,High School,0,False,False,False,True,2023,4,25,1,37,Referral,1
+30,Adult,Female,0,12000.0,9.392661928770137,Master,2,False,True,False,False,2023,3,4,5,89,Offline,1
+60,Senior,Male,1,24000.0,10.085809109330082,Master,2,False,False,True,False,2023,4,14,4,48,Offline,0
+62,Senior,Female,0,27000.0,10.203592144986466,Bachelor,1,False,False,False,True,2023,3,24,4,69,Offline,1
+42,Adult,Female,0,14000.0,9.546812608597396,Master,2,False,False,True,False,2023,4,13,3,49,Referral,0
+59,Senior,Female,0,24000.0,10.085809109330082,Master,2,False,True,False,False,2023,1,17,1,135,Online,0
+53,Senior,Male,1,23000.0,10.043249494911286,Bachelor,1,False,False,False,True,2023,1,6,4,146,Online,0
+44,Adult,Male,1,12000.0,9.392661928770137,PhD,3,False,True,False,False,2023,5,27,5,5,Referral,1
+55,Senior,Female,0,26000.0,10.165851817003619,PhD,3,False,True,False,False,2023,1,28,5,124,Referral,1
+24,Young,Male,1,29000.0,10.275051108968611,Master,2,False,False,False,True,2023,2,7,1,114,Referral,0
+22,Young,Female,0,38000.0,10.545341438708522,PhD,3,False,False,False,True,2023,4,29,5,33,Offline,0
+60,Senior,Female,0,37000.0,10.51867319162636,PhD,3,False,True,False,False,2023,2,6,0,115,Referral,0
+62,Senior,Female,0,11000.0,9.305650551780507,Master,2,True,False,False,False,2023,4,25,1,37,Referral,1
+68,Senior,Female,0,14000.0,9.546812608597396,PhD,3,True,False,False,False,2023,3,9,3,84,Offline,0
+48,Adult,Female,0,28000.0,10.239959789157341,Master,2,True,False,False,False,2023,2,12,6,109,Online,0
+40,Adult,Female,0,28000.0,10.239959789157341,High School,0,True,False,False,False,2023,2,27,0,94,Online,0
+59,Senior,Female,0,28000.0,10.239959789157341,Bachelor,1,False,False,False,True,2023,1,13,4,139,Offline,0
+27,Adult,Male,1,52500.0,10.868568448579715,Bachelor,1,True,False,False,False,2023,2,21,1,100,Online,0
+49,Adult,Male,1,29000.0,10.275051108968611,PhD,3,False,False,True,False,2023,2,27,0,94,Offline,1
+60,Senior,Male,1,39000.0,10.571316925111784,PhD,3,False,True,False,False,2023,2,1,2,120,Online,0
+47,Adult,Male,1,35000.0,10.46310334047155,PhD,3,False,False,False,True,2023,4,15,5,47,Referral,1
+56,Senior,Male,1,31000.0,10.341742483467284,Bachelor,1,False,False,False,True,2023,3,24,4,69,Online,0
+48,Adult,Male,1,19000.0,9.852194258148577,High School,0,False,False,True,False,2023,4,9,6,53,Offline,0
+35,Adult,Male,1,32000.0,10.373491181781864,High School,0,True,False,False,False,2023,4,14,4,48,Online,0
+53,Senior,Female,0,15000.0,9.615805480084347,Bachelor,1,True,False,False,False,2023,1,28,5,124,Referral,1
+19,Young,Female,0,20000.0,9.903487552536127,High School,0,False,False,True,False,2023,5,9,1,23,Online,1
+31,Adult,Female,0,17000.0,9.740968623038354,Bachelor,1,False,False,False,True,2023,2,17,4,104,Referral,1
+30,Adult,Female,0,23000.0,10.043249494911286,High School,0,False,False,False,True,2023,2,9,3,112,Referral,0
+46,Adult,Male,1,52500.0,10.868568448579715,Master,2,False,False,False,True,2023,4,7,4,55,Offline,0
+29,Adult,Male,1,9000.0,9.104979856318357,Master,2,False,False,False,True,2023,4,24,0,38,Referral,1
+56,Senior,Female,0,31000.0,10.341742483467284,Bachelor,1,True,False,False,False,2023,5,12,4,20,Referral,1
+19,Young,Female,0,10000.0,9.210340371976184,High School,0,True,False,False,False,2023,5,17,2,15,Online,0
+49,Adult,Male,1,17000.0,9.740968623038354,PhD,3,False,False,False,True,2023,4,21,4,41,Offline,1
+30,Adult,Female,0,38000.0,10.545341438708522,High School,0,False,False,True,False,2023,5,24,2,8,Referral,0
+63,Senior,Female,0,23000.0,10.043249494911286,Master,2,False,True,False,False,2023,3,17,4,76,Referral,0
+44,Adult,Female,0,13000.0,9.472704636443673,Master,2,False,False,True,False,2023,1,31,1,121,Referral,0
+66,Senior,Female,0,15000.0,9.615805480084347,High School,0,True,False,False,False,2023,4,29,5,33,Offline,0
+58,Senior,Male,1,31000.0,10.341742483467284,High School,0,False,True,False,False,2023,5,22,0,10,Offline,0
+34,Adult,Female,0,15000.0,9.615805480084347,PhD,3,True,False,False,False,2023,1,25,2,127,Referral,0
+57,Senior,Female,0,25000.0,10.126631103850338,PhD,3,True,False,False,False,2023,2,3,4,118,Referral,0
+48,Adult,Male,1,23000.0,10.043249494911286,High School,0,False,False,False,True,2023,3,8,2,85,Offline,0
+51,Senior,Male,1,16000.0,9.680344001221918,High School,0,False,False,False,True,2023,4,28,4,34,Referral,0
+41,Adult,Female,0,52500.0,10.868568448579715,High School,0,False,False,False,True,2023,3,14,1,79,Offline,1
+62,Senior,Male,1,30000.0,10.308952660644293,High School,0,False,False,False,True,2023,1,26,3,126,Online,0
+52,Senior,Female,0,8000.0,8.987196820661973,Bachelor,1,False,False,False,True,2023,5,28,6,4,Online,0
+65,Senior,Female,0,24000.0,10.085809109330082,High School,0,True,False,False,False,2023,4,14,4,48,Referral,0
+23,Young,Male,1,16000.0,9.680344001221918,PhD,3,False,False,False,True,2023,1,10,1,142,Referral,1
+36,Adult,Female,0,34000.0,10.4341158035983,Master,2,False,False,False,True,2023,3,8,2,85,Referral,0
+47,Adult,Female,0,15000.0,9.615805480084347,Bachelor,1,True,False,False,False,2023,1,5,3,147,Offline,0
+24,Young,Female,0,21000.0,9.95227771670556,High School,0,True,False,False,False,2023,1,27,4,125,Referral,0
+27,Adult,Female,0,28000.0,10.239959789157341,Master,2,False,True,False,False,2023,4,23,6,39,Referral,1
+58,Senior,Male,1,34000.0,10.4341158035983,Bachelor,1,False,False,True,False,2023,1,15,6,137,Online,0
+49,Adult,Male,1,12000.0,9.392661928770137,Master,2,True,False,False,False,2023,4,15,5,47,Referral,0
+51,Senior,Female,0,19000.0,9.852194258148577,High School,0,False,True,False,False,2023,2,13,0,108,Online,0
+45,Adult,Male,1,17000.0,9.740968623038354,High School,0,False,False,False,True,2023,1,26,3,126,Referral,0
+32,Adult,Female,0,16000.0,9.680344001221918,PhD,3,False,False,True,False,2023,4,5,2,57,Online,1
+47,Adult,Female,0,52500.0,10.868568448579715,High School,0,False,False,True,False,2023,3,25,5,68,Referral,1
+54,Senior,Female,0,27000.0,10.203592144986466,High School,0,False,False,False,True,2023,5,20,5,12,Online,1
+46,Adult,Female,0,12000.0,9.392661928770137,Bachelor,1,True,False,False,False,2023,5,12,4,20,Offline,1
+39,Adult,Female,0,35000.0,10.46310334047155,PhD,3,False,False,False,True,2023,3,28,1,65,Online,0
+21,Young,Male,1,52500.0,10.868568448579715,Bachelor,1,False,False,False,True,2023,4,22,5,40,Online,0
+37,Adult,Female,0,37000.0,10.51867319162636,Master,2,False,False,False,True,2023,5,9,1,23,Online,1
+49,Adult,Male,1,10000.0,9.210340371976184,High School,0,False,True,False,False,2023,3,30,3,63,Referral,0
+53,Senior,Male,1,17000.0,9.740968623038354,Master,2,False,False,True,False,2023,3,7,1,86,Referral,1
+67,Senior,Female,0,42000.0,10.645424897265505,Bachelor,1,False,False,False,True,2023,5,11,3,21,Referral,0
+21,Young,Female,0,15000.0,9.615805480084347,High School,0,False,False,True,False,2023,5,2,1,30,Offline,0
+44,Adult,Female,0,27000.0,10.203592144986466,High School,0,False,True,False,False,2023,5,29,0,3,Offline,1
+34,Adult,Female,0,32000.0,10.373491181781864,Bachelor,1,False,True,False,False,2023,3,25,5,68,Online,1
+29,Adult,Female,0,14000.0,9.546812608597396,Bachelor,1,True,False,False,False,2023,4,26,2,36,Offline,1
+39,Adult,Male,1,21000.0,9.95227771670556,Bachelor,1,True,False,False,False,2023,4,26,2,36,Online,0
+34,Adult,Female,0,4000.0,8.294049640102028,Bachelor,1,True,False,False,False,2023,2,7,1,114,Online,1
+27,Adult,Female,0,13000.0,9.472704636443673,Bachelor,1,False,False,False,True,2023,5,23,1,9,Online,0
+18,Young,Male,1,19000.0,9.852194258148577,High School,0,False,False,False,True,2023,4,20,3,42,Online,0
+39,Adult,Male,1,12000.0,9.392661928770137,Bachelor,1,True,False,False,False,2023,2,15,2,106,Referral,1
+43,Adult,Female,0,50000.0,10.819778284410283,High School,0,False,True,False,False,2023,1,25,2,127,Offline,1
+35,Adult,Male,1,11000.0,9.305650551780507,High School,0,False,False,True,False,2023,1,21,5,131,Online,0
+67,Senior,Female,0,18000.0,9.798127036878302,Bachelor,1,False,False,True,False,2023,5,1,0,31,Online,1
+31,Adult,Male,1,24000.0,10.085809109330082,Bachelor,1,False,False,False,True,2023,5,2,1,30,Offline,0
+64,Senior,Male,1,45000.0,10.714417768752456,PhD,3,False,False,False,True,2023,5,13,5,19,Online,0
+46,Adult,Female,0,11000.0,9.305650551780507,High School,0,True,False,False,False,2023,3,11,5,82,Online,0
+29,Adult,Male,1,39000.0,10.571316925111784,Bachelor,1,False,True,False,False,2023,4,23,6,39,Offline,1
+53,Senior,Male,1,22000.0,9.998797732340453,Bachelor,1,False,False,True,False,2023,4,17,0,45,Offline,0
+52,Senior,Male,1,13000.0,9.472704636443673,Bachelor,1,False,True,False,False,2023,4,22,5,40,Offline,1
+69,Senior,Male,1,28000.0,10.239959789157341,PhD,3,True,False,False,False,2023,4,18,1,44,Offline,0
+29,Adult,Male,1,24000.0,10.085809109330082,PhD,3,False,True,False,False,2023,2,16,3,105,Online,1
+24,Young,Male,1,16000.0,9.680344001221918,Master,2,False,False,False,True,2023,4,1,5,61,Referral,0
+46,Adult,Female,0,23000.0,10.043249494911286,High School,0,False,False,False,True,2023,1,18,2,134,Referral,1
+28,Adult,Female,0,18000.0,9.798127036878302,Master,2,False,False,True,False,2023,5,29,0,3,Offline,0
+50,Adult,Male,1,23000.0,10.043249494911286,Bachelor,1,False,False,False,True,2023,4,14,4,48,Referral,1
+23,Young,Female,0,31000.0,10.341742483467284,PhD,3,False,False,True,False,2023,2,9,3,112,Online,1
+64,Senior,Female,0,49000.0,10.799575577092764,PhD,3,False,False,True,False,2023,5,18,3,14,Referral,1
+32,Adult,Female,0,12000.0,9.392661928770137,Master,2,False,False,True,False,2023,3,30,3,63,Online,0
+49,Adult,Male,1,52500.0,10.868568448579715,PhD,3,False,True,False,False,2023,3,2,3,91,Offline,1
+68,Senior,Female,0,8000.0,8.987196820661973,Bachelor,1,False,True,False,False,2023,1,5,3,147,Offline,0
+28,Adult,Male,1,20000.0,9.903487552536127,PhD,3,False,True,False,False,2023,5,2,1,30,Online,1
+40,Adult,Female,0,30000.0,10.308952660644293,Master,2,False,True,False,False,2023,2,24,4,97,Referral,1
+43,Adult,Male,1,25000.0,10.126631103850338,Bachelor,1,False,True,False,False,2023,2,6,0,115,Offline,0
+51,Senior,Male,1,16000.0,9.680344001221918,Master,2,True,False,False,False,2023,2,25,5,96,Offline,0
+63,Senior,Female,0,20000.0,9.903487552536127,PhD,3,False,True,False,False,2023,4,12,2,50,Referral,0
+51,Senior,Female,0,17000.0,9.740968623038354,Master,2,True,False,False,False,2023,4,3,0,59,Referral,0
+46,Adult,Male,1,16000.0,9.680344001221918,Master,2,False,False,True,False,2023,3,14,1,79,Online,1
+21,Young,Female,0,34000.0,10.4341158035983,High School,0,False,False,True,False,2023,2,28,1,93,Referral,0
+34,Adult,Female,0,26000.0,10.165851817003619,PhD,3,False,True,False,False,2023,1,2,0,150,Referral,0
+52,Senior,Female,0,16000.0,9.680344001221918,PhD,3,False,False,True,False,2023,4,14,4,48,Referral,0
+30,Adult,Male,1,35000.0,10.46310334047155,Master,2,False,True,False,False,2023,2,20,0,101,Online,0
+58,Senior,Male,1,26000.0,10.165851817003619,High School,0,False,True,False,False,2023,1,30,0,122,Online,0
+56,Senior,Female,0,33000.0,10.404262840448617,PhD,3,False,True,False,False,2023,1,11,2,141,Offline,1
+32,Adult,Female,0,30000.0,10.308952660644293,Bachelor,1,False,True,False,False,2023,4,18,1,44,Online,0
+46,Adult,Female,0,15000.0,9.615805480084347,Master,2,False,False,True,False,2023,3,17,4,76,Offline,1
+46,Adult,Male,1,17000.0,9.740968623038354,PhD,3,False,False,True,False,2023,3,31,4,62,Referral,0
+28,Adult,Male,1,32000.0,10.373491181781864,Bachelor,1,False,True,False,False,2023,5,3,2,29,Offline,0
+69,Senior,Female,0,30000.0,10.308952660644293,PhD,3,True,False,False,False,2023,5,5,4,27,Offline,1
+49,Adult,Female,0,22000.0,9.998797732340453,Bachelor,1,True,False,False,False,2023,5,2,1,30,Referral,0
+19,Young,Female,0,23000.0,10.043249494911286,Master,2,False,True,False,False,2023,4,4,1,58,Online,0
+64,Senior,Female,0,42000.0,10.645424897265505,PhD,3,False,False,True,False,2023,4,13,3,49,Online,0
+31,Adult,Female,0,16000.0,9.680344001221918,PhD,3,True,False,False,False,2023,1,31,1,121,Online,0
+37,Adult,Female,0,29000.0,10.275051108968611,High School,0,False,True,False,False,2023,2,21,1,100,Online,0
+39,Adult,Male,1,20000.0,9.903487552536127,Master,2,False,False,True,False,2023,3,30,3,63,Online,0
+28,Adult,Female,0,20000.0,9.903487552536127,Bachelor,1,False,True,False,False,2023,3,17,4,76,Offline,0
+44,Adult,Male,1,38000.0,10.545341438708522,PhD,3,True,False,False,False,2023,5,9,1,23,Offline,0
+20,Young,Female,0,33000.0,10.404262840448617,PhD,3,True,False,False,False,2023,1,22,6,130,Referral,0
+34,Adult,Female,0,33000.0,10.404262840448617,Bachelor,1,True,False,False,False,2023,2,9,3,112,Offline,0
+61,Senior,Male,1,42000.0,10.645424897265505,Master,2,False,True,False,False,2023,4,11,1,51,Offline,0
+45,Adult,Male,1,22000.0,9.998797732340453,High School,0,True,False,False,False,2023,4,21,4,41,Offline,0
+46,Adult,Male,1,31000.0,10.341742483467284,High School,0,False,False,False,True,2023,5,9,1,23,Referral,1
+38,Adult,Male,1,19000.0,9.852194258148577,PhD,3,False,False,True,False,2023,3,6,0,87,Online,0
+64,Senior,Female,0,26000.0,10.165851817003619,Bachelor,1,False,False,False,True,2023,5,29,0,3,Offline,1
+33,Adult,Male,1,21000.0,9.95227771670556,PhD,3,False,True,False,False,2023,3,20,0,73,Referral,0
+54,Senior,Female,0,23000.0,10.043249494911286,Bachelor,1,False,False,True,False,2023,1,22,6,130,Referral,1
+37,Adult,Male,1,30000.0,10.308952660644293,High School,0,False,False,False,True,2023,4,9,6,53,Referral,0
+23,Young,Female,0,15000.0,9.615805480084347,Master,2,False,True,False,False,2023,1,8,6,144,Online,1
+36,Adult,Female,0,52500.0,10.868568448579715,Bachelor,1,False,False,True,False,2023,1,17,1,135,Offline,1
+22,Young,Female,0,13000.0,9.472704636443673,High School,0,False,False,False,True,2023,1,17,1,135,Online,0
+20,Young,Female,0,12000.0,9.392661928770137,PhD,3,False,False,True,False,2023,3,31,4,62,Online,1
+18,Young,Female,0,39000.0,10.571316925111784,Bachelor,1,False,True,False,False,2023,5,21,6,11,Online,0
+55,Senior,Female,0,33000.0,10.404262840448617,Master,2,False,True,False,False,2023,5,25,3,7,Referral,0
+32,Adult,Male,1,30000.0,10.308952660644293,PhD,3,True,False,False,False,2023,3,22,2,71,Referral,1
+51,Senior,Female,0,30000.0,10.308952660644293,PhD,3,True,False,False,False,2023,3,19,6,74,Referral,1
+52,Senior,Male,1,22000.0,9.998797732340453,High School,0,False,True,False,False,2023,1,6,4,146,Referral,0
+66,Senior,Male,1,14000.0,9.546812608597396,Bachelor,1,False,False,True,False,2023,4,20,3,42,Online,0
+42,Adult,Female,0,23000.0,10.043249494911286,PhD,3,False,True,False,False,2023,1,14,5,138,Offline,1
+41,Adult,Male,1,16000.0,9.680344001221918,Master,2,False,False,True,False,2023,3,13,0,80,Offline,1
+29,Adult,Female,0,36000.0,10.491274217438248,Bachelor,1,True,False,False,False,2023,5,23,1,9,Offline,1
+35,Adult,Male,1,20000.0,9.903487552536127,Master,2,False,False,True,False,2023,2,23,3,98,Offline,1
+32,Adult,Female,0,15000.0,9.615805480084347,PhD,3,False,False,False,True,2023,1,27,4,125,Online,0
+61,Senior,Male,1,19000.0,9.852194258148577,Master,2,False,False,True,False,2023,1,13,4,139,Online,1
+33,Adult,Female,0,27000.0,10.203592144986466,High School,0,False,True,False,False,2023,3,1,2,92,Online,0
+44,Adult,Female,0,17000.0,9.740968623038354,Master,2,False,False,False,True,2023,1,6,4,146,Referral,0
+25,Young,Female,0,15000.0,9.615805480084347,Bachelor,1,False,False,True,False,2023,2,27,0,94,Referral,0
+63,Senior,Female,0,25000.0,10.126631103850338,Master,2,False,False,False,True,2023,2,18,5,103,Referral,0
+42,Adult,Male,1,25000.0,10.126631103850338,Master,2,True,False,False,False,2023,1,26,3,126,Offline,0
+34,Adult,Female,0,17000.0,9.740968623038354,High School,0,False,False,False,True,2023,2,16,3,105,Referral,1
+46,Adult,Male,1,17000.0,9.740968623038354,Master,2,False,False,False,True,2023,1,5,3,147,Offline,0
+25,Young,Male,1,25000.0,10.126631103850338,Master,2,False,False,False,True,2023,1,20,4,132,Referral,0
+32,Adult,Male,1,11000.0,9.305650551780507,PhD,3,False,False,False,True,2023,5,14,6,18,Offline,1
+44,Adult,Female,0,11000.0,9.305650551780507,PhD,3,False,False,False,True,2023,2,28,1,93,Referral,0
+63,Senior,Male,1,15000.0,9.615805480084347,Bachelor,1,False,False,True,False,2023,5,26,4,6,Referral,0
+67,Senior,Male,1,20000.0,9.903487552536127,PhD,3,False,False,True,False,2023,5,12,4,20,Online,0
+69,Senior,Male,1,26000.0,10.165851817003619,PhD,3,False,True,False,False,2023,1,17,1,135,Offline,1
+24,Young,Female,0,46000.0,10.736396675471232,PhD,3,False,False,True,False,2023,1,14,5,138,Referral,0
+20,Young,Female,0,34000.0,10.4341158035983,PhD,3,False,False,False,True,2023,1,13,4,139,Online,0
+46,Adult,Male,1,20000.0,9.903487552536127,High School,0,False,False,False,True,2023,5,15,0,17,Offline,0
+61,Senior,Female,0,22000.0,9.998797732340453,PhD,3,False,False,False,True,2023,5,8,0,24,Online,0
+41,Adult,Female,0,13000.0,9.472704636443673,High School,0,True,False,False,False,2023,2,13,0,108,Online,0
+20,Young,Male,1,22000.0,9.998797732340453,High School,0,False,False,False,True,2023,4,29,5,33,Offline,0
+37,Adult,Male,1,19000.0,9.852194258148577,PhD,3,True,False,False,False,2023,5,23,1,9,Referral,0
+63,Senior,Female,0,26000.0,10.165851817003619,Master,2,False,False,False,True,2023,1,19,3,133,Offline,1
+32,Adult,Male,1,15000.0,9.615805480084347,High School,0,False,False,False,True,2023,3,4,5,89,Referral,0
+42,Adult,Female,0,29000.0,10.275051108968611,Master,2,True,False,False,False,2023,3,22,2,71,Referral,0
+47,Adult,Female,0,47000.0,10.757902880692196,Master,2,False,True,False,False,2023,5,27,5,5,Offline,0
+31,Adult,Female,0,21000.0,9.95227771670556,PhD,3,True,False,False,False,2023,5,28,6,4,Online,0
+24,Young,Female,0,27000.0,10.203592144986466,Bachelor,1,False,False,True,False,2023,4,10,0,52,Offline,1
+34,Adult,Female,0,31000.0,10.341742483467284,PhD,3,False,False,False,True,2023,5,2,1,30,Referral,0
+61,Senior,Female,0,18000.0,9.798127036878302,Bachelor,1,True,False,False,False,2023,2,13,0,108,Offline,0
+37,Adult,Male,1,25000.0,10.126631103850338,Bachelor,1,True,False,False,False,2023,4,14,4,48,Offline,1
+53,Senior,Male,1,22000.0,9.998797732340453,PhD,3,False,True,False,False,2023,3,2,3,91,Referral,0
+26,Adult,Female,0,23000.0,10.043249494911286,PhD,3,False,False,False,True,2023,5,5,4,27,Online,0
+55,Senior,Female,0,15000.0,9.615805480084347,Bachelor,1,False,True,False,False,2023,5,25,3,7,Offline,0
+65,Senior,Female,0,22000.0,9.998797732340453,PhD,3,True,False,False,False,2023,3,12,6,81,Referral,0
+39,Adult,Male,1,28000.0,10.239959789157341,Bachelor,1,False,False,True,False,2023,4,17,0,45,Referral,0
+19,Young,Female,0,46000.0,10.736396675471232,Master,2,True,False,False,False,2023,2,19,6,102,Online,0
+41,Adult,Male,1,36000.0,10.491274217438248,PhD,3,False,False,False,True,2023,3,6,0,87,Online,0
+25,Young,Female,0,52500.0,10.868568448579715,Master,2,True,False,False,False,2023,4,9,6,53,Offline,1
+28,Adult,Female,0,15000.0,9.615805480084347,High School,0,False,False,False,True,2023,2,1,2,120,Online,0
+30,Adult,Male,1,34000.0,10.4341158035983,Master,2,False,False,False,True,2023,5,21,6,11,Online,0
+34,Adult,Male,1,24000.0,10.085809109330082,Master,2,False,False,True,False,2023,2,27,0,94,Online,0
+25,Young,Female,0,52500.0,10.868568448579715,Bachelor,1,False,False,False,True,2023,5,8,0,24,Online,0
+38,Adult,Female,0,15000.0,9.615805480084347,Master,2,False,False,False,True,2023,5,22,0,10,Offline,0
+35,Adult,Female,0,14000.0,9.546812608597396,PhD,3,False,False,True,False,2023,4,22,5,40,Referral,1
+47,Adult,Male,1,16000.0,9.680344001221918,Bachelor,1,False,False,True,False,2023,3,9,3,84,Referral,1
+35,Adult,Male,1,8000.0,8.987196820661973,High School,0,False,False,True,False,2023,2,9,3,112,Referral,1
+63,Senior,Male,1,17000.0,9.740968623038354,PhD,3,False,True,False,False,2023,5,24,2,8,Referral,1
+64,Senior,Male,1,15000.0,9.615805480084347,High School,0,True,False,False,False,2023,5,12,4,20,Referral,0
+48,Adult,Male,1,24000.0,10.085809109330082,Master,2,True,False,False,False,2023,3,31,4,62,Referral,0
+55,Senior,Male,1,26000.0,10.165851817003619,PhD,3,False,True,False,False,2023,1,28,5,124,Offline,0
+49,Adult,Female,0,52500.0,10.868568448579715,PhD,3,True,False,False,False,2023,4,6,3,56,Online,0
+28,Adult,Female,0,35000.0,10.46310334047155,High School,0,False,False,False,True,2023,1,31,1,121,Referral,1
+62,Senior,Male,1,17000.0,9.740968623038354,PhD,3,False,False,True,False,2023,1,3,1,149,Offline,0
+42,Adult,Female,0,14000.0,9.546812608597396,PhD,3,False,True,False,False,2023,5,16,1,16,Referral,1
+50,Adult,Female,0,28000.0,10.239959789157341,PhD,3,True,False,False,False,2023,1,24,1,128,Referral,0
+55,Senior,Male,1,11000.0,9.305650551780507,Master,2,False,True,False,False,2023,1,15,6,137,Online,1
+58,Senior,Female,0,52500.0,10.868568448579715,High School,0,False,True,False,False,2023,2,14,1,107,Online,1
+25,Young,Male,1,40000.0,10.596634733096073,PhD,3,False,False,False,True,2023,1,8,6,144,Online,1
+28,Adult,Male,1,17000.0,9.740968623038354,Bachelor,1,True,False,False,False,2023,3,12,6,81,Referral,1
+39,Adult,Female,0,9000.0,9.104979856318357,Bachelor,1,False,False,False,True,2023,4,18,1,44,Referral,0
+68,Senior,Male,1,43000.0,10.668955394675699,Bachelor,1,True,False,False,False,2023,4,25,1,37,Referral,1
+41,Adult,Male,1,21000.0,9.95227771670556,Bachelor,1,False,False,False,True,2023,4,13,3,49,Offline,1
+58,Senior,Male,1,41000.0,10.621327345686446,Master,2,False,False,False,True,2023,5,5,4,27,Offline,1
+34,Adult,Male,1,10000.0,9.210340371976184,PhD,3,False,False,True,False,2023,2,26,6,95,Referral,1
+29,Adult,Male,1,16000.0,9.680344001221918,High School,0,False,False,False,True,2023,1,30,0,122,Referral,1
+63,Senior,Male,1,22000.0,9.998797732340453,PhD,3,True,False,False,False,2023,5,26,4,6,Referral,1
+49,Adult,Male,1,23000.0,10.043249494911286,Master,2,False,False,False,True,2023,4,24,0,38,Offline,0
+32,Adult,Male,1,18000.0,9.798127036878302,Bachelor,1,False,True,False,False,2023,4,27,3,35,Referral,1
+33,Adult,Female,0,30000.0,10.308952660644293,Master,2,False,False,False,True,2023,3,1,2,92,Offline,0
+39,Adult,Female,0,13000.0,9.472704636443673,PhD,3,False,True,False,False,2023,4,8,5,54,Referral,0
+45,Adult,Female,0,21000.0,9.95227771670556,High School,0,False,False,True,False,2023,5,6,5,26,Offline,0
+37,Adult,Male,1,23000.0,10.043249494911286,Master,2,True,False,False,False,2023,4,4,1,58,Referral,0
+50,Adult,Male,1,28000.0,10.239959789157341,High School,0,False,False,False,True,2023,5,14,6,18,Online,0
+27,Adult,Female,0,31000.0,10.341742483467284,Master,2,False,False,False,True,2023,5,2,1,30,Online,0
+57,Senior,Female,0,13000.0,9.472704636443673,High School,0,True,False,False,False,2023,4,18,1,44,Online,0
+49,Adult,Female,0,10000.0,9.210340371976184,High School,0,True,False,False,False,2023,1,4,2,148,Online,0
+67,Senior,Male,1,42000.0,10.645424897265505,Bachelor,1,False,True,False,False,2023,4,3,0,59,Referral,0
+50,Adult,Female,0,26000.0,10.165851817003619,High School,0,False,True,False,False,2023,1,6,4,146,Online,1
+19,Young,Female,0,15000.0,9.615805480084347,Bachelor,1,True,False,False,False,2023,2,1,2,120,Online,1
+50,Adult,Male,1,48000.0,10.778956289890028,PhD,3,True,False,False,False,2023,4,16,6,46,Online,1
+50,Adult,Female,0,23000.0,10.043249494911286,PhD,3,False,False,False,True,2023,5,26,4,6,Online,1
+58,Senior,Male,1,40000.0,10.596634733096073,Bachelor,1,False,True,False,False,2023,1,15,6,137,Online,1
+30,Adult,Male,1,23000.0,10.043249494911286,Bachelor,1,True,False,False,False,2023,5,2,1,30,Referral,0
+47,Adult,Male,1,52500.0,10.868568448579715,Master,2,False,False,True,False,2023,4,6,3,56,Online,1
+50,Adult,Female,0,52500.0,10.868568448579715,Master,2,False,False,False,True,2023,1,6,4,146,Offline,1
+30,Adult,Female,0,19000.0,9.852194258148577,Master,2,False,False,False,True,2023,4,22,5,40,Online,0
+69,Senior,Male,1,36000.0,10.491274217438248,PhD,3,False,False,False,True,2023,4,30,6,32,Offline,0
+43,Adult,Female,0,30000.0,10.308952660644293,Master,2,False,False,False,True,2023,5,3,2,29,Online,1
+39,Adult,Female,0,44000.0,10.691944912900398,High School,0,True,False,False,False,2023,3,8,2,85,Offline,0
+56,Senior,Female,0,14000.0,9.546812608597396,High School,0,False,True,False,False,2023,4,16,6,46,Online,1
+19,Young,Female,0,31000.0,10.341742483467284,Master,2,False,False,True,False,2023,5,19,4,13,Referral,0
+55,Senior,Male,1,37000.0,10.51867319162636,High School,0,False,False,False,True,2023,2,12,6,109,Offline,0
+56,Senior,Female,0,9000.0,9.104979856318357,PhD,3,False,True,False,False,2023,5,25,3,7,Online,0
+43,Adult,Male,1,12000.0,9.392661928770137,High School,0,False,False,False,True,2023,4,6,3,56,Offline,0
+63,Senior,Male,1,8000.0,8.987196820661973,PhD,3,False,False,True,False,2023,5,12,4,20,Referral,0
+67,Senior,Female,0,19000.0,9.852194258148577,Bachelor,1,False,False,True,False,2023,3,22,2,71,Offline,1
+32,Adult,Male,1,32000.0,10.373491181781864,Bachelor,1,False,True,False,False,2023,2,10,4,111,Online,1
+51,Senior,Female,0,47000.0,10.757902880692196,Bachelor,1,True,False,False,False,2023,5,13,5,19,Offline,1
+59,Senior,Female,0,23000.0,10.043249494911286,Bachelor,1,False,False,False,True,2023,2,4,5,117,Offline,0
+61,Senior,Male,1,50000.0,10.819778284410283,High School,0,False,False,False,True,2023,1,22,6,130,Online,1
+66,Senior,Male,1,11000.0,9.305650551780507,Master,2,True,False,False,False,2023,5,30,1,2,Online,0
+57,Senior,Male,1,9000.0,9.104979856318357,High School,0,False,True,False,False,2023,4,22,5,40,Offline,0
+28,Adult,Male,1,21000.0,9.95227771670556,PhD,3,True,False,False,False,2023,1,11,2,141,Offline,0
+20,Young,Female,0,27000.0,10.203592144986466,High School,0,False,False,True,False,2023,1,3,1,149,Referral,0
+23,Young,Female,0,22000.0,9.998797732340453,High School,0,False,False,True,False,2023,5,17,2,15,Referral,0
+26,Adult,Female,0,8000.0,8.987196820661973,PhD,3,False,False,True,False,2023,3,1,2,92,Online,0
+23,Young,Male,1,21000.0,9.95227771670556,Bachelor,1,True,False,False,False,2023,3,17,4,76,Referral,1
+26,Adult,Male,1,11000.0,9.305650551780507,Bachelor,1,False,False,False,True,2023,3,28,1,65,Online,1
+56,Senior,Male,1,31000.0,10.341742483467284,Bachelor,1,False,True,False,False,2023,1,14,5,138,Offline,0
+48,Adult,Female,0,26000.0,10.165851817003619,Master,2,True,False,False,False,2023,1,18,2,134,Offline,0
+49,Adult,Male,1,14000.0,9.546812608597396,PhD,3,False,True,False,False,2023,4,23,6,39,Online,0
+58,Senior,Female,0,17000.0,9.740968623038354,PhD,3,False,True,False,False,2023,3,14,1,79,Online,0
+67,Senior,Male,1,13000.0,9.472704636443673,High School,0,False,False,False,True,2023,1,23,0,129,Offline,1
+29,Adult,Female,0,21000.0,9.95227771670556,Master,2,False,False,True,False,2023,3,24,4,69,Referral,0
+25,Young,Female,0,36000.0,10.491274217438248,Bachelor,1,False,False,True,False,2023,5,5,4,27,Offline,1
+25,Young,Male,1,13000.0,9.472704636443673,Master,2,False,False,True,False,2023,3,10,4,83,Online,1
+67,Senior,Male,1,28000.0,10.239959789157341,PhD,3,True,False,False,False,2023,2,16,3,105,Offline,0
+45,Adult,Female,0,17000.0,9.740968623038354,PhD,3,False,True,False,False,2023,4,26,2,36,Online,1
+37,Adult,Female,0,15000.0,9.615805480084347,High School,0,False,True,False,False,2023,1,30,0,122,Online,0
+64,Senior,Male,1,21000.0,9.95227771670556,High School,0,True,False,False,False,2023,1,25,2,127,Offline,0
+24,Young,Male,1,13000.0,9.472704636443673,PhD,3,True,False,False,False,2023,4,22,5,40,Referral,0
+28,Adult,Female,0,17000.0,9.740968623038354,Bachelor,1,True,False,False,False,2023,1,25,2,127,Offline,0
+37,Adult,Male,1,12000.0,9.392661928770137,Bachelor,1,False,True,False,False,2023,3,15,2,78,Online,0
+33,Adult,Female,0,52500.0,10.868568448579715,Master,2,False,False,True,False,2023,2,27,0,94,Offline,0
+21,Young,Female,0,22000.0,9.998797732340453,PhD,3,False,False,True,False,2023,4,4,1,58,Online,1
+23,Young,Male,1,16000.0,9.680344001221918,PhD,3,False,False,True,False,2023,4,29,5,33,Referral,1
+39,Adult,Male,1,25000.0,10.126631103850338,Bachelor,1,False,True,False,False,2023,5,7,6,25,Referral,1
+43,Adult,Male,1,21000.0,9.95227771670556,Bachelor,1,False,False,False,True,2023,1,25,2,127,Referral,0
+20,Young,Male,1,20000.0,9.903487552536127,PhD,3,False,True,False,False,2023,3,19,6,74,Online,1
+58,Senior,Male,1,30000.0,10.308952660644293,High School,0,False,False,True,False,2023,4,9,6,53,Offline,1
+59,Senior,Female,0,32000.0,10.373491181781864,PhD,3,True,False,False,False,2023,4,26,2,36,Referral,1
+31,Adult,Female,0,17000.0,9.740968623038354,PhD,3,True,False,False,False,2023,2,17,4,104,Online,1
+28,Adult,Male,1,17000.0,9.740968623038354,Bachelor,1,False,False,False,True,2023,1,10,1,142,Online,1
+35,Adult,Male,1,19000.0,9.852194258148577,Bachelor,1,False,False,True,False,2023,4,9,6,53,Offline,0
+29,Adult,Male,1,7000.0,8.85366542803745,High School,0,False,True,False,False,2023,1,11,2,141,Referral,1
+40,Adult,Female,0,10000.0,9.210340371976184,High School,0,False,True,False,False,2023,3,26,6,67,Online,0
+29,Adult,Male,1,44000.0,10.691944912900398,Master,2,False,False,False,True,2023,5,29,0,3,Offline,1
+30,Adult,Male,1,50000.0,10.819778284410283,PhD,3,True,False,False,False,2023,5,15,0,17,Referral,0
+42,Adult,Female,0,19000.0,9.852194258148577,Bachelor,1,False,True,False,False,2023,5,6,5,26,Offline,0
+62,Senior,Female,0,29000.0,10.275051108968611,High School,0,True,False,False,False,2023,3,5,6,88,Offline,0
+68,Senior,Male,1,26000.0,10.165851817003619,Master,2,False,False,False,True,2023,1,2,0,150,Offline,1
+36,Adult,Male,1,52500.0,10.868568448579715,Master,2,False,False,True,False,2023,3,17,4,76,Offline,0
+63,Senior,Male,1,39000.0,10.571316925111784,Bachelor,1,False,False,False,True,2023,5,1,0,31,Online,0
+53,Senior,Female,0,21000.0,9.95227771670556,Bachelor,1,True,False,False,False,2023,2,11,5,110,Offline,1
+62,Senior,Male,1,14000.0,9.546812608597396,Master,2,True,False,False,False,2023,2,23,3,98,Online,1
+25,Young,Male,1,10000.0,9.210340371976184,High School,0,False,False,False,True,2023,3,16,3,77,Offline,0
+46,Adult,Male,1,24000.0,10.085809109330082,Master,2,False,False,True,False,2023,1,16,0,136,Offline,0
+49,Adult,Female,0,15000.0,9.615805480084347,PhD,3,True,False,False,False,2023,1,18,2,134,Online,1
+68,Senior,Female,0,11000.0,9.305650551780507,PhD,3,True,False,False,False,2023,3,31,4,62,Referral,1
+61,Senior,Male,1,16000.0,9.680344001221918,Bachelor,1,False,True,False,False,2023,5,24,2,8,Referral,0
+35,Adult,Male,1,13000.0,9.472704636443673,High School,0,False,False,True,False,2023,1,6,4,146,Referral,1
+23,Young,Female,0,51000.0,10.839580911706463,High School,0,False,True,False,False,2023,4,18,1,44,Offline,0
+36,Adult,Female,0,22000.0,9.998797732340453,Master,2,False,True,False,False,2023,2,11,5,110,Offline,1
+39,Adult,Female,0,46000.0,10.736396675471232,Bachelor,1,True,False,False,False,2023,3,17,4,76,Online,0
+54,Senior,Female,0,23000.0,10.043249494911286,Master,2,False,False,True,False,2023,3,18,5,75,Offline,0
+49,Adult,Female,0,14000.0,9.546812608597396,Master,2,False,True,False,False,2023,5,12,4,20,Online,1
+58,Senior,Female,0,47000.0,10.757902880692196,Master,2,False,True,False,False,2023,5,10,2,22,Online,1
+20,Young,Female,0,29000.0,10.275051108968611,High School,0,True,False,False,False,2023,2,28,1,93,Referral,0
+45,Adult,Female,0,13000.0,9.472704636443673,PhD,3,False,False,True,False,2023,1,27,4,125,Referral,1
+27,Adult,Male,1,20000.0,9.903487552536127,High School,0,False,False,False,True,2023,3,20,0,73,Referral,1
+68,Senior,Male,1,14000.0,9.546812608597396,PhD,3,True,False,False,False,2023,3,13,0,80,Offline,0
+52,Senior,Male,1,11000.0,9.305650551780507,Bachelor,1,False,False,False,True,2023,1,7,5,145,Online,1
+46,Adult,Female,0,35000.0,10.46310334047155,Bachelor,1,True,False,False,False,2023,4,21,4,41,Online,0
+32,Adult,Male,1,52500.0,10.868568448579715,Master,2,False,True,False,False,2023,4,29,5,33,Offline,1
+50,Adult,Female,0,11000.0,9.305650551780507,PhD,3,False,False,True,False,2023,3,4,5,89,Online,0
+24,Young,Female,0,29000.0,10.275051108968611,PhD,3,False,True,False,False,2023,5,4,3,28,Referral,0
+29,Adult,Male,1,16000.0,9.680344001221918,PhD,3,False,False,False,True,2023,1,12,3,140,Referral,0
+66,Senior,Female,0,17000.0,9.740968623038354,Master,2,False,False,False,True,2023,5,21,6,11,Online,1
+47,Adult,Male,1,16000.0,9.680344001221918,Master,2,True,False,False,False,2023,2,12,6,109,Online,1
+38,Adult,Male,1,14000.0,9.546812608597396,Bachelor,1,False,False,False,True,2023,1,17,1,135,Referral,1
+48,Adult,Male,1,23000.0,10.043249494911286,High School,0,False,False,True,False,2023,3,4,5,89,Online,1
+41,Adult,Female,0,15000.0,9.615805480084347,PhD,3,True,False,False,False,2023,4,30,6,32,Referral,0
+37,Adult,Male,1,25000.0,10.126631103850338,PhD,3,False,False,False,True,2023,2,5,6,116,Offline,1
+54,Senior,Female,0,21000.0,9.95227771670556,High School,0,False,False,True,False,2023,1,8,6,144,Referral,0
+21,Young,Male,1,20000.0,9.903487552536127,PhD,3,True,False,False,False,2023,3,10,4,83,Offline,1
+45,Adult,Male,1,14000.0,9.546812608597396,Master,2,False,False,True,False,2023,3,31,4,62,Online,0
+61,Senior,Male,1,17000.0,9.740968623038354,Master,2,False,True,False,False,2023,2,5,6,116,Online,1
+37,Adult,Female,0,32000.0,10.373491181781864,PhD,3,False,True,False,False,2023,1,28,5,124,Offline,1
+41,Adult,Female,0,28000.0,10.239959789157341,Master,2,False,False,True,False,2023,4,28,4,34,Online,1
+67,Senior,Female,0,14000.0,9.546812608597396,Master,2,False,False,True,False,2023,4,3,0,59,Offline,0
+66,Senior,Male,1,23000.0,10.043249494911286,PhD,3,False,False,False,True,2023,3,17,4,76,Offline,0
+68,Senior,Male,1,32000.0,10.373491181781864,Bachelor,1,False,True,False,False,2023,4,11,1,51,Referral,0
+49,Adult,Female,0,10000.0,9.210340371976184,High School,0,False,False,True,False,2023,5,24,2,8,Online,1
+58,Senior,Female,0,29000.0,10.275051108968611,Master,2,False,False,False,True,2023,1,14,5,138,Referral,0
+53,Senior,Female,0,16000.0,9.680344001221918,Bachelor,1,True,False,False,False,2023,3,12,6,81,Referral,1
+51,Senior,Female,0,29000.0,10.275051108968611,Master,2,False,False,False,True,2023,5,4,3,28,Offline,0
+53,Senior,Female,0,15000.0,9.615805480084347,Master,2,False,False,False,True,2023,5,5,4,27,Online,0
+19,Young,Female,0,9000.0,9.104979856318357,High School,0,True,False,False,False,2023,2,6,0,115,Online,1
+32,Adult,Male,1,10000.0,9.210340371976184,Master,2,False,False,False,True,2023,1,29,6,123,Online,0
+51,Senior,Female,0,23000.0,10.043249494911286,High School,0,False,True,False,False,2023,5,23,1,9,Referral,1
+53,Senior,Male,1,25000.0,10.126631103850338,High School,0,True,False,False,False,2023,1,19,3,133,Referral,1
+23,Young,Male,1,14000.0,9.546812608597396,High School,0,False,False,True,False,2023,4,16,6,46,Online,0
+56,Senior,Female,0,30000.0,10.308952660644293,Bachelor,1,False,True,False,False,2023,1,21,5,131,Online,0
+59,Senior,Female,0,10000.0,9.210340371976184,PhD,3,True,False,False,False,2023,3,5,6,88,Offline,0
+68,Senior,Male,1,21000.0,9.95227771670556,Bachelor,1,False,False,False,True,2023,1,27,4,125,Offline,0
+68,Senior,Female,0,12000.0,9.392661928770137,PhD,3,False,False,True,False,2023,2,24,4,97,Offline,1
+29,Adult,Female,0,16000.0,9.680344001221918,PhD,3,True,False,False,False,2023,1,29,6,123,Online,0
+20,Young,Male,1,23000.0,10.043249494911286,High School,0,False,False,True,False,2023,5,28,6,4,Offline,0
+62,Senior,Male,1,14000.0,9.546812608597396,Master,2,False,True,False,False,2023,1,25,2,127,Online,0
+35,Adult,Male,1,18000.0,9.798127036878302,High School,0,False,False,True,False,2023,3,11,5,82,Referral,0
+57,Senior,Female,0,52500.0,10.868568448579715,Master,2,True,False,False,False,2023,3,4,5,89,Offline,0
+38,Adult,Male,1,17000.0,9.740968623038354,PhD,3,False,True,False,False,2023,5,10,2,22,Offline,1
+32,Adult,Female,0,33000.0,10.404262840448617,High School,0,False,False,True,False,2023,5,30,1,2,Referral,1
+50,Adult,Male,1,13000.0,9.472704636443673,Master,2,False,True,False,False,2023,1,16,0,136,Referral,1
+52,Senior,Male,1,29000.0,10.275051108968611,Bachelor,1,False,False,True,False,2023,5,26,4,6,Referral,1
+43,Adult,Male,1,45000.0,10.714417768752456,Master,2,False,True,False,False,2023,4,10,0,52,Online,0
+25,Young,Female,0,6000.0,8.699514748210191,High School,0,False,True,False,False,2023,1,30,0,122,Referral,1
+53,Senior,Female,0,15000.0,9.615805480084347,Bachelor,1,True,False,False,False,2023,2,14,1,107,Online,0
+65,Senior,Male,1,29000.0,10.275051108968611,Master,2,True,False,False,False,2023,1,19,3,133,Offline,0
+47,Adult,Male,1,20000.0,9.903487552536127,Master,2,True,False,False,False,2023,2,3,4,118,Offline,0
+40,Adult,Male,1,27000.0,10.203592144986466,Master,2,False,True,False,False,2023,5,21,6,11,Referral,0
+59,Senior,Female,0,16000.0,9.680344001221918,Master,2,False,False,True,False,2023,3,3,4,90,Online,1
+61,Senior,Male,1,23000.0,10.043249494911286,Master,2,False,False,True,False,2023,4,28,4,34,Referral,0
+31,Adult,Female,0,20000.0,9.903487552536127,Bachelor,1,False,True,False,False,2023,4,10,0,52,Referral,1
+31,Adult,Male,1,39000.0,10.571316925111784,PhD,3,False,False,False,True,2023,1,22,6,130,Online,0
+19,Young,Male,1,25000.0,10.126631103850338,Bachelor,1,False,False,False,True,2023,4,21,4,41,Online,0
+22,Young,Male,1,18000.0,9.798127036878302,Bachelor,1,True,False,False,False,2023,5,27,5,5,Referral,0
+55,Senior,Male,1,17000.0,9.740968623038354,PhD,3,False,False,True,False,2023,2,7,1,114,Online,0
+62,Senior,Male,1,18000.0,9.798127036878302,High School,0,False,False,False,True,2023,3,11,5,82,Online,0
+58,Senior,Female,0,27000.0,10.203592144986466,PhD,3,True,False,False,False,2023,4,26,2,36,Offline,1
+64,Senior,Male,1,18000.0,9.798127036878302,Bachelor,1,False,False,True,False,2023,3,20,0,73,Online,1
+31,Adult,Female,0,25000.0,10.126631103850338,Master,2,False,False,True,False,2023,5,28,6,4,Online,0
+56,Senior,Male,1,52500.0,10.868568448579715,Master,2,False,False,True,False,2023,1,9,0,143,Offline,1
+42,Adult,Male,1,34000.0,10.4341158035983,Bachelor,1,True,False,False,False,2023,2,1,2,120,Referral,1
+37,Adult,Female,0,19000.0,9.852194258148577,Master,2,False,False,False,True,2023,5,12,4,20,Offline,1
+19,Young,Male,1,40000.0,10.596634733096073,Bachelor,1,True,False,False,False,2023,2,19,6,102,Online,1
+56,Senior,Female,0,18000.0,9.798127036878302,Master,2,True,False,False,False,2023,3,23,3,70,Offline,0
+23,Young,Female,0,8000.0,8.987196820661973,PhD,3,False,False,False,True,2023,1,5,3,147,Referral,1
+34,Adult,Male,1,13000.0,9.472704636443673,High School,0,False,False,True,False,2023,5,28,6,4,Offline,0
+42,Adult,Female,0,9000.0,9.104979856318357,High School,0,False,False,True,False,2023,3,28,1,65,Referral,0
+45,Adult,Female,0,18000.0,9.798127036878302,PhD,3,False,True,False,False,2023,5,6,5,26,Offline,1
+19,Young,Male,1,22000.0,9.998797732340453,PhD,3,True,False,False,False,2023,3,16,3,77,Referral,1
+52,Senior,Female,0,51000.0,10.839580911706463,Bachelor,1,True,False,False,False,2023,1,22,6,130,Offline,0
+54,Senior,Male,1,26000.0,10.165851817003619,Bachelor,1,True,False,False,False,2023,3,9,3,84,Online,0
+22,Young,Male,1,20000.0,9.903487552536127,Bachelor,1,False,True,False,False,2023,2,13,0,108,Referral,1
+18,Young,Male,1,33000.0,10.404262840448617,Master,2,False,False,False,True,2023,2,3,4,118,Online,0
+57,Senior,Male,1,7000.0,8.85366542803745,Bachelor,1,True,False,False,False,2023,3,18,5,75,Referral,0
+29,Adult,Female,0,25000.0,10.126631103850338,PhD,3,False,False,False,True,2023,2,11,5,110,Offline,0
+53,Senior,Male,1,32000.0,10.373491181781864,High School,0,False,False,True,False,2023,5,17,2,15,Offline,0
+62,Senior,Male,1,11000.0,9.305650551780507,Master,2,True,False,False,False,2023,4,16,6,46,Referral,1
+40,Adult,Female,0,39000.0,10.571316925111784,Bachelor,1,False,False,True,False,2023,4,5,2,57,Offline,0
+64,Senior,Male,1,26000.0,10.165851817003619,Master,2,True,False,False,False,2023,5,15,0,17,Online,1
+48,Adult,Male,1,18000.0,9.798127036878302,Master,2,False,False,False,True,2023,3,9,3,84,Referral,0
+28,Adult,Female,0,30000.0,10.308952660644293,Bachelor,1,False,False,False,True,2023,5,27,5,5,Online,1
+27,Adult,Female,0,52500.0,10.868568448579715,Master,2,False,False,False,True,2023,5,8,0,24,Referral,1
+20,Young,Female,0,24000.0,10.085809109330082,High School,0,False,True,False,False,2023,3,26,6,67,Referral,1
+31,Adult,Female,0,25000.0,10.126631103850338,PhD,3,False,False,False,True,2023,3,24,4,69,Referral,1
+33,Adult,Female,0,18000.0,9.798127036878302,PhD,3,False,False,False,True,2023,4,5,2,57,Offline,1
+27,Adult,Female,0,14000.0,9.546812608597396,High School,0,False,False,True,False,2023,2,1,2,120,Online,0
+46,Adult,Female,0,52500.0,10.868568448579715,Master,2,True,False,False,False,2023,3,7,1,86,Referral,1
+27,Adult,Male,1,14000.0,9.546812608597396,Bachelor,1,False,True,False,False,2023,4,26,2,36,Offline,1
+29,Adult,Female,0,23000.0,10.043249494911286,Master,2,False,False,False,True,2023,5,18,3,14,Offline,0
+47,Adult,Female,0,17000.0,9.740968623038354,High School,0,False,False,True,False,2023,5,10,2,22,Offline,0
+58,Senior,Female,0,28000.0,10.239959789157341,Master,2,False,True,False,False,2023,3,1,2,92,Referral,1
+18,Young,Male,1,52500.0,10.868568448579715,PhD,3,True,False,False,False,2023,1,17,1,135,Online,1
+22,Young,Male,1,37000.0,10.51867319162636,Master,2,False,False,False,True,2023,4,6,3,56,Online,0
+37,Adult,Female,0,17000.0,9.740968623038354,High School,0,True,False,False,False,2023,5,24,2,8,Referral,0
+25,Young,Female,0,19000.0,9.852194258148577,PhD,3,False,True,False,False,2023,1,16,0,136,Offline,1
+60,Senior,Female,0,14000.0,9.546812608597396,Master,2,False,False,True,False,2023,2,15,2,106,Referral,0
+29,Adult,Male,1,18000.0,9.798127036878302,Master,2,False,False,True,False,2023,4,17,0,45,Offline,1
+18,Young,Male,1,27000.0,10.203592144986466,PhD,3,False,False,False,True,2023,3,29,2,64,Online,1
+37,Adult,Female,0,32000.0,10.373491181781864,Bachelor,1,True,False,False,False,2023,5,9,1,23,Offline,1
+45,Adult,Male,1,14000.0,9.546812608597396,PhD,3,False,False,True,False,2023,5,19,4,13,Online,0
+60,Senior,Female,0,34000.0,10.4341158035983,Bachelor,1,True,False,False,False,2023,4,29,5,33,Referral,1
+54,Senior,Male,1,43000.0,10.668955394675699,High School,0,True,False,False,False,2023,3,26,6,67,Online,1
+64,Senior,Male,1,27000.0,10.203592144986466,High School,0,False,True,False,False,2023,1,4,2,148,Online,1
+54,Senior,Female,0,52500.0,10.868568448579715,PhD,3,False,False,True,False,2023,3,12,6,81,Referral,0
+29,Adult,Female,0,15000.0,9.615805480084347,PhD,3,False,False,True,False,2023,4,21,4,41,Referral,0
+54,Senior,Female,0,12000.0,9.392661928770137,High School,0,True,False,False,False,2023,2,19,6,102,Offline,1
+66,Senior,Female,0,9000.0,9.104979856318357,Bachelor,1,True,False,False,False,2023,5,20,5,12,Offline,0
+66,Senior,Male,1,47000.0,10.757902880692196,High School,0,True,False,False,False,2023,4,5,2,57,Online,0
+61,Senior,Male,1,31000.0,10.341742483467284,PhD,3,True,False,False,False,2023,4,2,6,60,Offline,0
+45,Adult,Male,1,21000.0,9.95227771670556,High School,0,False,True,False,False,2023,3,6,0,87,Offline,1
+64,Senior,Female,0,25000.0,10.126631103850338,PhD,3,False,False,False,True,2023,2,16,3,105,Referral,0
+32,Adult,Male,1,13000.0,9.472704636443673,PhD,3,False,False,False,True,2023,4,16,6,46,Offline,0
+23,Young,Female,0,52500.0,10.868568448579715,High School,0,True,False,False,False,2023,5,10,2,22,Online,0
+61,Senior,Male,1,23000.0,10.043249494911286,Bachelor,1,True,False,False,False,2023,4,16,6,46,Offline,1
+37,Adult,Female,0,23000.0,10.043249494911286,Master,2,False,False,False,True,2023,1,24,1,128,Online,0
+67,Senior,Female,0,32000.0,10.373491181781864,High School,0,True,False,False,False,2023,1,4,2,148,Referral,0
+31,Adult,Male,1,28000.0,10.239959789157341,Master,2,True,False,False,False,2023,4,18,1,44,Online,0
+19,Young,Female,0,25000.0,10.126631103850338,High School,0,False,False,True,False,2023,1,19,3,133,Referral,1
+26,Adult,Female,0,15000.0,9.615805480084347,Master,2,False,False,True,False,2023,2,9,3,112,Referral,0
+54,Senior,Male,1,28000.0,10.239959789157341,Bachelor,1,False,False,False,True,2023,2,19,6,102,Offline,0
+37,Adult,Female,0,52500.0,10.868568448579715,Bachelor,1,False,True,False,False,2023,3,16,3,77,Referral,0
+43,Adult,Female,0,43000.0,10.668955394675699,High School,0,False,True,False,False,2023,1,12,3,140,Referral,1
+46,Adult,Female,0,49000.0,10.799575577092764,PhD,3,False,False,False,True,2023,1,27,4,125,Offline,1
+18,Young,Male,1,17000.0,9.740968623038354,Master,2,True,False,False,False,2023,4,23,6,39,Online,1
+52,Senior,Male,1,13000.0,9.472704636443673,PhD,3,True,False,False,False,2023,2,18,5,103,Referral,1
+23,Young,Female,0,21000.0,9.95227771670556,PhD,3,False,True,False,False,2023,5,24,2,8,Referral,0
+54,Senior,Male,1,23000.0,10.043249494911286,PhD,3,False,False,False,True,2023,5,10,2,22,Offline,1
+22,Young,Female,0,38000.0,10.545341438708522,Bachelor,1,False,False,False,True,2023,3,1,2,92,Online,0
+50,Adult,Female,0,9000.0,9.104979856318357,High School,0,False,False,True,False,2023,1,30,0,122,Offline,0
+66,Senior,Female,0,47000.0,10.757902880692196,High School,0,False,False,False,True,2023,3,25,5,68,Referral,0
+68,Senior,Female,0,20000.0,9.903487552536127,Bachelor,1,False,False,True,False,2023,1,28,5,124,Offline,0
+31,Adult,Female,0,18000.0,9.798127036878302,Bachelor,1,False,True,False,False,2023,1,25,2,127,Online,1
+29,Adult,Male,1,13000.0,9.472704636443673,High School,0,True,False,False,False,2023,4,6,3,56,Offline,0
+59,Senior,Female,0,10000.0,9.210340371976184,PhD,3,False,False,False,True,2023,5,5,4,27,Referral,1
+37,Adult,Male,1,33000.0,10.404262840448617,Master,2,False,True,False,False,2023,1,10,1,142,Offline,0
+67,Senior,Male,1,23000.0,10.043249494911286,Master,2,False,False,False,True,2023,2,11,5,110,Offline,0
+41,Adult,Female,0,12000.0,9.392661928770137,Master,2,True,False,False,False,2023,2,9,3,112,Referral,1
+60,Senior,Female,0,12000.0,9.392661928770137,PhD,3,True,False,False,False,2023,3,18,5,75,Offline,1
+51,Senior,Male,1,19000.0,9.852194258148577,High School,0,False,False,False,True,2023,4,15,5,47,Referral,1
+42,Adult,Male,1,51000.0,10.839580911706463,Bachelor,1,False,False,False,True,2023,4,28,4,34,Referral,0
+67,Senior,Male,1,19000.0,9.852194258148577,High School,0,False,True,False,False,2023,2,11,5,110,Offline,0
+46,Adult,Female,0,10000.0,9.210340371976184,PhD,3,False,True,False,False,2023,2,16,3,105,Online,1
+56,Senior,Male,1,19000.0,9.852194258148577,Bachelor,1,False,False,True,False,2023,1,22,6,130,Online,1
+48,Adult,Female,0,19000.0,9.852194258148577,PhD,3,True,False,False,False,2023,4,17,0,45,Online,0
+64,Senior,Female,0,6000.0,8.699514748210191,Master,2,False,False,True,False,2023,1,27,4,125,Offline,1
+60,Senior,Female,0,21000.0,9.95227771670556,Master,2,False,False,True,False,2023,2,10,4,111,Offline,1
+67,Senior,Male,1,20000.0,9.903487552536127,PhD,3,False,True,False,False,2023,3,21,1,72,Offline,1
+40,Adult,Female,0,31000.0,10.341742483467284,Bachelor,1,True,False,False,False,2023,3,30,3,63,Referral,1
+61,Senior,Female,0,52500.0,10.868568448579715,Bachelor,1,False,True,False,False,2023,3,7,1,86,Referral,1
+55,Senior,Female,0,39000.0,10.571316925111784,High School,0,True,False,False,False,2023,1,12,3,140,Offline,0
+37,Adult,Female,0,19000.0,9.852194258148577,Master,2,False,False,True,False,2023,3,14,1,79,Online,0
+40,Adult,Female,0,13000.0,9.472704636443673,High School,0,False,False,False,True,2023,3,17,4,76,Referral,1
+62,Senior,Male,1,52500.0,10.868568448579715,High School,0,False,False,False,True,2023,3,31,4,62,Referral,0
+69,Senior,Female,0,23000.0,10.043249494911286,PhD,3,False,False,False,True,2023,1,10,1,142,Offline,0
+33,Adult,Female,0,22000.0,9.998797732340453,PhD,3,True,False,False,False,2023,4,6,3,56,Referral,0
+67,Senior,Male,1,22000.0,9.998797732340453,High School,0,False,False,True,False,2023,1,20,4,132,Offline,0
+59,Senior,Female,0,24000.0,10.085809109330082,Master,2,False,True,False,False,2023,2,8,2,113,Referral,1
+25,Young,Male,1,20000.0,9.903487552536127,PhD,3,False,False,True,False,2023,3,1,2,92,Referral,1
+38,Adult,Male,1,17000.0,9.740968623038354,High School,0,False,True,False,False,2023,3,6,0,87,Referral,0
+18,Young,Male,1,22000.0,9.998797732340453,High School,0,False,False,True,False,2023,5,4,3,28,Online,1
+25,Young,Female,0,17000.0,9.740968623038354,High School,0,True,False,False,False,2023,5,10,2,22,Offline,1
+46,Adult,Female,0,15000.0,9.615805480084347,High School,0,False,False,False,True,2023,2,26,6,95,Online,1
+49,Adult,Female,0,23000.0,10.043249494911286,High School,0,False,False,True,False,2023,3,19,6,74,Offline,0
+55,Senior,Male,1,19000.0,9.852194258148577,PhD,3,False,False,True,False,2023,1,29,6,123,Offline,0
+22,Young,Male,1,47000.0,10.757902880692196,Master,2,False,True,False,False,2023,1,15,6,137,Referral,0
+64,Senior,Male,1,6000.0,8.699514748210191,High School,0,False,False,True,False,2023,1,12,3,140,Online,1
+39,Adult,Female,0,38000.0,10.545341438708522,Bachelor,1,False,False,False,True,2023,4,11,1,51,Online,1
+64,Senior,Male,1,41000.0,10.621327345686446,PhD,3,False,True,False,False,2023,3,25,5,68,Referral,1
+51,Senior,Male,1,8000.0,8.987196820661973,PhD,3,False,True,False,False,2023,5,5,4,27,Referral,0
+18,Young,Female,0,19000.0,9.852194258148577,High School,0,True,False,False,False,2023,4,13,3,49,Online,1
+43,Adult,Male,1,18000.0,9.798127036878302,PhD,3,True,False,False,False,2023,1,24,1,128,Referral,1
+60,Senior,Male,1,11000.0,9.305650551780507,High School,0,True,False,False,False,2023,5,29,0,3,Online,0
+27,Adult,Female,0,15000.0,9.615805480084347,Master,2,False,False,True,False,2030,1,1,1,-2406,Offline,0
+47,Adult,Male,1,13000.0,9.472704636443673,Master,2,False,True,False,False,2023,4,20,3,42,Referral,0
+67,Senior,Female,0,52500.0,10.868568448579715,PhD,3,False,False,True,False,2023,3,19,6,74,Offline,0
+35,Adult,Female,0,35000.0,10.46310334047155,PhD,3,False,True,False,False,2023,4,11,1,51,Referral,0
+34,Adult,Female,0,42000.0,10.645424897265505,Bachelor,1,False,False,False,True,2023,5,26,4,6,Offline,0
+43,Adult,Female,0,32000.0,10.373491181781864,PhD,3,False,True,False,False,2023,5,22,0,10,Referral,0
+25,Young,Female,0,13000.0,9.472704636443673,Bachelor,1,False,False,True,False,2023,5,8,0,24,Online,0
+64,Senior,Male,1,17000.0,9.740968623038354,Master,2,False,False,False,True,2023,2,27,0,94,Online,0
+57,Senior,Male,1,28000.0,10.239959789157341,Master,2,False,True,False,False,2023,3,17,4,76,Referral,1
+66,Senior,Female,0,12000.0,9.392661928770137,High School,0,False,False,False,True,2023,5,30,1,2,Referral,0
+29,Adult,Female,0,31000.0,10.341742483467284,Master,2,False,False,False,True,2023,2,5,6,116,Online,1
+44,Adult,Male,1,20000.0,9.903487552536127,Bachelor,1,False,False,False,True,2023,1,22,6,130,Referral,0
+25,Young,Female,0,18000.0,9.798127036878302,PhD,3,False,True,False,False,2023,5,7,6,25,Offline,1
+42,Adult,Female,0,31000.0,10.341742483467284,High School,0,False,True,False,False,2023,3,21,1,72,Offline,0
+63,Senior,Female,0,28000.0,10.239959789157341,Bachelor,1,False,False,False,True,2023,4,10,0,52,Offline,1
+21,Young,Male,1,18000.0,9.798127036878302,PhD,3,False,False,True,False,2023,4,6,3,56,Offline,0
+50,Adult,Male,1,39000.0,10.571316925111784,High School,0,True,False,False,False,2023,5,28,6,4,Offline,1
+18,Young,Female,0,13000.0,9.472704636443673,Master,2,False,False,False,True,2023,1,18,2,134,Referral,0
+36,Adult,Female,0,30000.0,10.308952660644293,Bachelor,1,False,False,False,True,2023,2,7,1,114,Referral,1
+48,Adult,Male,1,30000.0,10.308952660644293,PhD,3,True,False,False,False,2023,4,19,2,43,Offline,0
+33,Adult,Male,1,19000.0,9.852194258148577,High School,0,False,False,False,True,2023,5,3,2,29,Referral,0
+31,Adult,Female,0,26000.0,10.165851817003619,High School,0,False,False,False,True,2023,5,24,2,8,Referral,0
+65,Senior,Female,0,12000.0,9.392661928770137,Master,2,False,False,False,True,2023,5,29,0,3,Offline,1
+22,Young,Male,1,35000.0,10.46310334047155,PhD,3,False,False,False,True,2023,4,14,4,48,Referral,1
+58,Senior,Male,1,20000.0,9.903487552536127,Master,2,False,True,False,False,2023,5,20,5,12,Referral,1
+43,Adult,Male,1,17000.0,9.740968623038354,Master,2,False,True,False,False,2023,5,24,2,8,Referral,0
+45,Adult,Female,0,37000.0,10.51867319162636,PhD,3,False,False,False,True,2023,3,22,2,71,Offline,0
+19,Young,Male,1,15000.0,9.615805480084347,PhD,3,False,True,False,False,2023,3,28,1,65,Referral,1
+67,Senior,Female,0,11000.0,9.305650551780507,PhD,3,True,False,False,False,2023,5,22,0,10,Referral,0
+23,Young,Male,1,10000.0,9.210340371976184,Bachelor,1,False,False,False,True,2023,3,2,3,91,Online,1
+26,Adult,Male,1,30000.0,10.308952660644293,PhD,3,False,False,False,True,2023,2,15,2,106,Offline,1
+50,Adult,Male,1,12000.0,9.392661928770137,High School,0,False,False,True,False,2023,2,1,2,120,Online,1
+58,Senior,Male,1,52500.0,10.868568448579715,Master,2,True,False,False,False,2023,1,15,6,137,Offline,0
+42,Adult,Female,0,8000.0,8.987196820661973,Bachelor,1,False,False,True,False,2023,2,13,0,108,Online,0
+65,Senior,Female,0,51000.0,10.839580911706463,PhD,3,False,False,True,False,2023,5,25,3,7,Online,0
+30,Adult,Male,1,24000.0,10.085809109330082,Bachelor,1,False,True,False,False,2023,2,23,3,98,Online,1
+26,Adult,Female,0,21000.0,9.95227771670556,PhD,3,False,True,False,False,2023,2,13,0,108,Offline,0
+30,Adult,Male,1,17000.0,9.740968623038354,Bachelor,1,False,False,False,True,2023,4,8,5,54,Offline,0
+48,Adult,Male,1,27000.0,10.203592144986466,Master,2,False,True,False,False,2023,1,5,3,147,Referral,0
+58,Senior,Male,1,22000.0,9.998797732340453,Master,2,True,False,False,False,2023,4,19,2,43,Offline,0
+28,Adult,Male,1,38000.0,10.545341438708522,High School,0,False,False,True,False,2023,1,27,4,125,Online,1
+21,Young,Female,0,23000.0,10.043249494911286,High School,0,False,True,False,False,2023,4,26,2,36,Online,1
+51,Senior,Male,1,24000.0,10.085809109330082,PhD,3,False,True,False,False,2023,3,28,1,65,Offline,0
+55,Senior,Male,1,18000.0,9.798127036878302,Master,2,True,False,False,False,2023,4,14,4,48,Offline,0
+63,Senior,Female,0,21000.0,9.95227771670556,Bachelor,1,False,False,False,True,2023,5,3,2,29,Offline,1
+21,Young,Male,1,26000.0,10.165851817003619,Bachelor,1,False,False,False,True,2023,3,20,0,73,Referral,0
+55,Senior,Male,1,9000.0,9.104979856318357,Bachelor,1,False,True,False,False,2023,2,12,6,109,Online,1
+36,Adult,Male,1,11000.0,9.305650551780507,High School,0,True,False,False,False,2023,4,7,4,55,Referral,1
+23,Young,Female,0,32000.0,10.373491181781864,Bachelor,1,False,False,False,True,2023,1,31,1,121,Referral,0
+51,Senior,Male,1,24000.0,10.085809109330082,High School,0,False,False,False,True,2023,4,9,6,53,Online,0
+35,Adult,Female,0,20000.0,9.903487552536127,High School,0,True,False,False,False,2023,1,17,1,135,Online,1
+30,Adult,Male,1,22000.0,9.998797732340453,PhD,3,False,False,True,False,2023,3,24,4,69,Offline,0
+58,Senior,Male,1,26000.0,10.165851817003619,Bachelor,1,True,False,False,False,2023,4,20,3,42,Offline,0
+40,Adult,Female,0,17000.0,9.740968623038354,Bachelor,1,False,False,True,False,2023,2,1,2,120,Referral,0
+36,Adult,Male,1,15000.0,9.615805480084347,Master,2,False,False,True,False,2023,5,21,6,11,Offline,0
+62,Senior,Male,1,24000.0,10.085809109330082,PhD,3,False,True,False,False,2023,2,4,5,117,Offline,1
+28,Adult,Female,0,14000.0,9.546812608597396,Master,2,False,False,False,True,2023,5,13,5,19,Online,1
+18,Young,Female,0,27000.0,10.203592144986466,PhD,3,True,False,False,False,2023,1,29,6,123,Online,1
+41,Adult,Female,0,9000.0,9.104979856318357,Bachelor,1,False,True,False,False,2023,3,11,5,82,Offline,0
+24,Young,Female,0,37000.0,10.51867319162636,High School,0,False,False,True,False,2023,4,5,2,57,Online,0
+42,Adult,Female,0,28000.0,10.239959789157341,High School,0,False,False,False,True,2023,1,22,6,130,Offline,1
+38,Adult,Male,1,25000.0,10.126631103850338,High School,0,True,False,False,False,2023,3,10,4,83,Online,0
+32,Adult,Female,0,36000.0,10.491274217438248,High School,0,False,False,False,True,2023,3,30,3,63,Online,1
+18,Young,Male,1,51000.0,10.839580911706463,High School,0,False,False,False,True,2023,3,13,0,80,Online,0
+29,Adult,Male,1,37000.0,10.51867319162636,Master,2,True,False,False,False,2023,5,9,1,23,Online,1
+24,Young,Male,1,9000.0,9.104979856318357,PhD,3,False,False,True,False,2023,3,28,1,65,Offline,0
+32,Adult,Female,0,12000.0,9.392661928770137,Bachelor,1,False,False,True,False,2023,4,6,3,56,Referral,0
+38,Adult,Female,0,16000.0,9.680344001221918,Master,2,False,False,False,True,2023,3,16,3,77,Online,0
+36,Adult,Male,1,22000.0,9.998797732340453,PhD,3,False,False,False,True,2023,2,23,3,98,Offline,0
+46,Adult,Female,0,29000.0,10.275051108968611,High School,0,False,False,False,True,2023,3,29,2,64,Offline,0
+42,Adult,Female,0,15000.0,9.615805480084347,PhD,3,False,False,True,False,2023,2,23,3,98,Online,1
+50,Adult,Female,0,24000.0,10.085809109330082,PhD,3,True,False,False,False,2023,1,16,0,136,Referral,1
+66,Senior,Female,0,15000.0,9.615805480084347,High School,0,True,False,False,False,2023,4,9,6,53,Online,1
+49,Adult,Male,1,16000.0,9.680344001221918,High School,0,False,True,False,False,2023,1,20,4,132,Offline,1
+66,Senior,Male,1,11000.0,9.305650551780507,High School,0,True,False,False,False,2023,2,15,2,106,Referral,0
+52,Senior,Female,0,14000.0,9.546812608597396,Bachelor,1,False,True,False,False,2023,5,7,6,25,Offline,0
+61,Senior,Male,1,11000.0,9.305650551780507,High School,0,False,True,False,False,2023,2,27,0,94,Online,0
+55,Senior,Female,0,14000.0,9.546812608597396,Bachelor,1,False,True,False,False,2023,4,21,4,41,Referral,1
+43,Adult,Female,0,37000.0,10.51867319162636,High School,0,False,True,False,False,2023,5,9,1,23,Offline,0
+28,Adult,Male,1,14000.0,9.546812608597396,Bachelor,1,True,False,False,False,2030,1,1,1,-2406,Offline,1
+52,Senior,Male,1,52500.0,10.868568448579715,PhD,3,False,False,True,False,2023,3,25,5,68,Offline,0
+25,Young,Male,1,28000.0,10.239959789157341,Master,2,False,True,False,False,2023,3,11,5,82,Online,1
+63,Senior,Female,0,24000.0,10.085809109330082,PhD,3,False,True,False,False,2023,1,8,6,144,Referral,1
+31,Adult,Male,1,14000.0,9.546812608597396,PhD,3,False,False,True,False,2023,1,29,6,123,Online,0
+27,Adult,Female,0,31000.0,10.341742483467284,High School,0,False,True,False,False,2023,4,22,5,40,Online,0
+19,Young,Male,1,17000.0,9.740968623038354,Bachelor,1,False,True,False,False,2023,5,11,3,21,Online,1
+63,Senior,Male,1,23000.0,10.043249494911286,Master,2,False,True,False,False,2023,4,18,1,44,Referral,0
+26,Adult,Female,0,52500.0,10.868568448579715,High School,0,False,False,False,True,2023,4,19,2,43,Online,0
+20,Young,Female,0,21000.0,9.95227771670556,High School,0,False,False,False,True,2023,1,20,4,132,Online,1
+38,Adult,Female,0,39000.0,10.571316925111784,High School,0,False,False,False,True,2023,3,14,1,79,Online,0
+43,Adult,Female,0,15000.0,9.615805480084347,PhD,3,True,False,False,False,2023,1,4,2,148,Online,1
+25,Young,Female,0,22000.0,9.998797732340453,Bachelor,1,False,True,False,False,2023,1,19,3,133,Offline,1
+65,Senior,Female,0,52500.0,10.868568448579715,Bachelor,1,False,False,False,True,2023,4,12,2,50,Offline,0
+19,Young,Female,0,16000.0,9.680344001221918,Master,2,False,False,True,False,2023,5,21,6,11,Offline,0
+23,Young,Female,0,52500.0,10.868568448579715,Bachelor,1,False,False,True,False,2023,5,21,6,11,Online,0
+45,Adult,Male,1,31000.0,10.341742483467284,Bachelor,1,False,True,False,False,2023,3,27,0,66,Referral,1
+46,Adult,Female,0,17000.0,9.740968623038354,High School,0,False,False,True,False,2023,2,21,1,100,Offline,0
+43,Adult,Female,0,30000.0,10.308952660644293,High School,0,False,False,True,False,2023,4,21,4,41,Offline,1
+42,Adult,Male,1,36000.0,10.491274217438248,PhD,3,False,False,True,False,2023,4,19,2,43,Offline,0
+29,Adult,Female,0,30000.0,10.308952660644293,High School,0,False,False,True,False,2023,3,27,0,66,Offline,0
+22,Young,Male,1,10000.0,9.210340371976184,High School,0,False,False,True,False,2023,2,12,6,109,Referral,0
+51,Senior,Male,1,15000.0,9.615805480084347,High School,0,False,False,False,True,2023,2,11,5,110,Online,0
+65,Senior,Female,0,19000.0,9.852194258148577,High School,0,False,False,False,True,2023,3,31,4,62,Offline,0
+54,Senior,Male,1,21000.0,9.95227771670556,PhD,3,False,True,False,False,2023,4,25,1,37,Referral,0
+32,Adult,Female,0,30000.0,10.308952660644293,High School,0,False,False,False,True,2023,1,26,3,126,Offline,0
+61,Senior,Male,1,24000.0,10.085809109330082,Master,2,True,False,False,False,2023,2,12,6,109,Online,0
+53,Senior,Male,1,11000.0,9.305650551780507,Master,2,False,True,False,False,2023,3,18,5,75,Offline,0
+32,Adult,Male,1,27000.0,10.203592144986466,Master,2,True,False,False,False,2023,5,17,2,15,Referral,1
+60,Senior,Female,0,30000.0,10.308952660644293,Master,2,False,False,True,False,2023,1,20,4,132,Online,0
+65,Senior,Female,0,29000.0,10.275051108968611,High School,0,False,False,False,True,2023,2,8,2,113,Referral,0
+40,Adult,Male,1,38000.0,10.545341438708522,Master,2,False,True,False,False,2023,1,12,3,140,Online,1
+23,Young,Male,1,33000.0,10.404262840448617,High School,0,True,False,False,False,2023,1,11,2,141,Online,0
+63,Senior,Female,0,28000.0,10.239959789157341,PhD,3,False,False,True,False,2023,2,11,5,110,Online,1
+67,Senior,Female,0,21000.0,9.95227771670556,Master,2,False,True,False,False,2023,1,11,2,141,Offline,0
+61,Senior,Male,1,10000.0,9.210340371976184,Bachelor,1,True,False,False,False,2023,2,7,1,114,Referral,0
+60,Senior,Male,1,27000.0,10.203592144986466,Master,2,False,False,False,True,2023,4,8,5,54,Referral,1
+62,Senior,Female,0,24000.0,10.085809109330082,Master,2,False,True,False,False,2023,1,19,3,133,Referral,0
+38,Adult,Female,0,25000.0,10.126631103850338,High School,0,False,False,False,True,2023,5,14,6,18,Online,1
+40,Adult,Female,0,12000.0,9.392661928770137,Master,2,False,False,False,True,2023,4,26,2,36,Offline,0
+60,Senior,Female,0,13000.0,9.472704636443673,Bachelor,1,True,False,False,False,2023,4,23,6,39,Online,1
+33,Adult,Female,0,37000.0,10.51867319162636,High School,0,False,False,False,True,2023,3,6,0,87,Referral,1
+64,Senior,Male,1,22000.0,9.998797732340453,High School,0,True,False,False,False,2023,4,9,6,53,Offline,0
+32,Adult,Female,0,31000.0,10.341742483467284,PhD,3,False,True,False,False,2023,3,13,0,80,Offline,1
+42,Adult,Male,1,22000.0,9.998797732340453,PhD,3,False,False,True,False,2023,2,21,1,100,Offline,0
+53,Senior,Female,0,22000.0,9.998797732340453,Master,2,False,False,False,True,2023,4,28,4,34,Referral,1
