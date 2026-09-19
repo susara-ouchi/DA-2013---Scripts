@@ -1,9 +1,0 @@
-name,age,department,salary,start_date,email
-Ana ,25,Sales,$50000,2020-01-15,ANA@example.com
-Ben, ,Marketing,"45000",15/02/2020,ben@example.com
-Ana,25,Sales,$50000,2020-01-15,ana@example.com
-Cara,29,Finance,$120000,2021/03/01,cara@example.com
-D. Silva,34,Sales,NaN,2020-07-10,dsilva@EXAMPLE.COM
-Eve,58,HR,$1000000,01-04-2019,eve@example
-Frank,22,Marketing,$38500,2018-12-01, frank@example.com
-,30,Ops,$40000,2019-05-20,missingname@example.com
