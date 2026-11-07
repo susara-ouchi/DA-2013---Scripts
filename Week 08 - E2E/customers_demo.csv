@@ -1,0 +1,801 @@
+Customer_ID,Age,Income,Gender,Education,City
+1,35,28000.0,Male,High School,Kotte
+2,59,21000.0,Male,Bachelor,Piliyandala
+3,56,30000.0,Male,PhD,Piliyandala
+4,34,47000.0,Female,Master,Thimbirigasyaya
+5,31,20000.0,Male,High School,Avissawella
+6,48,20000.0,Male,Bachelor,Kotte
+7,41,49000.0,Female,Bachelor,Bambalapitiya
+8,52,32000.0,Male,Bachelor,Colombo
+9,61,17000.0,Female,PhD,Avissawella
+10,62,29000.0,Female,PhD,Kesbewa
+11,51,17000.0,Male,High School,Union Place
+12,20,17000.0,Female,High School,Piliyandala
+13,54,25000.0,Female,PhD,Padukka
+14,60,8000.0,Male,High School,Avissawella
+15,57,9000.0,Female,Master,Kottawa
+16,43,17000.0,Female,Master,Wellawatthe
+17,40,13000.0,Male,PhD,Kottawa
+18,61,26000.0,Male,High School,Havelock
+19,56,14000.0,Male,Bachelor,Pamankada
+20,32,11000.0,Female,Master,Pamankada
+21,66,46000.0,Male,PhD,Kolonnawa
+22,21,20000.0,Female,High School,Colpetty
+23,46,23000.0,Female,PhD,Colombo
+24,39,11000.0,Female,Bachelor,Colpetty
+25,42,17000.0,Female,Master,Pamankada
+26,30,23000.0,Female,PhD,Union Place
+27,35,12000.0,Female,PhD,Dehiwala
+28,50,27000.0,Female,PhD,Kottawa
+29,33,16000.0,Male,Bachelor,Piliyandala
+30,62,19000.0,Male,PhD,Havelock
+31,59,16000.0,Female,Bachelor,Wellawatthe
+32,61,56000.0,Female,Bachelor,Colombo
+33,19,22000.0,Male,Bachelor,Kotte
+34,52,13000.0,Female,Master,Dehiwala
+35,59,33000.0,Male,Master,Kottawa
+36,51,12000.0,Male,PhD,Polgasowita
+37,47,24000.0,Male,PhD,Kesbewa
+38,30,8000.0,Female,Master,Kolonnawa
+39,30,11000.0,Female,High School,Polgasowita
+40,35,24000.0,Male,Master,Ratmalana
+41,49,32000.0,Male,Bachelor,Kolonnawa
+42,49,24000.0,Male,Master,Dehiwala
+43,52,21000.0,Male,Bachelor,Malabe
+44,56,19000.0,Male,PhD,Avissawella
+45,63,11000.0,Female,High School,Ratmalana
+46,69,15000.0,Male,PhD,Padukka
+47,46,17000.0,Female,Bachelor,Pamankada
+48,66,37000.0,Male,Bachelor,Dehiwala
+49,46,26000.0,Female,Bachelor,Polgasowita
+50,61,9000.0,Female,High School,Kesbewa
+51,33,26000.0,Female,Master,Aluthkade
+52,61,18000.0,Female,PhD,Havelock
+53,64,16000.0,Female,PhD,Moratuwa
+54,27,30000.0,Female,Master,Thimbirigasyaya
+55,47,37000.0,Male,PhD,Kolonnawa
+56,42,35000.0,Female,High School,Moratuwa
+57,56,14000.0,Male,PhD,Aluthkade
+58,37,19000.0,Female,Bachelor,Bambalapitiya
+59,22,26000.0,Female,Master,Piliyandala
+60,18,36000.0,Male,High School,Kolonnawa
+61,47,17000.0,Female,Master,Wellawatthe
+62,66,20000.0,Male,High School,Polgasowita
+63,20,13000.0,Male,Bachelor,Kotte
+64,62,12000.0,Male,Master,Aluthkade
+65,31,33000.0,Male,PhD,Malabe
+66,47,43000.0,Female,High School,Colombo
+67,67,21000.0,Female,Master,Avissawella
+68,21,36000.0,Male,PhD,Kottawa
+69,35,26000.0,Female,Master,Union Place
+70,54,16000.0,Female,Master,Thimbirigasyaya
+71,42,26000.0,Male,Master,Wellawatthe
+72,65,48000.0,Female,High School,Moratuwa
+73,18,22000.0,Male,PhD,Thimbirigasyaya
+74,63,48000.0,Male,Bachelor,Malabe
+75,32,6000.0,Female,High School,Pamankada
+76,26,33000.0,Female,High School,Colpetty
+77,32,23000.0,Female,High School,Aluthkade
+78,66,19000.0,Male,Bachelor,Avissawella
+79,41,23000.0,Male,PhD,Polgasowita
+80,21,8000.0,Female,PhD,Thimbirigasyaya
+81,29,20000.0,Female,PhD,Moratuwa
+82,54,26000.0,Female,Master,Kotte
+83,54,46000.0,Female,Master,Kolonnawa
+84,60,17000.0,Male,Master,Aluthkade
+85,23,15000.0,Female,Bachelor,Aluthkade
+86,56,17000.0,Male,Master,Kotte
+87,63,35000.0,Male,Bachelor,Kottawa
+88,41,26000.0,Female,PhD,Polgasowita
+89,28,17000.0,Female,Master,Piliyandala
+90,30,28000.0,Female,Master,Malabe
+91,51,23000.0,Male,High School,Bambalapitiya
+92,42,36000.0,Female,Bachelor,Colpetty
+93,24,16000.0,Female,PhD,Colombo
+94,69,19000.0,Male,High School,Kesbewa
+95,21,18000.0,Female,High School,Kolonnawa
+96,25,11000.0,Male,PhD,Union Place
+97,37,26000.0,Female,High School,Kesbewa
+98,46,25000.0,Male,Bachelor,Colpetty
+99,68,22000.0,Female,Bachelor,Union Place
+100,62,20000.0,Female,Master,Colombo
+101,63,11000.0,Male,High School,Colombo
+102,27,18000.0,Male,Master,Kottawa
+103,60,19000.0,Female,High School,Havelock
+104,51,15000.0,Male,Bachelor,Dehiwala
+105,43,20000.0,Male,Bachelor,Ratmalana
+106,58,27000.0,Male,Bachelor,Pamankada
+107,66,57000.0,Male,High School,Aluthkade
+108,20,24000.0,Female,Bachelor,Malabe
+109,23,25000.0,Female,High School,Kottawa
+110,22,21000.0,Male,Master,Malabe
+111,22,8000.0,Male,High School,Wellawatthe
+112,64,22000.0,Male,Master,Wellawatthe
+113,40,23000.0,Male,High School,Moratuwa
+114,66,75000.0,Female,Master,Union Place
+115,26,20000.0,Female,Bachelor,Piliyandala
+116,52,26000.0,Male,Master,Kolonnawa
+117,37,22000.0,Male,Bachelor,Bambalapitiya
+118,66,12000.0,Male,Bachelor,Havelock
+119,59,39000.0,Female,Master,Kotte
+120,52,32000.0,Male,High School,Moratuwa
+121,67,33000.0,Female,High School,Colombo
+122,35,14000.0,Male,PhD,Colpetty
+123,34,44000.0,Female,High School,Wellawatthe
+124,41,11000.0,Male,PhD,Avissawella
+125,20,30000.0,Female,High School,Pamankada
+126,49,66000.0,Male,High School,Union Place
+127,52,13000.0,Male,Bachelor,Aluthkade
+128,55,17000.0,Male,PhD,Malabe
+129,30,23000.0,Female,High School,Avissawella
+130,64,17000.0,Male,PhD,Colpetty
+131,42,10000.0,Female,Bachelor,Padukka
+132,26,23000.0,Female,Bachelor,Malabe
+133,21,13000.0,Male,PhD,Ratmalana
+134,31,28000.0,Male,Bachelor,Dehiwala
+135,54,14000.0,Male,Master,Pamankada
+136,51,48000.0,Female,Master,Moratuwa
+137,28,15000.0,Male,Bachelor,Kottawa
+138,58,19000.0,Female,Master,Thimbirigasyaya
+139,20,33000.0,Female,High School,Ratmalana
+140,45,12000.0,Male,PhD,Union Place
+141,46,25000.0,Male,High School,Union Place
+142,26,42000.0,Male,PhD,Ratmalana
+143,20,10000.0,Male,Bachelor,Union Place
+144,42,24000.0,Male,High School,Aluthkade
+145,51,25000.0,Male,Bachelor,Moratuwa
+146,29,33000.0,Female,Bachelor,Colpetty
+147,59,12000.0,Female,PhD,Pamankada
+148,26,11000.0,Female,PhD,Polgasowita
+149,32,29000.0,Male,PhD,Wellawatthe
+150,57,26000.0,Female,High School,Avissawella
+151,42,25000.0,Female,Master,Kottawa
+152,22,26000.0,Female,PhD,Havelock
+153,28,16000.0,Female,PhD,Wellawatthe
+154,51,25000.0,Female,High School,Avissawella
+155,41,26000.0,Male,PhD,Bambalapitiya
+156,32,15000.0,Male,High School,Colpetty
+157,55,56000.0,Female,Bachelor,Union Place
+158,25,28000.0,Female,PhD,Union Place
+159,22,12000.0,Female,PhD,Polgasowita
+160,65,31000.0,Male,Bachelor,Wellawatthe
+161,43,14000.0,Male,Bachelor,Avissawella
+162,35,33000.0,Female,Bachelor,Kolonnawa
+163,23,39000.0,Male,PhD,Avissawella
+164,54,15000.0,Male,Master,Thimbirigasyaya
+165,65,36000.0,Female,Master,Dehiwala
+166,30,27000.0,Male,Master,Aluthkade
+167,45,33000.0,Male,PhD,Ratmalana
+168,22,57000.0,Female,Bachelor,Kolonnawa
+169,30,19000.0,Male,PhD,Avissawella
+170,34,15000.0,Male,Bachelor,Dehiwala
+171,67,14000.0,Female,PhD,Wellawatthe
+172,57,15000.0,Male,PhD,Thimbirigasyaya
+173,62,21000.0,Male,Bachelor,Padukka
+174,49,26000.0,Female,Master,Kotte
+175,46,25000.0,Female,Bachelor,Thimbirigasyaya
+176,68,33000.0,Female,High School,Kotte
+177,20,22000.0,Male,High School,Malabe
+178,57,46000.0,Female,Bachelor,Kesbewa
+179,51,19000.0,Male,PhD,Colpetty
+180,57,86000.0,Female,High School,Dehiwala
+181,44,30000.0,Male,High School,Colombo
+182,30,14000.0,Female,PhD,Aluthkade
+183,62,13000.0,Female,PhD,Avissawella
+184,50,28000.0,Female,Master,Kottawa
+185,23,20000.0,Female,PhD,Kolonnawa
+186,41,31000.0,Male,Bachelor,Malabe
+187,36,28000.0,Female,Bachelor,Colpetty
+188,33,21000.0,Female,Master,Dehiwala
+189,57,14000.0,Male,High School,Wellawatthe
+190,45,10000.0,Female,High School,Aluthkade
+191,50,18000.0,Male,PhD,Pamankada
+192,65,34000.0,Female,Bachelor,Piliyandala
+193,58,25000.0,Female,High School,Dehiwala
+194,30,12000.0,Female,Master,Union Place
+195,60,24000.0,Male,Master,Kesbewa
+196,62,27000.0,Female,Bachelor,Thimbirigasyaya
+197,42,14000.0,Female,Master,Piliyandala
+198,59,24000.0,Female,Master,Union Place
+199,53,23000.0,Male,Bachelor,Wellawatthe
+200,44,12000.0,Male,PhD,Union Place
+201,55,26000.0,Female,PhD,Colpetty
+202,24,29000.0,Male,Master,Dehiwala
+203,22,38000.0,Female,PhD,Thimbirigasyaya
+204,60,37000.0,Female,PhD,Kolonnawa
+205,62,11000.0,Female,Master,Malabe
+206,68,14000.0,Female,PhD,Avissawella
+207,48,28000.0,Female,Master,Kottawa
+208,40,28000.0,Female,High School,Kotte
+209,59,28000.0,Female,Bachelor,Thimbirigasyaya
+210,27,151000.0,Male,Bachelor,Malabe
+211,49,29000.0,Male,PhD,Kesbewa
+212,60,39000.0,Male,PhD,Union Place
+213,47,35000.0,Male,PhD,Wellawatthe
+214,56,31000.0,Male,Bachelor,Havelock
+215,48,19000.0,Male,High School,Polgasowita
+216,35,32000.0,Male,High School,Padukka
+217,53,15000.0,Female,Bachelor,Kotte
+218,19,20000.0,Female,High School,Moratuwa
+219,31,17000.0,Female,Bachelor,Wellawatthe
+220,30,23000.0,Female,High School,Dehiwala
+221,46,70000.0,Male,Master,Dehiwala
+222,29,9000.0,Male,Master,Bambalapitiya
+223,56,31000.0,Female,Bachelor,Kotte
+224,19,10000.0,Female,High School,Kotte
+225,49,17000.0,Male,PhD,Havelock
+226,30,38000.0,Female,High School,Moratuwa
+227,63,23000.0,Female,Master,Colpetty
+228,44,13000.0,Female,Master,Moratuwa
+229,66,15000.0,Female,High School,Malabe
+230,58,31000.0,Male,High School,Colombo
+231,34,15000.0,Female,PhD,Kottawa
+232,57,25000.0,Female,PhD,Malabe
+233,48,23000.0,Male,High School,Dehiwala
+234,51,16000.0,Male,High School,Pamankada
+235,41,64000.0,Female,High School,Wellawatthe
+236,62,30000.0,Male,High School,Dehiwala
+237,52,8000.0,Female,Bachelor,Thimbirigasyaya
+238,65,24000.0,Female,High School,Padukka
+239,23,16000.0,Male,PhD,Pamankada
+240,36,34000.0,Female,Master,Dehiwala
+241,47,15000.0,Female,Bachelor,Kottawa
+242,24,21000.0,Female,High School,Kottawa
+243,27,28000.0,Female,Master,Colpetty
+244,58,34000.0,Male,Bachelor,Kesbewa
+245,49,12000.0,Male,Master,Avissawella
+246,51,19000.0,Female,High School,Aluthkade
+247,45,17000.0,Male,High School,Bambalapitiya
+248,32,16000.0,Female,PhD,Polgasowita
+249,47,53000.0,Female,High School,Piliyandala
+250,54,27000.0,Female,High School,Havelock
+251,46,12000.0,Female,Bachelor,Avissawella
+252,39,35000.0,Female,PhD,Wellawatthe
+253,21,64000.0,Male,Bachelor,Wellawatthe
+254,37,37000.0,Female,Master,Wellawatthe
+255,49,10000.0,Male,High School,Colombo
+256,53,17000.0,Male,Master,Piliyandala
+257,67,42000.0,Female,Bachelor,Dehiwala
+258,21,15000.0,Female,High School,Moratuwa
+259,44,27000.0,Female,High School,Aluthkade
+260,34,32000.0,Female,Bachelor,Union Place
+261,29,14000.0,Female,Bachelor,Avissawella
+262,39,21000.0,Male,Bachelor,Kottawa
+263,34,4000.0,Female,Bachelor,Padukka
+264,27,13000.0,Female,Bachelor,Bambalapitiya
+265,18,19000.0,Male,High School,Pamankada
+266,39,12000.0,Male,Bachelor,Malabe
+267,43,50000.0,Female,High School,Aluthkade
+268,35,11000.0,Male,High School,Ratmalana
+269,67,18000.0,Female,Bachelor,Ratmalana
+270,31,24000.0,Male,Bachelor,Thimbirigasyaya
+271,64,45000.0,Male,PhD,Bambalapitiya
+272,46,11000.0,Female,High School,Kotte
+273,29,39000.0,Male,Bachelor,Kolonnawa
+274,53,22000.0,Male,Bachelor,Polgasowita
+275,52,13000.0,Male,Bachelor,Aluthkade
+276,69,28000.0,Male,PhD,Kottawa
+277,29,24000.0,Male,PhD,Aluthkade
+278,24,16000.0,Male,Master,Dehiwala
+279,46,23000.0,Female,High School,Pamankada
+280,28,18000.0,Female,Master,Piliyandala
+281,50,23000.0,Male,Bachelor,Wellawatthe
+282,23,31000.0,Female,PhD,Piliyandala
+283,64,49000.0,Female,PhD,Kesbewa
+284,32,12000.0,Female,Master,Kesbewa
+285,49,64000.0,Male,PhD,Aluthkade
+286,68,8000.0,Female,Bachelor,Colombo
+287,28,20000.0,Male,PhD,Colpetty
+288,40,30000.0,Female,Master,Union Place
+289,43,25000.0,Male,Bachelor,Colombo
+290,51,16000.0,Male,Master,Kottawa
+291,63,20000.0,Female,PhD,Union Place
+292,51,17000.0,Female,Master,Avissawella
+293,46,16000.0,Male,Master,Piliyandala
+294,21,34000.0,Female,High School,Piliyandala
+295,34,26000.0,Female,PhD,Union Place
+296,52,16000.0,Female,PhD,Polgasowita
+297,30,35000.0,Male,Master,Colombo
+298,58,26000.0,Male,High School,Colpetty
+299,56,33000.0,Female,PhD,Aluthkade
+300,32,30000.0,Female,Bachelor,Kolonnawa
+301,46,15000.0,Female,Master,Piliyandala
+302,46,17000.0,Male,PhD,Polgasowita
+303,28,32000.0,Male,Bachelor,Kolonnawa
+304,69,30000.0,Female,PhD,Padukka
+305,49,22000.0,Female,Bachelor,Padukka
+306,19,23000.0,Female,Master,Colpetty
+307,64,42000.0,Female,PhD,Moratuwa
+308,31,16000.0,Female,PhD,Malabe
+309,37,29000.0,Female,High School,Aluthkade
+310,39,20000.0,Male,Master,Piliyandala
+311,28,20000.0,Female,Bachelor,Aluthkade
+312,44,38000.0,Male,PhD,Padukka
+313,20,33000.0,Female,PhD,Avissawella
+314,34,33000.0,Female,Bachelor,Avissawella
+315,61,42000.0,Male,Master,Kolonnawa
+316,45,22000.0,Male,High School,Avissawella
+317,46,31000.0,Male,High School,Dehiwala
+318,38,19000.0,Male,PhD,Moratuwa
+319,64,26000.0,Female,Bachelor,Bambalapitiya
+320,33,21000.0,Male,PhD,Kolonnawa
+321,54,23000.0,Female,Bachelor,Piliyandala
+322,37,30000.0,Male,High School,Wellawatthe
+323,23,15000.0,Female,Master,Kolonnawa
+324,36,63000.0,Female,Bachelor,Ratmalana
+325,22,13000.0,Female,High School,Bambalapitiya
+326,20,12000.0,Female,PhD,Moratuwa
+327,18,39000.0,Female,Bachelor,Kolonnawa
+328,55,33000.0,Female,Master,Kolonnawa
+329,32,30000.0,Male,PhD,Avissawella
+330,51,30000.0,Female,PhD,Kottawa
+331,52,22000.0,Male,High School,Kolonnawa
+332,66,14000.0,Male,Bachelor,Kesbewa
+333,42,23000.0,Female,PhD,Aluthkade
+334,41,16000.0,Male,Master,Piliyandala
+335,29,36000.0,Female,Bachelor,Padukka
+336,35,20000.0,Male,Master,Kesbewa
+337,32,15000.0,Female,PhD,Thimbirigasyaya
+338,61,19000.0,Male,Master,Kesbewa
+339,33,27000.0,Female,High School,Colombo
+340,44,17000.0,Female,Master,Wellawatthe
+341,25,15000.0,Female,Bachelor,Polgasowita
+342,63,25000.0,Female,Master,Thimbirigasyaya
+343,42,25000.0,Male,Master,Avissawella
+344,34,17000.0,Female,High School,Thimbirigasyaya
+345,46,17000.0,Male,Master,Dehiwala
+346,25,25000.0,Male,Master,Thimbirigasyaya
+347,32,11000.0,Male,PhD,Dehiwala
+348,44,11000.0,Female,PhD,Wellawatthe
+349,63,15000.0,Male,Bachelor,Ratmalana
+350,67,20000.0,Male,PhD,Ratmalana
+351,69,26000.0,Male,PhD,Colpetty
+352,24,46000.0,Female,PhD,Piliyandala
+353,20,34000.0,Female,PhD,Havelock
+354,46,20000.0,Male,High School,Havelock
+355,61,22000.0,Female,PhD,Pamankada
+356,41,13000.0,Female,High School,Padukka
+357,20,22000.0,Male,High School,Pamankada
+358,37,19000.0,Male,PhD,Padukka
+359,63,26000.0,Female,Master,Havelock
+360,32,15000.0,Male,High School,Thimbirigasyaya
+361,42,29000.0,Female,Master,Kottawa
+362,47,47000.0,Female,Master,Colpetty
+363,31,21000.0,Female,PhD,Avissawella
+364,24,27000.0,Female,Bachelor,Piliyandala
+365,34,31000.0,Female,PhD,Pamankada
+366,61,18000.0,Female,Bachelor,Kotte
+367,37,25000.0,Male,Bachelor,Padukka
+368,53,22000.0,Male,PhD,Kolonnawa
+369,26,23000.0,Female,PhD,Pamankada
+370,55,15000.0,Female,Bachelor,Kolonnawa
+371,65,22000.0,Female,PhD,Malabe
+372,39,28000.0,Male,Bachelor,Polgasowita
+373,19,46000.0,Female,Master,Kotte
+374,41,36000.0,Male,PhD,Wellawatthe
+375,25,65000.0,Female,Master,Kottawa
+376,28,15000.0,Female,High School,Wellawatthe
+377,30,34000.0,Male,Master,Pamankada
+378,34,24000.0,Male,Master,Moratuwa
+379,25,66000.0,Female,Bachelor,Wellawatthe
+380,38,15000.0,Female,Master,Pamankada
+381,35,14000.0,Female,PhD,Piliyandala
+382,47,16000.0,Male,Bachelor,Polgasowita
+383,35,8000.0,Male,High School,Moratuwa
+384,63,17000.0,Male,PhD,Union Place
+385,64,15000.0,Male,High School,Kotte
+386,48,24000.0,Male,Master,Malabe
+387,55,26000.0,Male,PhD,Colombo
+388,49,56000.0,Female,PhD,Malabe
+389,28,35000.0,Female,High School,Dehiwala
+390,62,17000.0,Male,PhD,Polgasowita
+391,42,14000.0,Female,PhD,Kolonnawa
+392,50,28000.0,Female,PhD,Kotte
+393,55,11000.0,Male,Master,Colpetty
+394,58,55000.0,Female,High School,Colpetty
+395,25,40000.0,Male,PhD,Pamankada
+396,28,17000.0,Male,Bachelor,Kottawa
+397,39,9000.0,Female,Bachelor,Dehiwala
+398,68,43000.0,Male,Bachelor,Avissawella
+399,41,21000.0,Male,Bachelor,Dehiwala
+400,58,41000.0,Male,Master,Wellawatthe
+401,34,10000.0,Male,PhD,Moratuwa
+402,29,16000.0,Male,High School,Bambalapitiya
+403,63,22000.0,Male,PhD,Kotte
+404,49,23000.0,Male,Master,Dehiwala
+405,32,18000.0,Male,Bachelor,Union Place
+406,33,30000.0,Female,Master,Wellawatthe
+407,39,13000.0,Female,PhD,Colombo
+408,45,21000.0,Female,High School,Ratmalana
+409,37,23000.0,Male,Master,Kottawa
+410,50,28000.0,Male,High School,Thimbirigasyaya
+411,27,31000.0,Female,Master,Thimbirigasyaya
+412,57,13000.0,Female,High School,Malabe
+413,49,10000.0,Female,High School,Avissawella
+414,67,42000.0,Male,Bachelor,Union Place
+415,50,26000.0,Female,High School,Colombo
+416,19,15000.0,Female,Bachelor,Kotte
+417,50,48000.0,Male,PhD,Malabe
+418,50,23000.0,Female,PhD,Wellawatthe
+419,58,40000.0,Male,Bachelor,Colpetty
+420,30,23000.0,Male,Bachelor,Kottawa
+421,47,62000.0,Male,Master,Polgasowita
+422,50,53000.0,Female,Master,Thimbirigasyaya
+423,30,19000.0,Female,Master,Havelock
+424,69,36000.0,Male,PhD,Dehiwala
+425,43,30000.0,Female,Master,Dehiwala
+426,39,44000.0,Female,High School,Kotte
+427,56,14000.0,Female,High School,Union Place
+428,19,31000.0,Female,Master,Ratmalana
+429,55,37000.0,Male,High School,Wellawatthe
+430,56,9000.0,Female,PhD,Union Place
+431,43,12000.0,Male,High School,Bambalapitiya
+432,63,8000.0,Male,PhD,Kesbewa
+433,67,19000.0,Female,Bachelor,Polgasowita
+434,32,32000.0,Male,Bachelor,Aluthkade
+435,51,47000.0,Female,Bachelor,Kottawa
+436,59,23000.0,Female,Bachelor,Bambalapitiya
+437,61,50000.0,Male,High School,Pamankada
+438,66,11000.0,Male,Master,Padukka
+439,57,9000.0,Male,High School,Aluthkade
+440,28,21000.0,Male,PhD,Kotte
+441,20,27000.0,Female,High School,Polgasowita
+442,23,22000.0,Female,High School,Kesbewa
+443,26,8000.0,Female,PhD,Polgasowita
+444,23,21000.0,Male,Bachelor,Avissawella
+445,26,11000.0,Male,Bachelor,Pamankada
+446,56,31000.0,Male,Bachelor,Union Place
+447,48,26000.0,Female,Master,Avissawella
+448,49,14000.0,Male,PhD,Colpetty
+449,58,17000.0,Female,PhD,Kolonnawa
+450,67,13000.0,Male,High School,Bambalapitiya
+451,29,21000.0,Female,Master,Polgasowita
+452,25,36000.0,Female,Bachelor,Polgasowita
+453,25,13000.0,Male,Master,Moratuwa
+454,67,28000.0,Male,PhD,Malabe
+455,45,17000.0,Female,PhD,Colombo
+456,37,15000.0,Female,High School,Colpetty
+457,64,21000.0,Male,High School,Avissawella
+458,24,13000.0,Male,PhD,Avissawella
+459,28,17000.0,Female,Bachelor,Avissawella
+460,37,12000.0,Male,Bachelor,Kolonnawa
+461,33,59000.0,Female,Master,Polgasowita
+462,21,22000.0,Female,PhD,Piliyandala
+463,23,16000.0,Male,PhD,Kesbewa
+464,39,25000.0,Male,Bachelor,Colpetty
+465,43,21000.0,Male,Bachelor,Pamankada
+466,20,20000.0,Male,PhD,Aluthkade
+467,58,30000.0,Male,High School,Moratuwa
+468,59,32000.0,Female,PhD,Kotte
+469,31,17000.0,Female,PhD,Kotte
+470,28,17000.0,Male,Bachelor,Thimbirigasyaya
+471,35,19000.0,Male,Bachelor,Piliyandala
+472,29,7000.0,Male,High School,Colombo
+473,40,10000.0,Female,High School,Colpetty
+474,29,44000.0,Male,Master,Thimbirigasyaya
+475,30,50000.0,Male,PhD,Malabe
+476,42,19000.0,Female,Bachelor,Aluthkade
+477,62,29000.0,Female,High School,Avissawella
+478,68,26000.0,Male,Master,Wellawatthe
+479,36,103000.0,Male,Master,Ratmalana
+480,63,39000.0,Male,Bachelor,Thimbirigasyaya
+481,53,21000.0,Female,Bachelor,Kotte
+482,62,14000.0,Male,Master,Kottawa
+483,25,10000.0,Male,High School,Thimbirigasyaya
+484,46,24000.0,Male,Master,Ratmalana
+485,49,15000.0,Female,PhD,Padukka
+486,68,11000.0,Female,PhD,Avissawella
+487,61,16000.0,Male,Bachelor,Union Place
+488,35,13000.0,Male,High School,Moratuwa
+489,23,51000.0,Female,High School,Kolonnawa
+490,35,34000.0,Female,PhD,Wellawatthe
+491,36,22000.0,Female,Master,Colpetty
+492,39,46000.0,Female,Bachelor,Padukka
+493,54,23000.0,Female,Master,Ratmalana
+494,49,14000.0,Female,Master,Aluthkade
+495,58,47000.0,Female,Master,Aluthkade
+496,20,29000.0,Female,High School,Kottawa
+497,45,13000.0,Female,PhD,Moratuwa
+498,27,20000.0,Male,High School,Wellawatthe
+499,68,14000.0,Male,PhD,Kotte
+500,52,11000.0,Male,Bachelor,Havelock
+501,46,35000.0,Female,Bachelor,Malabe
+502,32,57000.0,Male,Master,Colpetty
+503,50,11000.0,Female,PhD,Moratuwa
+504,24,29000.0,Female,PhD,Colombo
+505,29,16000.0,Male,PhD,Havelock
+506,66,17000.0,Female,Master,Bambalapitiya
+507,47,16000.0,Male,Master,Kottawa
+508,38,14000.0,Male,Bachelor,Wellawatthe
+509,48,23000.0,Male,High School,Piliyandala
+510,41,15000.0,Female,PhD,Kotte
+511,37,25000.0,Male,PhD,Thimbirigasyaya
+512,54,21000.0,Female,High School,Ratmalana
+513,21,20000.0,Male,PhD,Kottawa
+514,45,14000.0,Male,Master,Polgasowita
+515,61,17000.0,Male,Master,Kolonnawa
+516,37,32000.0,Female,PhD,Union Place
+517,41,28000.0,Female,Master,Moratuwa
+518,67,14000.0,Female,Master,Kesbewa
+519,66,23000.0,Male,PhD,Thimbirigasyaya
+520,68,32000.0,Male,Bachelor,Colombo
+521,49,10000.0,Female,High School,Kesbewa
+522,58,29000.0,Female,Master,Havelock
+523,53,16000.0,Female,Bachelor,Kotte
+524,51,29000.0,Female,Master,Bambalapitiya
+525,53,15000.0,Female,Master,Bambalapitiya
+526,19,9000.0,Female,High School,Malabe
+527,32,10000.0,Male,Master,Thimbirigasyaya
+528,51,23000.0,Female,High School,Colpetty
+529,53,25000.0,Male,High School,Avissawella
+530,23,14000.0,Male,High School,Kesbewa
+531,56,30000.0,Female,Bachelor,Colpetty
+532,59,10000.0,Female,PhD,Kottawa
+533,68,21000.0,Male,Bachelor,Dehiwala
+534,68,12000.0,Female,PhD,Polgasowita
+535,29,16000.0,Female,PhD,Malabe
+536,20,23000.0,Male,High School,Piliyandala
+537,62,14000.0,Male,Master,Colombo
+538,35,18000.0,Male,High School,Piliyandala
+539,57,3150000.0,Female,Master,Avissawella
+540,38,17000.0,Male,PhD,Colpetty
+541,32,33000.0,Female,High School,Piliyandala
+542,50,13000.0,Male,Master,Aluthkade
+543,52,29000.0,Male,Bachelor,Polgasowita
+544,43,45000.0,Male,Master,Kolonnawa
+545,25,6000.0,Female,High School,Kolonnawa
+546,53,15000.0,Female,Bachelor,Avissawella
+547,65,29000.0,Male,Master,Kottawa
+548,47,20000.0,Male,Master,Kotte
+549,40,27000.0,Male,Master,Colpetty
+550,59,16000.0,Female,Master,Piliyandala
+551,61,23000.0,Male,Master,Polgasowita
+552,31,20000.0,Female,Bachelor,Union Place
+553,31,39000.0,Male,PhD,Havelock
+554,19,25000.0,Male,Bachelor,Pamankada
+555,54,26000.0,Male,Bachelor,Malabe
+556,22,18000.0,Male,Bachelor,Kottawa
+557,55,17000.0,Male,PhD,Polgasowita
+558,62,18000.0,Male,High School,Wellawatthe
+559,58,27000.0,Female,PhD,Kotte
+560,64,18000.0,Male,Bachelor,Kesbewa
+561,31,25000.0,Female,Master,Ratmalana
+562,56,62000.0,Male,Master,Ratmalana
+563,42,34000.0,Male,Bachelor,Avissawella
+564,37,19000.0,Female,Master,Dehiwala
+565,19,40000.0,Male,Bachelor,Malabe
+566,56,18000.0,Female,Master,Avissawella
+567,23,8000.0,Female,PhD,Thimbirigasyaya
+568,34,13000.0,Male,High School,Piliyandala
+569,42,9000.0,Female,High School,Piliyandala
+570,45,18000.0,Female,PhD,Colpetty
+571,19,22000.0,Male,PhD,Kottawa
+572,52,51000.0,Female,Bachelor,Malabe
+573,54,26000.0,Male,Bachelor,Malabe
+574,22,20000.0,Male,Bachelor,Colombo
+575,18,33000.0,Male,Master,Wellawatthe
+576,57,7000.0,Male,Bachelor,Kottawa
+577,29,25000.0,Female,PhD,Havelock
+578,53,32000.0,Male,High School,Moratuwa
+579,62,11000.0,Male,Master,Kottawa
+580,40,39000.0,Female,Bachelor,Polgasowita
+581,64,26000.0,Male,Master,Padukka
+582,48,18000.0,Male,Master,Pamankada
+583,28,30000.0,Female,Bachelor,Wellawatthe
+584,27,69000.0,Female,Master,Pamankada
+585,20,24000.0,Female,High School,Union Place
+586,31,25000.0,Female,PhD,Havelock
+587,33,18000.0,Female,PhD,Havelock
+588,27,14000.0,Female,High School,Polgasowita
+589,46,3406000.0,Female,Master,Malabe
+590,27,14000.0,Male,Bachelor,Colombo
+591,29,23000.0,Female,Master,Pamankada
+592,47,17000.0,Female,High School,Moratuwa
+593,58,28000.0,Female,Master,Kolonnawa
+594,18,4359000.0,Male,PhD,Kottawa
+595,22,37000.0,Male,Master,Thimbirigasyaya
+596,37,17000.0,Female,High School,Padukka
+597,25,19000.0,Female,PhD,Union Place
+598,60,14000.0,Female,Master,Moratuwa
+599,29,18000.0,Male,Master,Moratuwa
+600,18,27000.0,Male,PhD,Pamankada
+601,37,32000.0,Female,Bachelor,Padukka
+602,45,14000.0,Male,PhD,Ratmalana
+603,60,34000.0,Female,Bachelor,Padukka
+604,54,43000.0,Male,High School,Avissawella
+605,64,27000.0,Male,High School,Aluthkade
+606,54,56000.0,Female,PhD,Moratuwa
+607,29,15000.0,Female,PhD,Piliyandala
+608,54,12000.0,Female,High School,Kotte
+609,66,9000.0,Female,Bachelor,Avissawella
+610,66,47000.0,Male,High School,Malabe
+611,61,31000.0,Male,PhD,Kotte
+612,45,21000.0,Male,High School,Colombo
+613,64,25000.0,Female,PhD,Wellawatthe
+614,32,13000.0,Male,PhD,Bambalapitiya
+615,23,75000.0,Female,High School,Malabe
+616,61,23000.0,Male,Bachelor,Avissawella
+617,37,23000.0,Female,Master,Pamankada
+618,67,32000.0,Female,High School,Malabe
+619,31,28000.0,Male,Master,Kotte
+620,19,25000.0,Female,High School,Moratuwa
+621,26,15000.0,Female,Master,Polgasowita
+622,54,28000.0,Male,Bachelor,Bambalapitiya
+623,37,56000.0,Female,Bachelor,Colpetty
+624,43,43000.0,Female,High School,Aluthkade
+625,46,49000.0,Female,PhD,Bambalapitiya
+626,18,17000.0,Male,Master,Kotte
+627,52,13000.0,Male,PhD,Malabe
+628,23,21000.0,Female,PhD,Union Place
+629,54,23000.0,Male,PhD,Pamankada
+630,22,38000.0,Female,Bachelor,Dehiwala
+631,50,9000.0,Female,High School,Moratuwa
+632,66,47000.0,Female,High School,Pamankada
+633,68,20000.0,Female,Bachelor,Moratuwa
+634,31,18000.0,Female,Bachelor,Colpetty
+635,29,13000.0,Male,High School,Kotte
+636,59,10000.0,Female,PhD,Dehiwala
+637,37,33000.0,Male,Master,Kolonnawa
+638,67,23000.0,Male,Master,Wellawatthe
+639,41,12000.0,Female,Master,Malabe
+640,60,12000.0,Female,PhD,Malabe
+641,51,19000.0,Male,High School,Thimbirigasyaya
+642,42,51000.0,Male,Bachelor,Bambalapitiya
+643,67,19000.0,Male,High School,Kolonnawa
+644,46,10000.0,Female,PhD,Kolonnawa
+645,56,19000.0,Male,Bachelor,Piliyandala
+646,48,19000.0,Female,PhD,Avissawella
+647,64,6000.0,Female,Master,Ratmalana
+648,60,21000.0,Female,Master,Piliyandala
+649,67,20000.0,Male,PhD,Colpetty
+650,40,31000.0,Female,Bachelor,Kottawa
+651,61,56000.0,Female,Bachelor,Colombo
+652,55,39000.0,Female,High School,Malabe
+653,37,19000.0,Female,Master,Kesbewa
+654,40,13000.0,Female,High School,Wellawatthe
+655,62,80000.0,Male,High School,Havelock
+656,69,23000.0,Female,PhD,Pamankada
+657,33,22000.0,Female,PhD,Kotte
+658,67,22000.0,Male,High School,Polgasowita
+659,59,24000.0,Female,Master,Union Place
+660,25,20000.0,Male,PhD,Ratmalana
+661,67,17000.0,Female,High School,Colpetty
+662,38,17000.0,Male,High School,Union Place
+663,18,22000.0,Male,High School,Ratmalana
+664,25,17000.0,Female,High School,Malabe
+665,46,15000.0,Female,High School,Thimbirigasyaya
+666,49,23000.0,Female,High School,Ratmalana
+667,55,19000.0,Male,PhD,Piliyandala
+668,22,47000.0,Male,Master,Kolonnawa
+669,64,6000.0,Male,High School,Piliyandala
+670,39,38000.0,Female,Bachelor,Bambalapitiya
+671,64,41000.0,Male,PhD,Union Place
+672,51,8000.0,Male,PhD,Aluthkade
+673,18,19000.0,Female,High School,Kotte
+674,43,18000.0,Male,PhD,Avissawella
+675,60,11000.0,Male,High School,Avissawella
+676,27,15000.0,Female,Master,Ratmalana
+677,47,13000.0,Male,Master,Colpetty
+678,67,53000.0,Female,PhD,Polgasowita
+679,35,35000.0,Female,PhD,Kolonnawa
+680,34,42000.0,Female,Bachelor,Dehiwala
+681,43,32000.0,Female,PhD,Colombo
+682,25,13000.0,Female,Bachelor,Kesbewa
+683,64,17000.0,Male,Master,Wellawatthe
+684,57,28000.0,Male,Master,Aluthkade
+685,66,12000.0,Female,High School,Havelock
+686,29,31000.0,Female,Master,Havelock
+687,44,20000.0,Male,Bachelor,Thimbirigasyaya
+688,25,18000.0,Female,PhD,Aluthkade
+689,42,31000.0,Female,High School,Aluthkade
+690,63,28000.0,Female,Bachelor,Wellawatthe
+691,21,18000.0,Male,PhD,Kesbewa
+692,50,39000.0,Male,High School,Padukka
+693,18,13000.0,Female,Master,Wellawatthe
+694,36,30000.0,Female,Bachelor,Pamankada
+695,48,30000.0,Male,PhD,Avissawella
+696,33,19000.0,Male,High School,Havelock
+697,31,26000.0,Female,High School,Havelock
+698,65,12000.0,Female,Master,Thimbirigasyaya
+699,22,35000.0,Male,PhD,Pamankada
+700,58,20000.0,Male,Master,Colpetty
+701,43,17000.0,Male,Master,Colombo
+702,45,37000.0,Female,PhD,Pamankada
+703,19,15000.0,Male,PhD,Colombo
+704,67,11000.0,Female,PhD,Avissawella
+705,23,10000.0,Male,Bachelor,Havelock
+706,26,30000.0,Male,PhD,Havelock
+707,50,12000.0,Male,High School,Ratmalana
+708,58,53000.0,Male,Master,Malabe
+709,42,8000.0,Female,Bachelor,Polgasowita
+710,65,51000.0,Female,PhD,Polgasowita
+711,30,24000.0,Male,Bachelor,Union Place
+712,26,21000.0,Female,PhD,Colombo
+713,30,17000.0,Male,Bachelor,Wellawatthe
+714,48,27000.0,Male,Master,Kolonnawa
+715,58,22000.0,Male,Master,Avissawella
+716,28,38000.0,Male,High School,Polgasowita
+717,21,23000.0,Female,High School,Colpetty
+718,51,24000.0,Male,PhD,Union Place
+719,55,18000.0,Male,Master,Malabe
+720,63,21000.0,Female,Bachelor,Dehiwala
+721,21,26000.0,Male,Bachelor,Thimbirigasyaya
+722,55,9000.0,Male,Bachelor,Aluthkade
+723,36,11000.0,Male,High School,Kotte
+724,23,32000.0,Female,Bachelor,Dehiwala
+725,51,24000.0,Male,High School,Dehiwala
+726,35,20000.0,Female,High School,Avissawella
+727,30,22000.0,Male,PhD,Kesbewa
+728,58,26000.0,Male,Bachelor,Kottawa
+729,40,17000.0,Female,Bachelor,Kesbewa
+730,36,15000.0,Male,Master,Piliyandala
+731,62,24000.0,Male,PhD,Union Place
+732,28,14000.0,Female,Master,Thimbirigasyaya
+733,18,27000.0,Female,PhD,Padukka
+734,41,9000.0,Female,Bachelor,Colpetty
+735,24,37000.0,Female,High School,Ratmalana
+736,42,28000.0,Female,High School,Havelock
+737,38,25000.0,Male,High School,Kottawa
+738,32,36000.0,Female,High School,Pamankada
+739,18,51000.0,Male,High School,Havelock
+740,29,37000.0,Male,Master,Avissawella
+741,24,9000.0,Male,PhD,Piliyandala
+742,32,12000.0,Female,Bachelor,Polgasowita
+743,38,16000.0,Female,Master,Bambalapitiya
+744,36,22000.0,Male,PhD,Dehiwala
+745,46,29000.0,Female,High School,Bambalapitiya
+746,42,15000.0,Female,PhD,Kesbewa
+747,50,24000.0,Female,PhD,Padukka
+748,66,15000.0,Female,High School,Padukka
+749,49,16000.0,Male,High School,Colpetty
+750,66,11000.0,Male,High School,Kottawa
+751,52,14000.0,Female,Bachelor,Aluthkade
+752,61,11000.0,Male,High School,Union Place
+753,55,14000.0,Female,Bachelor,Colombo
+754,43,37000.0,Female,High School,Aluthkade
+755,28,14000.0,Male,Bachelor,Kottawa
+756,52,82000.0,Male,PhD,Piliyandala
+757,25,28000.0,Male,Master,Colpetty
+758,63,24000.0,Female,PhD,Kolonnawa
+759,31,14000.0,Male,PhD,Ratmalana
+760,27,31000.0,Female,High School,Colpetty
+761,19,17000.0,Male,Bachelor,Aluthkade
+762,63,23000.0,Male,Master,Kolonnawa
+763,26,79000.0,Female,High School,Wellawatthe
+764,20,21000.0,Female,High School,Thimbirigasyaya
+765,38,39000.0,Female,High School,Havelock
+766,43,15000.0,Female,PhD,Avissawella
+767,25,22000.0,Female,Bachelor,Union Place
+768,65,53000.0,Female,Bachelor,Thimbirigasyaya
+769,19,16000.0,Female,Master,Polgasowita
+770,23,55000.0,Female,Bachelor,Moratuwa
+771,45,31000.0,Male,Bachelor,Union Place
+772,46,17000.0,Female,High School,Ratmalana
+773,43,30000.0,Female,High School,Piliyandala
+774,42,36000.0,Male,PhD,Kesbewa
+775,29,30000.0,Female,High School,Kesbewa
+776,22,10000.0,Male,High School,Moratuwa
+777,51,15000.0,Male,High School,Thimbirigasyaya
+778,65,19000.0,Female,High School,Havelock
+779,54,21000.0,Male,PhD,Aluthkade
+780,32,30000.0,Female,High School,Dehiwala
+781,61,24000.0,Male,Master,Kottawa
+782,53,11000.0,Male,Master,Colpetty
+783,32,27000.0,Male,Master,Kotte
+784,60,30000.0,Female,Master,Moratuwa
+785,65,29000.0,Female,High School,Dehiwala
+786,40,38000.0,Male,Master,Colpetty
+787,23,33000.0,Male,High School,Kottawa
+788,63,28000.0,Female,PhD,Polgasowita
+789,67,21000.0,Female,Master,Union Place
+790,61,10000.0,Male,Bachelor,Avissawella
+791,60,27000.0,Male,Master,Pamankada
+792,62,24000.0,Female,Master,Union Place
+793,38,25000.0,Female,High School,Bambalapitiya
+794,40,12000.0,Female,Master,Dehiwala
+795,60,13000.0,Female,Bachelor,Padukka
+796,33,37000.0,Female,High School,Bambalapitiya
+797,64,22000.0,Male,High School,Kottawa
+798,32,31000.0,Female,PhD,Colpetty
+799,42,22000.0,Male,PhD,Kesbewa
+800,53,22000.0,Female,Master,Bambalapitiya
